@@ -2088,9 +2088,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "外交",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngoai giao",
+    "abbrev": "NGo",
+    "status": "done"
   },
   {
     "id": "name_0FD2B0",
@@ -2101,9 +2101,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "人德",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhan duc",
+    "abbrev": "NDuc",
+    "status": "done"
   },
   {
     "id": "name_0FD2E0",
@@ -2114,9 +2114,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "士兵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Si binh",
+    "abbrev": "S.Bi",
+    "status": "done"
   },
   {
     "id": "name_0FD330",
@@ -2127,9 +2127,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "已建有",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Da co xay dung",
+    "abbrev": "Da co",
+    "status": "done"
   },
   {
     "id": "name_0FD338",
@@ -2140,9 +2140,9 @@
     "raw_bytes": 8,
     "ascii_max": 9,
     "original": "名新武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ten vo tuong moi",
+    "abbrev": "Vo tuong",
+    "status": "done"
   },
   {
     "id": "name_0FD368",
@@ -2153,9 +2153,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "刪除",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xoa",
+    "abbrev": "Xoa",
+    "status": "done"
   },
   {
     "id": "name_0FD3C0",
@@ -2166,9 +2166,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "十一",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Muoi mot",
+    "abbrev": "11",
+    "status": "done"
   },
   {
     "id": "name_0FD408",
@@ -2179,9 +2179,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "始執行本",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bat dau thuc hien",
+    "abbrev": "Thuc hi",
+    "status": "done"
   },
   {
     "id": "name_0FD410",
@@ -2192,9 +2192,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "月所下達",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lenh thang nay",
+    "abbrev": "Lenh",
+    "status": "done"
   },
   {
     "id": "name_0FD418",
@@ -2205,9 +2205,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "之政令",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chinh lenh",
+    "abbrev": "Chinh",
+    "status": "done"
   },
   {
     "id": "name_0FD428",
@@ -2218,9 +2218,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "主不在此",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan chu khong o day",
+    "abbrev": "K.QC",
+    "status": "done"
   },
   {
     "id": "name_0FD430",
@@ -2231,9 +2231,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "郡縣內",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trong quan huyen",
+    "abbrev": "Tr.Q",
+    "status": "done"
   },
   {
     "id": "name_0FD438",
@@ -2244,9 +2244,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "語音",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Am thanh",
+    "abbrev": "Am",
+    "status": "done"
   },
   {
     "id": "name_0FD440",
@@ -2257,9 +2257,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "開啟",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mo",
+    "abbrev": "Mo",
+    "status": "done"
   },
   {
     "id": "name_0FD448",
@@ -2270,9 +2270,9 @@
     "raw_bytes": 8,
     "ascii_max": 9,
     "original": "語音關閉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tat am thanh",
+    "abbrev": "Tat am",
+    "status": "done"
   },
   {
     "id": "name_0FD450",
@@ -2283,9 +2283,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "音樂",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhac",
+    "abbrev": "Nhac",
+    "status": "done"
   },
   {
     "id": "name_0FD460",
@@ -2296,9 +2296,9 @@
     "raw_bytes": 8,
     "ascii_max": 9,
     "original": "音樂關閉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tat nhac",
+    "abbrev": "Tat nhac",
+    "status": "done"
   },
   {
     "id": "name_0FD470",
@@ -2309,9 +2309,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "息是為了",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nghi de di xa hon",
+    "abbrev": "Nghi",
+    "status": "done"
   },
   {
     "id": "name_0FD478",
@@ -2322,9 +2322,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "走更長的",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Di duong xa hon",
+    "abbrev": "Di xa",
+    "status": "done"
   },
   {
     "id": "name_0FD480",
@@ -2335,9 +2335,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "確定",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xac nhan",
+    "abbrev": "OK",
+    "status": "done"
   },
   {
     "id": "name_0FD488",
@@ -2348,9 +2348,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "結束遊戲",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ket thuc game",
+    "abbrev": "Ket game",
+    "status": "done"
   },
   {
     "id": "name_0FD4B8",
@@ -2361,9 +2361,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "下達命令",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ra lenh",
+    "abbrev": "Ra lenh",
+    "status": "done"
   },
   {
     "id": "name_0FD4F0",
@@ -2374,9 +2374,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "請選",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon",
+    "abbrev": "Chon",
+    "status": "done"
   },
   {
     "id": "name_0FD4F8",
@@ -2387,9 +2387,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "擇存檔的",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chon file luu",
+    "abbrev": "Ch.Save",
+    "status": "done"
   },
   {
     "id": "name_0FD500",
@@ -2400,9 +2400,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "位置",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vi tri",
+    "abbrev": "ViTri",
+    "status": "done"
   },
   {
     "id": "name_0FD508",
@@ -2413,9 +2413,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "該位置",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vi tri nay",
+    "abbrev": "Vi tri",
+    "status": "done"
   },
   {
     "id": "name_0FD510",
@@ -2426,9 +2426,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "已有存放",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Da co du lieu",
+    "abbrev": "Da luu",
+    "status": "done"
   },
   {
     "id": "name_0FD518",
@@ -2439,9 +2439,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "資料",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Du lieu",
+    "abbrev": "Data",
+    "status": "done"
   },
   {
     "id": "name_0FD520",
@@ -2452,9 +2452,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "否覆蓋舊",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ghi de file cu",
+    "abbrev": "Ghi de",
+    "status": "done"
   },
   {
     "id": "name_0FD528",
@@ -2465,9 +2465,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "檔案",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tap tin",
+    "abbrev": "File",
+    "status": "done"
   },
   {
     "id": "name_0FD548",
@@ -2478,9 +2478,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "請稍等",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vui long doi",
+    "abbrev": "Doi",
+    "status": "done"
   },
   {
     "id": "name_0FD550",
@@ -2491,9 +2491,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "存寫資",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dang luu du lieu",
+    "abbrev": "D.Luu",
+    "status": "done"
   },
   {
     "id": "name_0FD558",
@@ -2504,9 +2504,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "料中",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dang ghi",
+    "abbrev": "Ghi",
+    "status": "done"
   },
   {
     "id": "name_0FD568",
@@ -2517,9 +2517,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "存放完畢",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu xong",
+    "abbrev": "Luu xong",
+    "status": "done"
   },
   {
     "id": "name_0FD570",
@@ -2530,9 +2530,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "請按鍵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhan phim",
+    "abbrev": "Nhan",
+    "status": "done"
   },
   {
     "id": "name_0FD578",
@@ -2543,9 +2543,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "繼續",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tiep tuc",
+    "abbrev": "Tiep",
+    "status": "done"
   },
   {
     "id": "name_0FD5A8",
@@ -2556,9 +2556,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "擇取檔的",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chon file",
+    "abbrev": "Ch.File",
+    "status": "done"
   },
   {
     "id": "name_0FD5B0",
@@ -2569,9 +2569,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "編號",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "So hieu",
+    "abbrev": "So",
+    "status": "done"
   },
   {
     "id": "name_0FD5C0",
@@ -2582,9 +2582,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "檔案載",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dang tai file",
+    "abbrev": "Tai",
+    "status": "done"
   },
   {
     "id": "name_0FD5C8",
@@ -2595,9 +2595,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "入中",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dang nap",
+    "abbrev": "Nap",
+    "status": "done"
   },
   {
     "id": "name_0FD5D0",
@@ -2608,9 +2608,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "是載入",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tai vao",
+    "abbrev": "Load",
+    "status": "done"
   },
   {
     "id": "name_0FD5D8",
@@ -2621,9 +2621,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "完畢",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoan tat",
+    "abbrev": "Xong",
+    "status": "done"
   },
   {
     "id": "name_0FD5E0",
@@ -2634,9 +2634,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "按鍵繼續",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhan phim tiep",
+    "abbrev": "N.Tiep",
+    "status": "done"
   },
   {
     "id": "name_0FD5F0",
@@ -2647,9 +2647,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "請選擇要",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon",
+    "abbrev": "Hay chon",
+    "status": "done"
   },
   {
     "id": "name_0FD608",
@@ -2660,9 +2660,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "姿猼滌",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "name_0FD660",
@@ -2673,9 +2673,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "車司馬",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xe tu ma",
+    "abbrev": "Tu ma",
+    "status": "done"
   },
   {
     "id": "name_0FD698",
@@ -2686,9 +2686,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "統御提",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thong nguc tang",
+    "abbrev": "TN up",
+    "status": "done"
   },
   {
     "id": "name_0FD6A0",
@@ -2699,9 +2699,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "升至",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tang len",
+    "abbrev": "Tang",
+    "status": "done"
   },
   {
     "id": "name_0FD6A8",
@@ -2712,9 +2712,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "兵法提",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Binh phap tang",
+    "abbrev": "BP up",
+    "status": "done"
   },
   {
     "id": "name_0FD6B8",
@@ -2725,9 +2725,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "人德提",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhan duc tang",
+    "abbrev": "ND up",
+    "status": "done"
   },
   {
     "id": "name_0FD748",
@@ -2738,9 +2738,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "政治提",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chinh tri tang",
+    "abbrev": "CT up",
+    "status": "done"
   },
   {
     "id": "name_0FD7C8",
@@ -2751,9 +2751,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "外交提",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngoai giao tang",
+    "abbrev": "NG up",
+    "status": "done"
   },
   {
     "id": "name_0FD860",
@@ -2764,9 +2764,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "投效",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dau hang",
+    "abbrev": "Dau",
+    "status": "done"
   },
   {
     "id": "name_0FD880",
@@ -2777,9 +2777,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "確定執行",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xac nhan thuc hien",
+    "abbrev": "Xac nhan",
+    "status": "done"
   },
   {
     "id": "name_0FD9C0",
@@ -2790,9 +2790,9 @@
     "raw_bytes": 8,
     "ascii_max": 9,
     "original": "三國演義",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tam Quoc Dien Nghia",
+    "abbrev": "3 Quoc",
+    "status": "done"
   },
   {
     "id": "name_0FD9F0",
@@ -2803,9 +2803,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "郡目前受",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan do duoc uy",
+    "abbrev": "Uy quan",
+    "status": "done"
   },
   {
     "id": "name_0FD9F8",
@@ -2816,9 +2816,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "電腦委任",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "May tinh bo nhiem",
+    "abbrev": "Bo nhiem",
+    "status": "done"
   },
   {
     "id": "name_0FDA18",
@@ -2829,9 +2829,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "命令",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lenh",
+    "abbrev": "Lenh",
+    "status": "done"
   },
   {
     "id": "name_0FDA90",
@@ -2842,9 +2842,9 @@
     "raw_bytes": 4,
     "ascii_max": 6,
     "original": "俘虜",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu binh",
+    "abbrev": "Tu bi",
+    "status": "done"
   },
   {
     "id": "name_0FDA98",
@@ -2855,9 +2855,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "受傷",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bi thuong",
+    "abbrev": "Thuon",
+    "status": "done"
   },
   {
     "id": "name_0FDAA0",
@@ -2868,9 +2868,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "生病",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bi benh",
+    "abbrev": "Benh",
+    "status": "done"
   },
   {
     "id": "name_0FDAA8",
@@ -2881,9 +2881,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "現役",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dang phuc vu",
+    "abbrev": "H.Phu",
+    "status": "done"
   },
   {
     "id": "name_0FDB38",
@@ -2894,9 +2894,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "武器",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vu khi",
+    "abbrev": "VKhi",
+    "status": "done"
   },
   {
     "id": "name_0FDB78",
@@ -2907,9 +2907,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "兵數",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "So binh",
+    "abbrev": "Binh",
+    "status": "done"
   },
   {
     "id": "name_0FDBF8",
@@ -2920,9 +2920,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "繼任大",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke vi lon",
+    "abbrev": "Ke vi",
+    "status": "done"
   },
   {
     "id": "name_0FDC08",
@@ -2933,9 +2933,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "君主",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan chu",
+    "abbrev": "Q.Ch",
+    "status": "done"
   },
   {
     "id": "name_0FDC40",
@@ -2946,9 +2946,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "繼任大位",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke vi quan chu",
+    "abbrev": "Ke vi",
+    "status": "done"
   },
   {
     "id": "name_0FDC78",
@@ -2959,9 +2959,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "又無人",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong ai ke vi",
+    "abbrev": "K.Ai",
+    "status": "done"
   },
   {
     "id": "name_0FDC98",
@@ -2972,9 +2972,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "統一",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thong nhat",
+    "abbrev": "T.Nh",
+    "status": "done"
   },
   {
     "id": "name_0FDCA0",
@@ -2985,9 +2985,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "大業終成",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dai nghiep thanh",
+    "abbrev": "Thanh",
+    "status": "done"
   },
   {
     "id": "name_0FDCA8",
@@ -2998,9 +2998,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "春秋大夢",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Giac mong dai",
+    "abbrev": "Giac mo",
+    "status": "done"
   },
   {
     "id": "name_0FDCB0",
@@ -3011,9 +3011,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "遊戲終",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Game ket thuc",
+    "abbrev": "Het",
+    "status": "done"
   },
   {
     "id": "name_0FDCD0",
@@ -3024,9 +3024,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "郡逃回",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chay ve quan",
+    "abbrev": "Chay",
+    "status": "done"
   },
   {
     "id": "name_0FDCD8",
@@ -3037,9 +3037,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "京城",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Kinh thanh",
+    "abbrev": "Kinh",
+    "status": "done"
   },
   {
     "id": "name_0FDCF8",
@@ -3050,9 +3050,9 @@
     "raw_bytes": 8,
     "ascii_max": 8,
     "original": "郡逃回京",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chay ve kinh",
+    "abbrev": "Ve kinh",
+    "status": "done"
   },
   {
     "id": "name_0FDD20",
@@ -3063,9 +3063,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "承淵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thua Uyen",
+    "abbrev": "T.Uye",
+    "status": "done"
   },
   {
     "id": "name_0FDD40",
@@ -3076,9 +3076,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "敬禮",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Kinh Le",
+    "abbrev": "K.Le",
+    "status": "done"
   },
   {
     "id": "name_0FDD60",
@@ -3089,9 +3089,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "兀突",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngoc Dot",
+    "abbrev": "Dot",
+    "status": "done"
   },
   {
     "id": "name_0FDD78",
@@ -3102,9 +3102,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "子服",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu Phuc",
+    "abbrev": "T.Ph",
+    "status": "done"
   },
   {
     "id": "name_0FDDB0",
@@ -3115,9 +3115,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "訄磥",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "name_0FDDD0",

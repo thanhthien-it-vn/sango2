@@ -10,7 +10,7 @@
 
 ## Phase 1 - Ten tuong / vat pham (~900 chuoi)
 
-- [ ] `name.json` - ten quan, tuong, vat pham (160/620 done - batch 1-2)
+- [ ] `name.json` - ten quan, tuong, vat pham (240/620 done - batch 1-3)
 - [ ] Thong nhat bang ten trong HUONG-DAN-VIET-TAT
 
 ## Phase 2 - Menu / UI (~700 chuoi)

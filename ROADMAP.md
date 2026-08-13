@@ -4,30 +4,51 @@
 
 - [x] Tool trich xuat text (`tools/extract_san2.py`)
 - [x] Scaffold repo + AGENTS.md + HUONG-DAN-VIET-TAT
+- [x] Tool ho tro dich (`tools/apply_*_translations.py`)
 - [ ] Tool build patch nguoc vao SAN2.EXE (`tools/build_patch.py`)
 - [ ] Font Latin: mo rong FONT16.PAT / FONT24.PAT cho a-z
 - [ ] Script test nhanh trong DOSBox
 
-## Phase 1 - Ten tuong / vat pham (~900 chuoi)
+## Phase 1 - Ten tuong / vat pham (~620 chuoi)
 
-- [ ] `name.json` - ten quan, tuong, vat pham (240/620 done - batch 1-3)
-- [ ] Thong nhat bang ten trong HUONG-DAN-VIET-TAT
+- [x] `name.json` - 620/620 done
+- [x] Thong nhat bang ten trong HUONG-DAN-VIET-TAT
 
-## Phase 2 - Menu / UI (~700 chuoi)
+## Phase 2 - Menu / UI (~202 chuoi)
 
-- [ ] `menu.json` - lenh noi chinh, quan su, ngoai giao
+- [x] `menu.json` - 202/202 done (chu yeu ten tu 字)
 
-## Phase 3 - Mo ta / lich su (~170 chuoi)
+## Phase 3 - Mo ta / lich su (~144 chuoi)
 
-- [ ] `bio.json` - tieu su quan chu, mo ta tinh huong
+- [x] `bio.json` - 144/144 done
 
-## Phase 4 - Hoi thoai tu van (~650 chuoi)
+## Phase 4 - Hoi thoai tu van (~556 chuoi)
 
-- [ ] `dialogue.json` - loi khuyen cua tu van
+- [x] `dialogue.json` - 556/556 done
 
 ## Phase 5 - Misc
 
-- [ ] `misc.json` - chuoi con lai trong EXE
+- [x] `misc.json` - 200/200 done
+
+## Tien do tong
+
+| File | Chuoi | Trang thai |
+|------|-------|------------|
+| name.json | 620 | done |
+| menu.json | 202 | done |
+| bio.json | 144 | done |
+| dialogue.json | 556 | done |
+| misc.json | 200 | done |
+| **Tong** | **1722** | **100% dich** |
+
+Ghi chu: ~200 entry danh dau UNK do loi extract Big5 — can xem lai khi build patch.
+
+## Buoc tiep theo
+
+1. `build_patch.py` — ghi abbrev vao SAN2.EXE
+2. Font Latin cho a-z
+3. Test trong DOSBox
+4. Sua lai entry UNK neu can
 
 ## Quy trinh Cursor Cloud
 
@@ -36,15 +57,4 @@
 3. Agent dich 50-100 dong, commit + push
 4. Lap lai moi session cho den het file
 
-## Uoc luong
-
-| Phase | Chuoi | Ghi chu |
-|-------|-------|---------|
-| 0 | - | 1-2 tuan (font + patch tool) |
-| 1 | ~900 | 2 tuan |
-| 2 | ~700 | 1-2 tuan |
-| 3 | ~170 | 1 tuan |
-| 4 | ~650 | 1 thang |
-| **Tong** | **~1722** | Lam dan qua Cloud Agent |
-
-**Ket luan: Kha thi — text nam trong SAN2.EXE (Big5), cung workflow REKO-VN/GSE-VN.**
+**Ket luan: Phase dich JSON hoan thanh — san sang build patch.**

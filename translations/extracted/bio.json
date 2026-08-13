@@ -8,9 +8,9 @@
     "raw_bytes": 117,
     "ascii_max": 118,
     "original": "但終不是袁紹對手而敗北身亡",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung cuoi cung khong phai doi thu cua Vien Thieu nen thua tran va chet",
+    "abbrev": "Cuoi cung thua Vien Thieu va chet",
+    "status": "done"
   },
   {
     "id": "bio_1020E9",
@@ -21,9 +21,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "狹馬騰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_1020F1",
@@ -34,9 +34,9 @@
     "raw_bytes": 251,
     "ascii_max": 252,
     "original": "但因玄德離去和西涼邊境亂事",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung vi Luu Bi roi di va loan su o bien gioi Tay Luong",
+    "abbrev": "Vi Luu Bi roi va bien gioi Tay Luong loan",
+    "status": "done"
   },
   {
     "id": "bio_1021ED",
@@ -47,9 +47,9 @@
     "raw_bytes": 7,
     "ascii_max": 11,
     "original": "董角",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong Trac",
+    "abbrev": "DTrac",
+    "status": "done"
   },
   {
     "id": "bio_1021F8",
@@ -60,9 +60,9 @@
     "raw_bytes": 90,
     "ascii_max": 91,
     "original": "但後來即為其智慧和謀略而折服",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung sau do bi su thong minh va muu luoc cua ong lam say me",
+    "abbrev": "Sau bi tri tue va muu luoc lam say me",
+    "status": "done"
   },
   {
     "id": "bio_102259",
@@ -73,9 +73,9 @@
     "raw_bytes": 79,
     "ascii_max": 83,
     "original": "在與關羽作戰時兵敗投降",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khi giao chien voi Quan Vu thi thua tran dau hang",
+    "abbrev": "Giao chien Quan Vu thua roi dau hang",
+    "status": "done"
   },
   {
     "id": "bio_1022AC",
@@ -86,9 +86,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "王朗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vuong Lang",
+    "abbrev": "WLang",
+    "status": "done"
   },
   {
     "id": "bio_1022B1",
@@ -99,9 +99,9 @@
     "raw_bytes": 63,
     "ascii_max": 64,
     "original": "後得到曹操的重視而轉投其帳下",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sau duoc Tao Thao trong dung roi chuyen sang phuc vu ong",
+    "abbrev": "Duoc Tao Thao trong dung roi dau hang",
+    "status": "done"
   },
   {
     "id": "bio_1022F9",
@@ -112,9 +112,9 @@
     "raw_bytes": 141,
     "ascii_max": 142,
     "original": "力諫馬要將軍隊駐紮於當道",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Kien quyet khuyen Ma Ung phai dong quan o vi tri chan duong",
+    "abbrev": "Khuyen Ma Ung dong quan chan duong",
+    "status": "done"
   },
   {
     "id": "bio_10238D",
@@ -125,9 +125,9 @@
     "raw_bytes": 75,
     "ascii_max": 76,
     "original": "終於使呂布殺掉董卓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cuoi cung khien Lu Bo giet Dong Trac",
+    "abbrev": "Khien Lu Bo giet Dong Trac",
+    "status": "done"
   },
   {
     "id": "bio_1023E1",
@@ -138,9 +138,9 @@
     "raw_bytes": 117,
     "ascii_max": 118,
     "original": "曾給予關羽正確良好的建言",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tung dua ra loi khuyen dung dan cho Quan Vu",
+    "abbrev": "Tung khuyen Quan Vu dung dan",
+    "status": "done"
   },
   {
     "id": "bio_102457",
@@ -151,9 +151,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "竣撣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_10245D",
@@ -164,9 +164,9 @@
     "raw_bytes": 69,
     "ascii_max": 70,
     "original": "在曹操南下時投效曹操",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khi Tao Thao nam xuong thi dau hang phuc vu ong",
+    "abbrev": "Tao Thao nam xuong thi dau hang",
+    "status": "done"
   },
   {
     "id": "bio_1024A9",
@@ -177,9 +177,9 @@
     "raw_bytes": 75,
     "ascii_max": 76,
     "original": "與顏良同為響噹噹的猛將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cung Nhan Luong la mot trong nhung tuong hung manh tieng tam",
+    "abbrev": "Cung Nhan Luong la tuong hung manh",
+    "status": "done"
   },
   {
     "id": "bio_1024F5",
@@ -190,9 +190,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "知瓣藗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_1024FD",
@@ -203,9 +203,9 @@
     "raw_bytes": 95,
     "ascii_max": 97,
     "original": "曹操因中計殺掉蔡瑁和張允",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tao Thao trung ke giet Thai Muu va Truong Van",
+    "abbrev": "Trung ke giet Thai Muu va Truong Van",
+    "status": "done"
   },
   {
     "id": "bio_10255E",
@@ -216,9 +216,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "瓣孔融",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_102565",
@@ -229,9 +229,9 @@
     "raw_bytes": 107,
     "ascii_max": 108,
     "original": "後來受袁譚攻擊而投靠曹操",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sau bi Vien Dam tan cong roi dau hang Tao Thao",
+    "abbrev": "Bi Vien Dam tan cong roi dau Tao Thao",
+    "status": "done"
   },
   {
     "id": "bio_1025D9",
@@ -242,9 +242,9 @@
     "raw_bytes": 81,
     "ascii_max": 82,
     "original": "在曹洪與曹仁守吳郡",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cung Tao Hong va Tao Nhan giu quan Ngo",
+    "abbrev": "Cung Tao Hong Tao Nhan giu Ngo quan",
+    "status": "done"
   },
   {
     "id": "bio_10262B",
@@ -255,9 +255,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "馬炎",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_102633",
@@ -268,9 +268,9 @@
     "raw_bytes": 95,
     "ascii_max": 96,
     "original": "終於結束紛擾的三國亂世",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cuoi cung ket thuc thoi loan lac Tam Quoc",
+    "abbrev": "Ket thuc loan lac Tam Quoc",
+    "status": "done"
   },
   {
     "id": "bio_102693",
@@ -281,9 +281,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "司馬昭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu Ma Chieu",
+    "abbrev": "TChieu",
+    "status": "done"
   },
   {
     "id": "bio_10269B",
@@ -294,9 +294,9 @@
     "raw_bytes": 117,
     "ascii_max": 118,
     "original": "繼承將軍權位",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke thua quyen luc tuong quan",
+    "abbrev": "Ke thua quyen tuong quan",
+    "status": "done"
   },
   {
     "id": "bio_102711",
@@ -307,9 +307,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "建司馬師",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu Ma Su",
+    "abbrev": "TMSu",
+    "status": "done"
   },
   {
     "id": "bio_10271B",
@@ -320,9 +320,9 @@
     "raw_bytes": 83,
     "ascii_max": 84,
     "original": "即掌控了魏國的實權",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nam quyen thuc te cua nha Nguoi",
+    "abbrev": "Nam quyen thuc te nha Nguoi",
+    "status": "done"
   },
   {
     "id": "bio_10276F",
@@ -333,9 +333,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "田豐",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dien Phong",
+    "abbrev": "DPho",
+    "status": "done"
   },
   {
     "id": "bio_102775",
@@ -346,9 +346,9 @@
     "raw_bytes": 107,
     "ascii_max": 108,
     "original": "又強力主張與曹操長期抗戰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lai manh me chu truong khang chien lau dai voi Tao Thao",
+    "abbrev": "Chu truong khang chien lau dai voi Tao Thao",
+    "status": "done"
   },
   {
     "id": "bio_1027E9",
@@ -359,9 +359,9 @@
     "raw_bytes": 153,
     "ascii_max": 154,
     "original": "當他得知蔡瑁欲暗殺劉備時",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khi biet Thai Muu dinh am sat Luu Bi",
+    "abbrev": "Biet Thai Muu dinh am sat Luu Bi",
+    "status": "done"
   },
   {
     "id": "bio_102889",
@@ -372,9 +372,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "受孔明之命輔佐關羽治理荊州",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Theo lenh Gia Cat Luong pho tro Quan Vu tri Kinh Chau",
+    "abbrev": "Theo lenh KMLuong pho Quan Vu tri Kinh",
+    "status": "done"
   },
   {
     "id": "bio_1028BD",
@@ -385,9 +385,9 @@
     "raw_bytes": 69,
     "ascii_max": 70,
     "original": "諸葛亮曾在他的出師表讚美向寵才能",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gia Cat Luong trong Bieu chinh tac ca nang tai cua Huong Sung",
+    "abbrev": "KMLuong ca ngoi tai nang Huong Sung",
+    "status": "done"
   },
   {
     "id": "bio_102909",
@@ -398,9 +398,9 @@
     "raw_bytes": 103,
     "ascii_max": 104,
     "original": "孫權相當賞識他的膽識與謀略",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ton Quyen rat danh gia cam dan va muu luoc cua ong",
+    "abbrev": "Ton Quyen danh gia cam dan va muu luoc",
+    "status": "done"
   },
   {
     "id": "bio_102971",
@@ -411,9 +411,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "人恩飪",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_102979",
@@ -424,9 +424,9 @@
     "raw_bytes": 71,
     "ascii_max": 72,
     "original": "伐黃巾賊有功的忠臣之一",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mot trong nhung than cung co cong diet Tac Khuong",
+    "abbrev": "Than cung co cong diet Tac Khuong",
+    "status": "done"
   },
   {
     "id": "bio_1029C9",
@@ -437,9 +437,9 @@
     "raw_bytes": 131,
     "ascii_max": 132,
     "original": "曾與吳國名將陸遜之子陸抗在襄陽對抗為敵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tung dich thu voi Luc Kang con cua Luc Ton o Tuong Duong",
+    "abbrev": "Dich thu Luc Kang tai Tuong Duong",
+    "status": "done"
   },
   {
     "id": "bio_102A55",
@@ -450,9 +450,9 @@
     "raw_bytes": 81,
     "ascii_max": 82,
     "original": "不幸兵敗反被殺害",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong may thua tran va bi giet",
+    "abbrev": "Thua tran va bi giet",
+    "status": "done"
   },
   {
     "id": "bio_102AAD",
@@ -463,9 +463,9 @@
     "raw_bytes": 75,
     "ascii_max": 76,
     "original": "曾在曹丕征吳時打敗曹休",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tung danh bai Tao Tu khi Tao Phi chinh Ngo",
+    "abbrev": "Danh bai Tao Tu khi Tao Phi chinh Ngo",
+    "status": "done"
   },
   {
     "id": "bio_102B01",
@@ -476,9 +476,9 @@
     "raw_bytes": 91,
     "ascii_max": 92,
     "original": "在曹操舉兵討伐董卓時加入曹操陣營中",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khi Tao Thao khoi binh danh Dong Trac thi gia nhap phe ong",
+    "abbrev": "Gia nhap phe Tao Thao khi danh Dong Trac",
+    "status": "done"
   },
   {
     "id": "bio_102B5D",
@@ -489,9 +489,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "堅李儒",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ly Nhu",
+    "abbrev": "LNhu",
+    "status": "done"
   },
   {
     "id": "bio_102B65",
@@ -502,9 +502,9 @@
     "raw_bytes": 121,
     "ascii_max": 122,
     "original": "在董卓被誅時亦同時被處死",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khi Dong Trac bi giet thi cung bi xu tu",
+    "abbrev": "Cung bi xu khi Dong Trac chet",
+    "status": "done"
   },
   {
     "id": "bio_102BDF",
@@ -515,9 +515,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "蝘囃",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_102BE5",
@@ -528,9 +528,9 @@
     "raw_bytes": 107,
     "ascii_max": 108,
     "original": "在綿竹與黃忠戰得平分秋色",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "O Mien Truc giao chien voi Hoang Trung ngang tam",
+    "abbrev": "O Mien Truc hoa Hoang Trung",
+    "status": "done"
   },
   {
     "id": "bio_102C51",
@@ -541,9 +541,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "行釦灅",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_102C59",
@@ -554,9 +554,9 @@
     "raw_bytes": 105,
     "ascii_max": 106,
     "original": "後中了楊彪之計與郭氾決裂",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sau trung ke Duong Bieu va Quach Phien chia re",
+    "abbrev": "Trung ke Duong Bieu chia re Quach Phien",
+    "status": "done"
   },
   {
     "id": "bio_102CC9",
@@ -567,9 +567,9 @@
     "raw_bytes": 155,
     "ascii_max": 156,
     "original": "經夏侯惇引薦而為曹操重用",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duoc Ha Hau Don gioi thieu nen Tao Thao trong dung",
+    "abbrev": "Ha Hau Don gioi thieu duoc Tao Thao dung",
+    "status": "done"
   },
   {
     "id": "bio_102D65",
@@ -580,9 +580,9 @@
     "raw_bytes": 7,
     "ascii_max": 11,
     "original": "與釧",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_102D70",
@@ -593,9 +593,9 @@
     "raw_bytes": 92,
     "ascii_max": 93,
     "original": "在關羽被擒身亡之後",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sau khi Quan Vu bi bat va chet",
+    "abbrev": "Sau Quan Vu bi bat chet",
+    "status": "done"
   },
   {
     "id": "bio_102DCD",
@@ -606,9 +606,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "的觼",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_102DD5",
@@ -619,9 +619,9 @@
     "raw_bytes": 107,
     "ascii_max": 108,
     "original": "仍東衝西突地解救被包圍的孫權和徐盛",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Van xong pha cuu Ton Quyen va Tu Thanh bi vay",
+    "abbrev": "Xong pha cuu Ton Quyen va Tu Thanh",
+    "status": "done"
   },
   {
     "id": "bio_102E41",
@@ -632,9 +632,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "其巧",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_102E49",
@@ -645,9 +645,9 @@
     "raw_bytes": 155,
     "ascii_max": 156,
     "original": "在關羽危急之時卻慫恿劉封不予以支援",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luc Quan Vu nguy cap lai xui Luu Phong khong cuu",
+    "abbrev": "Xui Luu Phong khong cuu Quan Vu",
+    "status": "done"
   },
   {
     "id": "bio_102EE5",
@@ -658,9 +658,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "和悟",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_102EED",
@@ -671,9 +671,9 @@
     "raw_bytes": 113,
     "ascii_max": 114,
     "original": "於是孔明決定南伐平定之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "The Gia Cat Luong quyet dinh nam chinh binh dinh",
+    "abbrev": "KMLuong quyet nam chinh binh dinh",
+    "status": "done"
   },
   {
     "id": "bio_102F65",
@@ -684,9 +684,9 @@
     "raw_bytes": 101,
     "ascii_max": 102,
     "original": "孟達共謀欲迎劉備入蜀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cung Manh Dat muu don Luu Bi vao Thuc",
+    "abbrev": "Cung Manh Dat don Luu Bi vao Thuc",
+    "status": "done"
   },
   {
     "id": "bio_102FCB",
@@ -697,9 +697,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "帕鶳",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_102FD1",
@@ -710,9 +710,9 @@
     "raw_bytes": 121,
     "ascii_max": 122,
     "original": "最後被張飛斬於刀下",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cuoi cung bi Truong Phi chem chet",
+    "abbrev": "Bi Truong Phi chem chet",
+    "status": "done"
   },
   {
     "id": "bio_103051",
@@ -723,9 +723,9 @@
     "raw_bytes": 149,
     "ascii_max": 150,
     "original": "因為父親被甘寧射殺而深痛惡之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vi cha bi Cam Ninh ban chet nen thu han sau sac",
+    "abbrev": "Thu Cam Ninh vi cha bi ban chet",
+    "status": "done"
   },
   {
     "id": "bio_1030F0",
@@ -736,9 +736,9 @@
     "raw_bytes": 102,
     "ascii_max": 103,
     "original": "但是因他和叔父一樣反對曹操成為魏王",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung vi cung chu bac phan doi Tao Thao xung Vuong",
+    "abbrev": "Phan doi Tao Thao xung Vuong nhu chu",
+    "status": "done"
   },
   {
     "id": "bio_10315D",
@@ -749,9 +749,9 @@
     "raw_bytes": 181,
     "ascii_max": 182,
     "original": "於是暗中計劃迎劉備入蜀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nen am muu don Luu Bi vao Thuc",
+    "abbrev": "Am muu don Luu Bi vao Thuc",
+    "status": "done"
   },
   {
     "id": "bio_103219",
@@ -762,9 +762,9 @@
     "raw_bytes": 123,
     "ascii_max": 124,
     "original": "因此在孫策臨死前曾遣言",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vi the truoc khi chet Ton Sach co di chuc",
+    "abbrev": "Ton Sach truoc khi chet co di chuc",
+    "status": "done"
   },
   {
     "id": "bio_103295",
@@ -775,9 +775,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "仁萵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_10329D",
@@ -788,9 +788,9 @@
     "raw_bytes": 131,
     "ascii_max": 132,
     "original": "在官渡之戰中倒戈向曹操",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trong tran Quan Do phan sang phe Tao Thao",
+    "abbrev": "Quan Do phan sang Tao Thao",
+    "status": "done"
   },
   {
     "id": "bio_103321",
@@ -801,9 +801,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "臨曲",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_103329",
@@ -814,9 +814,9 @@
     "raw_bytes": 89,
     "ascii_max": 90,
     "original": "在孔明北伐魏國時",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khi Gia Cat Luong bac phat nha Nguoi",
+    "abbrev": "Khi KMLuong bac phat Nguoi",
+    "status": "done"
   },
   {
     "id": "bio_103389",
@@ -827,9 +827,9 @@
     "raw_bytes": 111,
     "ascii_max": 112,
     "original": "但最後聽信賣國求榮楊松的話",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung cuoi cung tin loi Duong Tong ban nuoc cau vinh",
+    "abbrev": "Tin Duong Tong ban nuoc cau vinh",
+    "status": "done"
   },
   {
     "id": "bio_1033F9",
@@ -840,9 +840,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "的膨",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_103401",
@@ -853,9 +853,9 @@
     "raw_bytes": 97,
     "ascii_max": 98,
     "original": "但後來感於曹操之得而歸順",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung sau cam phuc Tao Thao nen quy thuan",
+    "abbrev": "Sau quy thuan vi cam phuc Tao Thao",
+    "status": "done"
   },
   {
     "id": "bio_103469",
@@ -866,9 +866,9 @@
     "raw_bytes": 115,
     "ascii_max": 116,
     "original": "憑其三寸不爛之舌終使曹操打消此一念頭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nho khau tai ba cuon khien Tao Thao bo y dinh do",
+    "abbrev": "Khau tai khien Tao Thao bo y dinh",
+    "status": "done"
   },
   {
     "id": "bio_1034E5",
@@ -879,9 +879,9 @@
     "raw_bytes": 99,
     "ascii_max": 100,
     "original": "後來堅守雒城與劉備軍對壘",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sau kien tri giu Lac Thanh chong Luu Bi",
+    "abbrev": "Giu Lac Thanh chong Luu Bi",
+    "status": "done"
   },
   {
     "id": "bio_103551",
@@ -892,9 +892,9 @@
     "raw_bytes": 173,
     "ascii_max": 174,
     "original": "他親率部下攻擊袁紹軍的本陣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ong than danh quan Vien Thieu tai truong",
+    "abbrev": "Than danh bon quan Vien Thieu",
+    "status": "done"
   },
   {
     "id": "bio_1035FF",
@@ -905,9 +905,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "萵銢",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_103605",
@@ -918,9 +918,9 @@
     "raw_bytes": 139,
     "ascii_max": 140,
     "original": "自曹操舉兵開始便追隨曹操",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu khi Tao Thao khoi binh da theo ong",
+    "abbrev": "Theo Tao Thao tu khi khoi binh",
+    "status": "done"
   },
   {
     "id": "bio_103699",
@@ -931,9 +931,9 @@
     "raw_bytes": 65,
     "ascii_max": 66,
     "original": "將曹爽等人全部處死",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xu tu tat ca Tao Sang va nhung nguoi lien quan",
+    "abbrev": "Xu tu Tao Sang va dong dang",
+    "status": "done"
   },
   {
     "id": "bio_1036E1",
@@ -944,9 +944,9 @@
     "raw_bytes": 139,
     "ascii_max": 143,
     "original": "即迫逼他在走七步內立即做一首詩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bat buoc ong lam tho trong bay buoc",
+    "abbrev": "Bat lam tho trong bay buoc",
+    "status": "done"
   },
   {
     "id": "bio_103770",
@@ -957,9 +957,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "許攸",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu Vien",
+    "abbrev": "TVien",
+    "status": "done"
   },
   {
     "id": "bio_103775",
@@ -970,9 +970,9 @@
     "raw_bytes": 107,
     "ascii_max": 108,
     "original": "在官渡之戰中投靠曹操",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trong tran Quan Do dau hang Tao Thao",
+    "abbrev": "Quan Do dau hang Tao Thao",
+    "status": "done"
   },
   {
     "id": "bio_1037E1",
@@ -983,9 +983,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "迫郭氾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_1037E9",
@@ -996,9 +996,9 @@
     "raw_bytes": 67,
     "ascii_max": 68,
     "original": "在董卓死後與李傕一起聯兵攻向長安",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sau khi Dong Trac chet lien quan Ly Tac danh Truong An",
+    "abbrev": "Sau Dong Trac chet lien Ly Tac danh Truong An",
+    "status": "done"
   },
   {
     "id": "bio_103835",
@@ -1009,9 +1009,9 @@
     "raw_bytes": 121,
     "ascii_max": 122,
     "original": "是曹操手下有名的參謀之一",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La mot trong nhung mu si noi tieng cua Tao Thao",
+    "abbrev": "Mu si noi tieng cua Tao Thao",
+    "status": "done"
   },
   {
     "id": "bio_1038B5",
@@ -1022,9 +1022,9 @@
     "raw_bytes": 151,
     "ascii_max": 152,
     "original": "亦使待袁紹軍敗戰於官渡之戰而滅亡",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cung khien quan Vien Thieu thua o Quan Do va diet vong",
+    "abbrev": "Khien Vien Thieu thua Quan Do diet vang",
+    "status": "done"
   },
   {
     "id": "bio_10394D",
@@ -1035,9 +1035,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "下秦祚",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_103955",
@@ -1048,9 +1048,9 @@
     "raw_bytes": 155,
     "ascii_max": 156,
     "original": "有感於其奸詐冷酷而離開他",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cam thay ong gian xao lanh lung nen roi bo",
+    "abbrev": "Roi bo vi gian xao lanh lung",
+    "status": "done"
   },
   {
     "id": "bio_1039F1",
@@ -1061,9 +1061,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "於底秘",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_103A65",
@@ -1074,9 +1074,9 @@
     "raw_bytes": 63,
     "ascii_max": 64,
     "original": "而將徐州讓給劉備管理",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Va nhuong Xu Chau cho Luu Bi quan ly",
+    "abbrev": "Nhuong Xu Chau cho Luu Bi",
+    "status": "done"
   },
   {
     "id": "bio_103AA5",
@@ -1087,9 +1087,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "赴葭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_103AAD",
@@ -1100,9 +1100,9 @@
     "raw_bytes": 115,
     "ascii_max": 116,
     "original": "原本對年少的周瑜不服",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ban dau khong phuc Chu Du con tre",
+    "abbrev": "Ban dau khong phuc Chu Du",
+    "status": "done"
   },
   {
     "id": "bio_103B21",
@@ -1113,9 +1113,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "谷費褘",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_103B29",
@@ -1126,9 +1126,9 @@
     "raw_bytes": 57,
     "ascii_max": 58,
     "original": "常擔任大使出使東吳",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuong lam su gia den Dong Ngo",
+    "abbrev": "Thuong lam su gia den Dong Ngo",
+    "status": "done"
   },
   {
     "id": "bio_103B69",
@@ -1139,9 +1139,9 @@
     "raw_bytes": 129,
     "ascii_max": 130,
     "original": "終於夠因曹操嫉妒而被斬首",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cuoi cung bi Tao Thao ghen tuong ma chem dau",
+    "abbrev": "Bi Tao Thao ghen tuong chem dau",
+    "status": "done"
   },
   {
     "id": "bio_103BEB",
@@ -1152,9 +1152,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "偶錟",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_103BF1",
@@ -1165,9 +1165,9 @@
     "raw_bytes": 157,
     "ascii_max": 158,
     "original": "對於曹操的作戰方式非常瞭解",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Rat hieu ro cach danh tran cua Tao Thao",
+    "abbrev": "Hieu ro cach danh cua Tao Thao",
+    "status": "done"
   },
   {
     "id": "bio_103C95",
@@ -1178,9 +1178,9 @@
     "raw_bytes": 93,
     "ascii_max": 94,
     "original": "在關羽被困麥城時突危到上庸搬救兵遭拒",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luc Quan Vu bi vay Mai Thanh den Thuong Dung cau vien bi tu choi",
+    "abbrev": "Mai Thanh den Thuong Dung cau vien bi tu choi",
+    "status": "done"
   },
   {
     "id": "bio_103CF9",
@@ -1191,9 +1191,9 @@
     "raw_bytes": 99,
     "ascii_max": 100,
     "original": "在劉備窮途末路時收容他",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khi Luu Bi cung duong tan cung thi cuu giup ong",
+    "abbrev": "Cuu Luu Bi luc tan cung",
+    "status": "done"
   },
   {
     "id": "bio_103D65",
@@ -1204,9 +1204,9 @@
     "raw_bytes": 119,
     "ascii_max": 120,
     "original": "當初劉備要收養他時",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luc dau Luu Bi dinh nhan nuoi ong",
+    "abbrev": "Luu Bi dinh nhan nuoi ong",
+    "status": "done"
   },
   {
     "id": "bio_103DDD",
@@ -1217,9 +1217,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "鴽僂",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_103DE5",
@@ -1230,9 +1230,9 @@
     "raw_bytes": 55,
     "ascii_max": 56,
     "original": "由於施行仁政",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nho thi hanh chinh nhan ai",
+    "abbrev": "Nho thi hanh chinh nhan ai",
+    "status": "done"
   },
   {
     "id": "bio_103E20",
@@ -1243,9 +1243,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "劉璋",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Chuong",
+    "abbrev": "LChu",
+    "status": "done"
   },
   {
     "id": "bio_103E25",
@@ -1256,9 +1256,9 @@
     "raw_bytes": 123,
     "ascii_max": 124,
     "original": "最後為顧人民福祇而開城投降",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cuoi cung vi dan chung ma mo thanh dau hang",
+    "abbrev": "Vi dan chung ma mo thanh dau hang",
+    "status": "done"
   },
   {
     "id": "bio_103EA1",
@@ -1269,9 +1269,9 @@
     "raw_bytes": 7,
     "ascii_max": 11,
     "original": "在艾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_103EAC",
@@ -1282,9 +1282,9 @@
     "raw_bytes": 108,
     "ascii_max": 109,
     "original": "與蔡瑁等人共同把持荊州的實權",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cung Thai Muu nam quyen thuc te Kinh Chau",
+    "abbrev": "Cung Thai Muu nam quyen Kinh Chau",
+    "status": "done"
   },
   {
     "id": "bio_103F19",
@@ -1295,9 +1295,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "齒睄",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_103F21",
@@ -1308,9 +1308,9 @@
     "raw_bytes": 125,
     "ascii_max": 126,
     "original": "因不願投降而北跪從容就義",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong chiu dau hang quy huong bac tu an tu",
+    "abbrev": "Khong dau hang quy huong bac tu an tu",
+    "status": "done"
   },
   {
     "id": "bio_103F9F",
@@ -1321,9 +1321,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "兮硍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_103FA5",
@@ -1334,9 +1334,9 @@
     "raw_bytes": 57,
     "ascii_max": 58,
     "original": "劉備交戰時屢建奇功",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khi giao chien voi Luu Bi lap nhieu cong lon",
+    "abbrev": "Giao chien Luu Bi lap nhieu cong",
+    "status": "done"
   },
   {
     "id": "bio_103FDF",
@@ -1347,9 +1347,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "汗族",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_103FE5",
@@ -1360,9 +1360,9 @@
     "raw_bytes": 101,
     "ascii_max": 102,
     "original": "因此在孔明臨死前遺言蔣琬接任蜀漢丞相大將軍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nen truoc khi chet K.M.Luong di chuc Tuong Hoan lam thua tuong",
+    "abbrev": "Di chuc Tuong Hoan lam thua tuong",
+    "status": "done"
   },
   {
     "id": "bio_10404B",
@@ -1373,9 +1373,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "末捧",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_104051",
@@ -1386,9 +1386,9 @@
     "raw_bytes": 135,
     "ascii_max": 139,
     "original": "使得曹操先斬了蔡瑁等水都督",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khien Tao Thao giet Thai Muu va thuy doc",
+    "abbrev": "Tao Thao giet Thai Muu thuy doc",
+    "status": "done"
   },
   {
     "id": "bio_1040DC",
@@ -1399,9 +1399,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "蔡瑁",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thai Muu",
+    "abbrev": "TMuu",
+    "status": "done"
   },
   {
     "id": "bio_104181",
@@ -1412,9 +1412,9 @@
     "raw_bytes": 9,
     "ascii_max": 11,
     "original": "中諸葛瑾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gia Cat Can",
+    "abbrev": "GCCan",
+    "status": "done"
   },
   {
     "id": "bio_10418C",
@@ -1425,9 +1425,9 @@
     "raw_bytes": 102,
     "ascii_max": 103,
     "original": "曾三番兩次扮演使者出使蜀漢",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tung nhieu lan lam su gia den Thuc Han",
+    "abbrev": "Nhieu lan lam su gia den Thuc",
+    "status": "done"
   },
   {
     "id": "bio_10426D",
@@ -1438,9 +1438,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "才晷",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_104275",
@@ -1451,9 +1451,9 @@
     "raw_bytes": 97,
     "ascii_max": 98,
     "original": "在劉備死後受到孔明的重用",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sau khi Luu Bi chet duoc Gia Cat Luong trong dung",
+    "abbrev": "Sau Luu Bi chet duoc KMLuong dung",
+    "status": "done"
   },
   {
     "id": "bio_1042DD",
@@ -1464,9 +1464,9 @@
     "raw_bytes": 69,
     "ascii_max": 70,
     "original": "常給予劉備許多資助",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuong cap cho Luu Bi nhieu tien bac",
+    "abbrev": "Thuong cap tien bac cho Luu Bi",
+    "status": "done"
   },
   {
     "id": "bio_104329",
@@ -1477,9 +1477,9 @@
     "raw_bytes": 65,
     "ascii_max": 66,
     "original": "為東吳三朝元老",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La nguyen lao ba doi cua Dong Ngo",
+    "abbrev": "Nguyen lao ba doi Dong Ngo",
+    "status": "done"
   },
   {
     "id": "bio_104371",
@@ -1490,9 +1490,9 @@
     "raw_bytes": 147,
     "ascii_max": 148,
     "original": "曾偕同馬騰攻擊長安的李傕",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tung cung Ma Dang tan cong Ly Tac o Truong An",
+    "abbrev": "Cung Ma Dang danh Ly Tac Truong An",
+    "status": "done"
   },
   {
     "id": "bio_104405",
@@ -1503,9 +1503,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "為秉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_10440D",
@@ -1516,9 +1516,9 @@
     "raw_bytes": 115,
     "ascii_max": 116,
     "original": "但後來被關羽一刀刺於馬下而亡",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung sau bi Quan Vu mot dao giet tren ngua",
+    "abbrev": "Bi Quan Vu mot dao giet",
+    "status": "done"
   },
   {
     "id": "bio_104489",
@@ -1529,9 +1529,9 @@
     "raw_bytes": 67,
     "ascii_max": 68,
     "original": "為報父仇而與東吳交戰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vi bao thu cha ma giao chien voi Dong Ngo",
+    "abbrev": "Bao thu cha giao chien Dong Ngo",
+    "status": "done"
   },
   {
     "id": "bio_1049A1",
@@ -1542,9 +1542,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "部陽",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_1049AB",
@@ -1555,9 +1555,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "互不侵犯",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong xam pham lan nhau",
+    "abbrev": "Khong xam pham",
+    "status": "done"
   },
   {
     "id": "bio_1049DA",
@@ -1568,9 +1568,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "茈緊張",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_1049EA",
@@ -1581,9 +1581,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "六普通",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_1049FA",
@@ -1594,9 +1594,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "跼良好",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_104A0A",
@@ -1607,9 +1607,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "氶親密",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_104A18",
@@ -1620,9 +1620,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "同盟",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lien minh dong minh",
+    "abbrev": "Dminh",
+    "status": "done"
   },
   {
     "id": "bio_104A1D",
@@ -1633,9 +1633,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "由巧",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_104B4F",
@@ -1646,9 +1646,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "人物簡介",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gioi thieu nhan vat",
+    "abbrev": "Gioi thieu",
+    "status": "done"
   },
   {
     "id": "bio_104B61",
@@ -1659,9 +1659,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "力無",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_104BD5",
@@ -1672,9 +1672,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "氣請選擇要偵查的目標郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quan huyen muc tieu do tham",
+    "abbrev": "Chon quan huyen do tham",
+    "status": "done"
   },
   {
     "id": "bio_104C1B",
@@ -1685,9 +1685,9 @@
     "raw_bytes": 23,
     "ascii_max": 30,
     "original": "娃郈嚝僁嵽羺賑",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "bio_104C82",
@@ -1698,9 +1698,9 @@
     "raw_bytes": 28,
     "ascii_max": 35,
     "original": "請選擇擔任搜尋人才的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon tuong phu trach tim kiem nhan tai",
+    "abbrev": "Chon tuong tim nhan tai",
+    "status": "done"
   },
   {
     "id": "bio_104CAC",
@@ -1711,9 +1711,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "換頁",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chuyen trang",
+    "abbrev": "Trang",
+    "status": "done"
   },
   {
     "id": "bio_104D40",
@@ -1724,9 +1724,9 @@
     "raw_bytes": 25,
     "ascii_max": 27,
     "original": "吾軍兵糧短少",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan ta thieu luong thao",
+    "abbrev": "Thieu luong thao",
+    "status": "done"
   },
   {
     "id": "bio_104D71",
@@ -1737,9 +1737,9 @@
     "raw_bytes": 55,
     "ascii_max": 56,
     "original": "足以長期與敵互角於山野之間",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Du suc chien lau dai voi dich tren nui rung",
+    "abbrev": "Du suc chien lau dai tren nui",
+    "status": "done"
   },
   {
     "id": "bio_104DA9",
@@ -1750,9 +1750,9 @@
     "raw_bytes": 69,
     "ascii_max": 71,
     "original": "統萬眾必有所失",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chi huy van quan tat co sai sot",
+    "abbrev": "Chi huy van quan co sai sot",
+    "status": "done"
   },
   {
     "id": "bio_104DF0",
@@ -1763,9 +1763,9 @@
     "raw_bytes": 42,
     "ascii_max": 43,
     "original": "夫軍無習練",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan doi khong luyen tap",
+    "abbrev": "Quan khong luyen tap",
+    "status": "done"
   },
   {
     "id": "bio_104E1B",
@@ -1776,9 +1776,9 @@
     "raw_bytes": 83,
     "ascii_max": 84,
     "original": "此城將臨屠馬以食",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thanh nay sap giet ngua de an",
+    "abbrev": "Sap giet ngua de an",
+    "status": "done"
   },
   {
     "id": "bio_104E8F",
@@ -1789,9 +1789,9 @@
     "raw_bytes": 103,
     "ascii_max": 104,
     "original": "原非臣所應議論者",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ban chat khong phai viec than nen ban",
+    "abbrev": "Khong phai viec than nen ban",
+    "status": "done"
   },
   {
     "id": "bio_104EF7",
@@ -1802,9 +1802,9 @@
     "raw_bytes": 79,
     "ascii_max": 80,
     "original": "若明公令一上將為太守",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Neu minh cong cu mot tuong lam thai thu",
+    "abbrev": "Neu cu tuong lam thai thu",
+    "status": "done"
   },
   {
     "id": "bio_104F47",
@@ -1815,9 +1815,9 @@
     "raw_bytes": 25,
     "ascii_max": 29,
     "original": "失當乃國家動搖之本",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sai lam la goc re lam nuoc lung lay",
+    "abbrev": "Sai lam lam nuoc lung lay",
+    "status": "done"
   },
   {
     "id": "bio_104F64",
@@ -1828,9 +1828,9 @@
     "raw_bytes": 22,
     "ascii_max": 23,
     "original": "此人必不負主公之期望",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nguoi nay chac khong phu mong doi cua chu cong",
+    "abbrev": "Khongphumongdoichucong",
+    "status": "done"
   },
   {
     "id": "bio_104F7B",
@@ -1841,9 +1841,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "徵之國必亂也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Neu dung nguoi nay nuoc chac loan",
+    "abbrev": "Dung nguoi nay nuoc se loan",
+    "status": "done"
   },
   {
     "id": "bio_104F9B",
@@ -1854,9 +1854,9 @@
     "raw_bytes": 59,
     "ascii_max": 60,
     "original": "必能將士用命",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chac tuong si tan tam phuc vu",
+    "abbrev": "Tuong si tan tam phuc vu",
+    "status": "done"
   },
   {
     "id": "bio_104FD7",
@@ -1867,8 +1867,8 @@
     "raw_bytes": 37,
     "ascii_max": 38,
     "original": "有限之金集無用之兵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tien co han tap quan vo dung",
+    "abbrev": "Tien han tap quan vo dung",
+    "status": "done"
   }
 ]

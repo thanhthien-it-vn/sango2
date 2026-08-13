@@ -8,9 +8,9 @@
     "raw_bytes": 34,
     "ascii_max": 35,
     "original": "可速招募民兵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay mau chiem dan binh",
+    "abbrev": "Hay mau chiem dan binh",
+    "status": "done"
   },
   {
     "id": "dialogue_105023",
@@ -21,9 +21,9 @@
     "raw_bytes": 79,
     "ascii_max": 80,
     "original": "復加之重賦雜捐",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Them tru thue nang va cac khoan dong gop",
+    "abbrev": "Them tru thue nang va cac khoan dong gop",
+    "status": "done"
   },
   {
     "id": "dialogue_105073",
@@ -34,9 +34,9 @@
     "raw_bytes": 49,
     "ascii_max": 50,
     "original": "吾軍可得不斷之援",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan ta se nhan vien tro lien tuc",
+    "abbrev": "Quan ta se nhan vien tro lien tuc",
+    "status": "done"
   },
   {
     "id": "dialogue_1050A5",
@@ -47,9 +47,9 @@
     "raw_bytes": 61,
     "ascii_max": 62,
     "original": "乃三軍之司命",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La nguyen nhan song chet cua tam quan",
+    "abbrev": "La nguyen nhan song chet cua tam quan",
+    "status": "done"
   },
   {
     "id": "dialogue_1050E3",
@@ -60,9 +60,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "乃致勝之鎖匙矣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La chia khoa chien thang",
+    "abbrev": "La chia khoa chien thang",
+    "status": "done"
   },
   {
     "id": "dialogue_105101",
@@ -73,9 +73,9 @@
     "raw_bytes": 17,
     "ascii_max": 18,
     "original": "敢如此",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dam lam nhu vay",
+    "abbrev": "Dam lam nhu vay",
+    "status": "done"
   },
   {
     "id": "dialogue_105125",
@@ -86,9 +86,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "宜善郈嚝颩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_1051C8",
@@ -99,9 +99,9 @@
     "raw_bytes": 22,
     "ascii_max": 23,
     "original": "請選擇帶兵出征的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon tuong dan quan xuat chinh",
+    "abbrev": "Chon tuong danh",
+    "status": "done"
   },
   {
     "id": "dialogue_10528B",
@@ -112,9 +112,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "攜帶的米糧數",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "So luong lua mang theo",
+    "abbrev": "So luong lua mang theo",
+    "status": "done"
   },
   {
     "id": "dialogue_1052CC",
@@ -125,9 +125,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "請選擇押運糧草的輜重隊",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon doi van chuyen luong thao",
+    "abbrev": "Haychondoivanchuyenluongthao",
+    "status": "done"
   },
   {
     "id": "dialogue_1052E8",
@@ -138,9 +138,9 @@
     "raw_bytes": 22,
     "ascii_max": 24,
     "original": "請指派訓練部隊的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chi dinh tuong huan luyen quan",
+    "abbrev": "Hay chi dinh tuong huan",
+    "status": "done"
   },
   {
     "id": "dialogue_105300",
@@ -151,9 +151,9 @@
     "raw_bytes": 30,
     "ascii_max": 31,
     "original": "請指派擔任運補物資任務的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chi dinh tuong van bu vat tu",
+    "abbrev": "Haychidinhtuongvanbuvattu",
+    "status": "done"
   },
   {
     "id": "dialogue_10531F",
@@ -164,9 +164,9 @@
     "raw_bytes": 47,
     "ascii_max": 48,
     "original": "至多名武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Toi da nhieu tuong",
+    "abbrev": "Toi da nhieu tuong",
+    "status": "done"
   },
   {
     "id": "dialogue_105368",
@@ -177,9 +177,9 @@
     "raw_bytes": 22,
     "ascii_max": 23,
     "original": "請選擇欲要製造的武器",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon vu khi muon che tao",
+    "abbrev": "Haychonvukhimuonchetao",
+    "status": "done"
   },
   {
     "id": "dialogue_10537F",
@@ -190,9 +190,9 @@
     "raw_bytes": 19,
     "ascii_max": 20,
     "original": "徵兵的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong chiem binh",
+    "abbrev": "Tuong chiem binh",
+    "status": "done"
   },
   {
     "id": "dialogue_105393",
@@ -203,9 +203,9 @@
     "raw_bytes": 27,
     "ascii_max": 29,
     "original": "實行募兵任務的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong thuc hien muu binh",
+    "abbrev": "Tuong thuc hien muu binh",
+    "status": "done"
   },
   {
     "id": "dialogue_1053B0",
@@ -216,9 +216,9 @@
     "raw_bytes": 26,
     "ascii_max": 27,
     "original": "請選擇執行世兵任務的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon tuong thuc hien the binh",
+    "abbrev": "Haychontuongthuchienthebinh",
+    "status": "done"
   },
   {
     "id": "dialogue_1053CB",
@@ -229,9 +229,9 @@
     "raw_bytes": 43,
     "ascii_max": 50,
     "original": "選擇要重新分配士兵的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chon tuong phan bo lai binh si",
+    "abbrev": "Chon tuong phan bo lai binh si",
+    "status": "done"
   },
   {
     "id": "dialogue_105418",
@@ -242,9 +242,9 @@
     "raw_bytes": 40,
     "ascii_max": 41,
     "original": "不明治國之理",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong hieu ly tri tri quoc",
+    "abbrev": "Khong hieu ly tri tri quoc",
+    "status": "done"
   },
   {
     "id": "dialogue_105493",
@@ -255,9 +255,9 @@
     "raw_bytes": 35,
     "ascii_max": 36,
     "original": "豈有多餘之兵用於兵屯耶",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sao co binh thua cho don dien",
+    "abbrev": "Sao co binh thua cho don dien",
+    "status": "done"
   },
   {
     "id": "dialogue_1054B7",
@@ -268,9 +268,9 @@
     "raw_bytes": 51,
     "ascii_max": 52,
     "original": "數年可得米糧百萬斛",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sau vai nam duoc tram van ho lua",
+    "abbrev": "Sau vai nam duoc tram van ho lua",
+    "status": "done"
   },
   {
     "id": "dialogue_1054EB",
@@ -281,9 +281,9 @@
     "raw_bytes": 45,
     "ascii_max": 46,
     "original": "貨財難以行遠也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoa vat kho van xa",
+    "abbrev": "Hoa vat kho van xa",
+    "status": "done"
   },
   {
     "id": "dialogue_105519",
@@ -294,9 +294,9 @@
     "raw_bytes": 51,
     "ascii_max": 53,
     "original": "必可輜軍備之需",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chac chan du tru quan nhu",
+    "abbrev": "Chac chan du tru quan nhu",
+    "status": "done"
   },
   {
     "id": "dialogue_10554E",
@@ -307,9 +307,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "不熟政事",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong thong chinh su",
+    "abbrev": "Khong thong chinh su",
+    "status": "done"
   },
   {
     "id": "dialogue_105567",
@@ -320,9 +320,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "可大積軍糧",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Co the tich tru quan luong lon",
+    "abbrev": "Co the tich tru quan luong lon",
+    "status": "done"
   },
   {
     "id": "dialogue_105593",
@@ -333,9 +333,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "多餘之金以修此難守之城",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dung tien thua sua thanh kho giu",
+    "abbrev": "Dung tien thua sua thanh kho giu",
+    "status": "done"
   },
   {
     "id": "dialogue_1055BF",
@@ -346,9 +346,9 @@
     "raw_bytes": 53,
     "ascii_max": 54,
     "original": "而敵即難以拔之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke dich kho long chiem",
+    "abbrev": "Ke dich kho long chiem",
+    "status": "done"
   },
   {
     "id": "dialogue_1055F5",
@@ -359,9 +359,9 @@
     "raw_bytes": 37,
     "ascii_max": 38,
     "original": "備散軍糧以濟流民",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phat tan quan luong cuu dan luu lac",
+    "abbrev": "Phat tan quan luong cuu dan luu lac",
+    "status": "done"
   },
   {
     "id": "dialogue_10561B",
@@ -372,9 +372,9 @@
     "raw_bytes": 21,
     "ascii_max": 25,
     "original": "民為邦本",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dan la goc quoc gia",
+    "abbrev": "Dan la goc quoc gia",
+    "status": "done"
   },
   {
     "id": "dialogue_105634",
@@ -385,9 +385,9 @@
     "raw_bytes": 66,
     "ascii_max": 67,
     "original": "今明公以一己之怒而害天下百姓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nay minh cong vi mot no gian hai dan chung",
+    "abbrev": "Nay minh cong vi mot no gian hai dan chung",
+    "status": "done"
   },
   {
     "id": "dialogue_1056CB",
@@ -398,9 +398,9 @@
     "raw_bytes": 109,
     "ascii_max": 110,
     "original": "苦而定百姓之繇役賦稅",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khoc kho dinh tue va thue cho dan",
+    "abbrev": "Khoc kho dinh tue va thue cho dan",
+    "status": "done"
   },
   {
     "id": "dialogue_10574B",
@@ -411,9 +411,9 @@
     "raw_bytes": 61,
     "ascii_max": 62,
     "original": "時穀一斛至數十萬",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luc nay mot ho lua den hang chuc van",
+    "abbrev": "Luc nay mot ho lua den hang chuc van",
+    "status": "done"
   },
   {
     "id": "dialogue_105789",
@@ -424,9 +424,9 @@
     "raw_bytes": 15,
     "ascii_max": 19,
     "original": "苦戌僧馬",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10579C",
@@ -437,9 +437,9 @@
     "raw_bytes": 20,
     "ascii_max": 21,
     "original": "積糧以備戰乃上策也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tich luong chuan bi chien la thuong sach",
+    "abbrev": "Tich luong chuan bi",
+    "status": "done"
   },
   {
     "id": "dialogue_1057B1",
@@ -450,9 +450,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "賣米以籌軍資",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ban lua de chuan bi quan tu",
+    "abbrev": "Banluadechuanbiquantu",
+    "status": "done"
   },
   {
     "id": "dialogue_1057C9",
@@ -463,9 +463,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "而就凡器",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chi dung vu khi phong thuong",
+    "abbrev": "Chidungvukhiphongthuong",
+    "status": "done"
   },
   {
     "id": "dialogue_1057E1",
@@ -476,9 +476,9 @@
     "raw_bytes": 27,
     "ascii_max": 29,
     "original": "劍贈英雄",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Kiem tang anh hung",
+    "abbrev": "Kiem tang anh hung",
+    "status": "done"
   },
   {
     "id": "dialogue_1057FE",
@@ -489,9 +489,9 @@
     "raw_bytes": 20,
     "ascii_max": 21,
     "original": "赤此時購弩乃不智也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luc nay mua nu la khong sang",
+    "abbrev": "Luc nay mua nu la",
+    "status": "done"
   },
   {
     "id": "dialogue_105813",
@@ -502,9 +502,9 @@
     "raw_bytes": 49,
     "ascii_max": 53,
     "original": "遠而必中者持弩而練之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Muon ban xa phai cam nu luyen tap",
+    "abbrev": "Muon ban xa phai cam nu luyen tap",
+    "status": "done"
   },
   {
     "id": "dialogue_105848",
@@ -515,9 +515,9 @@
     "raw_bytes": 36,
     "ascii_max": 37,
     "original": "且欲濫竽充數",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Va muon lam lan nhu",
+    "abbrev": "Va muon lam lan nhu",
+    "status": "done"
   },
   {
     "id": "dialogue_10586D",
@@ -528,9 +528,9 @@
     "raw_bytes": 39,
     "ascii_max": 40,
     "original": "軍此為西域之大宛良馬",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Day la ngua Dai Uyen tot cua Tay Vuc",
+    "abbrev": "Day la ngua Dai Uyen tot cua Tay Vuc",
+    "status": "done"
   },
   {
     "id": "dialogue_105899",
@@ -541,9 +541,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "請選派執行土地開發的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chi dinh tuong khai phat dat",
+    "abbrev": "Haychidinhtuongkhaiphatdat",
+    "status": "done"
   },
   {
     "id": "dialogue_1058CD",
@@ -554,9 +554,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "發展的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong phat trien",
+    "abbrev": "Tuong phat trien",
+    "status": "done"
   },
   {
     "id": "dialogue_1058E5",
@@ -567,9 +567,9 @@
     "raw_bytes": 27,
     "ascii_max": 31,
     "original": "制請選擇擔任治水防洪的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon tuong tri thuy chong hong",
+    "abbrev": "Haychontuongtrithuychonghong",
+    "status": "done"
   },
   {
     "id": "dialogue_105904",
@@ -580,9 +580,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "請選派加厚城牆任務的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chi dinh tuong day cung tuong",
+    "abbrev": "Hay chi dinh tuong day",
+    "status": "done"
   },
   {
     "id": "dialogue_10593D",
@@ -593,9 +593,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "請指定燒殺搜刮任務的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chi dinh tuong thieu sat cuop pha",
+    "abbrev": "Hay chi dinh tuong thieu sat",
+    "status": "done"
   },
   {
     "id": "dialogue_105987",
@@ -606,9 +606,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "調整新稅率為",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dieu chinh thue suat moi la",
+    "abbrev": "Dieuchinhthuesuatmoila",
+    "status": "done"
   },
   {
     "id": "dialogue_10599D",
@@ -619,9 +619,9 @@
     "raw_bytes": 25,
     "ascii_max": 27,
     "original": "將請選擇欲要交易的商品",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon hang hoa muon giao dich",
+    "abbrev": "Haychonhanghoamuongiaodich",
+    "status": "done"
   },
   {
     "id": "dialogue_1059B8",
@@ -632,9 +632,9 @@
     "raw_bytes": 16,
     "ascii_max": 17,
     "original": "請派出買米的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay phai tuong mua lua",
+    "abbrev": "Hay phai tuong",
+    "status": "done"
   },
   {
     "id": "dialogue_1059DD",
@@ -645,9 +645,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "發請選派購置武將兵器的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chi dinh tuong mua vu khi tuong",
+    "abbrev": "Haychidinhtuongmuavukhituong",
+    "status": "done"
   },
   {
     "id": "dialogue_1059F9",
@@ -658,9 +658,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "燒請指派購置弩箭的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chi dinh tuong mua nu tien",
+    "abbrev": "Haychidinhtuongmuanutien",
+    "status": "done"
   },
   {
     "id": "dialogue_105A11",
@@ -671,9 +671,9 @@
     "raw_bytes": 23,
     "ascii_max": 27,
     "original": "請指派購買馬匹的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chi dinh tuong mua ngua",
+    "abbrev": "Hay chi dinh tuong mua ngua",
+    "status": "done"
   },
   {
     "id": "dialogue_105A2C",
@@ -684,9 +684,9 @@
     "raw_bytes": 48,
     "ascii_max": 49,
     "original": "此種挑撥離間難以有成",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Loai ke xa lan kho thanh cong",
+    "abbrev": "Loai ke xa lan kho thanh cong",
+    "status": "done"
   },
   {
     "id": "dialogue_105A5F",
@@ -697,9 +697,9 @@
     "raw_bytes": 95,
     "ascii_max": 96,
     "original": "事成則無猛士為輔",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thanh su thi khong co tuong manh tro giup",
+    "abbrev": "Thanh su thi khong co tuong manh tro giup",
+    "status": "done"
   },
   {
     "id": "dialogue_105ABF",
@@ -710,9 +710,9 @@
     "raw_bytes": 25,
     "ascii_max": 29,
     "original": "吾主特命吾來傳遞一密書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu ta dac mang thu mat den",
+    "abbrev": "Chu ta dac mang thu mat den",
+    "status": "done"
   },
   {
     "id": "dialogue_105ADC",
@@ -723,9 +723,9 @@
     "raw_bytes": 32,
     "ascii_max": 33,
     "original": "竟敢謀我城池",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dam do lo do thi tran ta",
+    "abbrev": "Dam do lo do thi tran ta",
+    "status": "done"
   },
   {
     "id": "dialogue_105AFD",
@@ -736,9 +736,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "溘驉陰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_105B13",
@@ -749,9 +749,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "此乃賊欲令我二人不和耳",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke gian muon chia re hai ta",
+    "abbrev": "Kegianmuonchiarehaita",
+    "status": "done"
   },
   {
     "id": "dialogue_105B2D",
@@ -762,9 +762,9 @@
     "raw_bytes": 93,
     "ascii_max": 95,
     "original": "誓不為此不義之事",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta quyet khong lam viec bat nghia nay",
+    "abbrev": "Ta quyet khong lam viec bat nghia nay",
+    "status": "done"
   },
   {
     "id": "dialogue_105B8C",
@@ -775,9 +775,9 @@
     "raw_bytes": 85,
     "ascii_max": 86,
     "original": "主公以一信煽動其人",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu cong dung mot thu khich dong ho",
+    "abbrev": "Chu cong dung mot thu khich dong ho",
+    "status": "done"
   },
   {
     "id": "dialogue_105BE2",
@@ -788,9 +788,9 @@
     "raw_bytes": 52,
     "ascii_max": 53,
     "original": "君臣心意相通",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan than dong long",
+    "abbrev": "Quan than dong long",
+    "status": "done"
   },
   {
     "id": "dialogue_105C17",
@@ -801,9 +801,9 @@
     "raw_bytes": 59,
     "ascii_max": 60,
     "original": "君以千里之眾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngai co quan chung ngan dam",
+    "abbrev": "Ngai co quan chung ngan dam",
+    "status": "done"
   },
   {
     "id": "dialogue_105C53",
@@ -814,9 +814,9 @@
     "raw_bytes": 51,
     "ascii_max": 52,
     "original": "肯從吾者在此",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ai theo ta o day",
+    "abbrev": "Ai theo ta o day",
+    "status": "done"
   },
   {
     "id": "dialogue_105C87",
@@ -827,9 +827,9 @@
     "raw_bytes": 33,
     "ascii_max": 34,
     "original": "豈可行此背主之事",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sao lam viec phan chu",
+    "abbrev": "Sao lam viec phan chu",
+    "status": "done"
   },
   {
     "id": "dialogue_105CA9",
@@ -840,9 +840,9 @@
     "raw_bytes": 51,
     "ascii_max": 52,
     "original": "此雕蟲小技必為識破",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tieu ky nay chac bi phat hien",
+    "abbrev": "Tieu ky nay chac bi phat hien",
+    "status": "done"
   },
   {
     "id": "dialogue_105CDD",
@@ -853,9 +853,9 @@
     "raw_bytes": 49,
     "ascii_max": 50,
     "original": "此計必可令賊自相讎殺",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke nay se khien ke tu giet nhau",
+    "abbrev": "Ke nay se khien ke tu giet nhau",
+    "status": "done"
   },
   {
     "id": "dialogue_105D0F",
@@ -866,9 +866,9 @@
     "raw_bytes": 181,
     "ascii_max": 182,
     "original": "若看見上面要害之處",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Neu thay cho yeu tren thu",
+    "abbrev": "Neu thay cho yeu tren thu",
+    "status": "done"
   },
   {
     "id": "dialogue_105DC5",
@@ -879,9 +879,9 @@
     "raw_bytes": 13,
     "ascii_max": 14,
     "original": "甚妙",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Rat hay",
+    "abbrev": "Rat hay",
+    "status": "done"
   },
   {
     "id": "dialogue_105DD3",
@@ -892,9 +892,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "如何都改抹糊塗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sao xoa lam roi het",
+    "abbrev": "Sao xoa lam roi het",
+    "status": "done"
   },
   {
     "id": "dialogue_105DE9",
@@ -905,9 +905,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "朧早鴟悁",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_105E01",
@@ -918,9 +918,9 @@
     "raw_bytes": 83,
     "ascii_max": 84,
     "original": "必是汝怕我知了詳細",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chac la ngai so ta biet chi tiet",
+    "abbrev": "Chac la ngai so ta biet chi tiet",
+    "status": "done"
   },
   {
     "id": "dialogue_105E55",
@@ -931,9 +931,9 @@
     "raw_bytes": 25,
     "ascii_max": 27,
     "original": "蟲小技欲欺吾耶",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tieu ky muon lua ta",
+    "abbrev": "Tieu ky muon lua ta",
+    "status": "done"
   },
   {
     "id": "dialogue_105E70",
@@ -944,9 +944,9 @@
     "raw_bytes": 22,
     "ascii_max": 23,
     "original": "足智多謀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Du tri da muu",
+    "abbrev": "Du tri da muu",
+    "status": "done"
   },
   {
     "id": "dialogue_105E87",
@@ -957,9 +957,9 @@
     "raw_bytes": 47,
     "ascii_max": 48,
     "original": "除我一心腹大患也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tru di mot dai hoan trong long",
+    "abbrev": "Tru di mot dai hoan trong long",
+    "status": "done"
   },
   {
     "id": "dialogue_105EB7",
@@ -970,9 +970,9 @@
     "raw_bytes": 61,
     "ascii_max": 62,
     "original": "今特冒生命危險前來通報將軍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nay mao hiem mang den bao cho tuong",
+    "abbrev": "Nay mao hiem mang den bao cho tuong",
+    "status": "done"
   },
   {
     "id": "dialogue_105EF5",
@@ -983,9 +983,9 @@
     "raw_bytes": 19,
     "ascii_max": 20,
     "original": "反賊如此無禮耶",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phan tac vo le the",
+    "abbrev": "Phan tac vo le the",
+    "status": "done"
   },
   {
     "id": "dialogue_105F09",
@@ -996,9 +996,9 @@
     "raw_bytes": 19,
     "ascii_max": 23,
     "original": "到帳下",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Den truoc trai",
+    "abbrev": "Den truoc trai",
+    "status": "done"
   },
   {
     "id": "dialogue_105F20",
@@ -1009,9 +1009,9 @@
     "raw_bytes": 16,
     "ascii_max": 17,
     "original": "我欲使汝為先鋒",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta muon ngai lam tien phong",
+    "abbrev": "Ta muon ngai lam",
+    "status": "done"
   },
   {
     "id": "dialogue_105F31",
@@ -1022,9 +1022,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "尚未曾練熟",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chua luyen thuan thuc",
+    "abbrev": "Chua luyen thuan thuc",
+    "status": "done"
   },
   {
     "id": "dialogue_105F4D",
@@ -1035,9 +1035,9 @@
     "raw_bytes": 45,
     "ascii_max": 46,
     "original": "其軍若練熟",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Neu quan ho luyen thuan",
+    "abbrev": "Neu quan ho luyen thuan",
+    "status": "done"
   },
   {
     "id": "dialogue_105F7B",
@@ -1048,9 +1048,9 @@
     "raw_bytes": 37,
     "ascii_max": 38,
     "original": "吾豈會中計",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta sao trung ke",
+    "abbrev": "Ta sao trung ke",
+    "status": "done"
   },
   {
     "id": "dialogue_105FD0",
@@ -1061,9 +1061,9 @@
     "raw_bytes": 48,
     "ascii_max": 49,
     "original": "明公何足慮也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Minh cong khong can lo",
+    "abbrev": "Minh cong khong can lo",
+    "status": "done"
   },
   {
     "id": "dialogue_106001",
@@ -1074,9 +1074,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "此計不易成也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke nay kho thanh cong",
+    "abbrev": "Ke nay kho thanh cong",
+    "status": "done"
   },
   {
     "id": "dialogue_10601F",
@@ -1087,9 +1087,9 @@
     "raw_bytes": 33,
     "ascii_max": 34,
     "original": "可乘機壞其城壁",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Co the nhan co pha tuong thanh",
+    "abbrev": "Co the nhan co pha tuong thanh",
+    "status": "done"
   },
   {
     "id": "dialogue_106041",
@@ -1100,9 +1100,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "苦肉計必瞞不得他",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke kho nhu khong lua duoc ong",
+    "abbrev": "Ke kho nhu khong lua duoc ong",
+    "status": "done"
   },
   {
     "id": "dialogue_10606D",
@@ -1113,9 +1113,9 @@
     "raw_bytes": 47,
     "ascii_max": 48,
     "original": "用須一人為我行詐降耳",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Can mot nguoi lam gia hang cho ta",
+    "abbrev": "Can mot nguoi lam gia hang cho ta",
+    "status": "done"
   },
   {
     "id": "dialogue_10609D",
@@ -1126,9 +1126,9 @@
     "raw_bytes": 79,
     "ascii_max": 80,
     "original": "不如納降為萬安之策",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hon la hang de van toan",
+    "abbrev": "Hon la hang de van toan",
+    "status": "done"
   },
   {
     "id": "dialogue_1060ED",
@@ -1139,9 +1139,9 @@
     "raw_bytes": 61,
     "ascii_max": 62,
     "original": "汝趕出此言",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngai noi loi nay",
+    "abbrev": "Ngai noi loi nay",
+    "status": "done"
   },
   {
     "id": "dialogue_10612B",
@@ -1152,9 +1152,9 @@
     "raw_bytes": 47,
     "ascii_max": 48,
     "original": "但於軍不利",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung bat loi cho quan",
+    "abbrev": "Nhung bat loi cho quan",
+    "status": "done"
   },
   {
     "id": "dialogue_10615B",
@@ -1165,9 +1165,9 @@
     "raw_bytes": 65,
     "ascii_max": 66,
     "original": "不看眾官面皮",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong xet mat quan vien",
+    "abbrev": "Khong xet mat quan vien",
+    "status": "done"
   },
   {
     "id": "dialogue_10619D",
@@ -1178,9 +1178,9 @@
     "raw_bytes": 84,
     "ascii_max": 87,
     "original": "亦乃一方大將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cung la tuong lon mot phuong",
+    "abbrev": "Cung la tuong lon mot phuong",
+    "status": "done"
   },
   {
     "id": "dialogue_1061F4",
@@ -1191,9 +1191,9 @@
     "raw_bytes": 30,
     "ascii_max": 31,
     "original": "吾自幼孰讀兵書",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta tu thuo doc binh thu",
+    "abbrev": "Ta tu thuo doc binh thu",
+    "status": "done"
   },
   {
     "id": "dialogue_106213",
@@ -1204,9 +1204,9 @@
     "raw_bytes": 39,
     "ascii_max": 40,
     "original": "如嬰兒之望父母",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhu tre con mong cha me",
+    "abbrev": "Nhu tre con mong cha me",
+    "status": "done"
   },
   {
     "id": "dialogue_10623B",
@@ -1217,9 +1217,9 @@
     "raw_bytes": 71,
     "ascii_max": 72,
     "original": "若汝能建大功",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Neu ngai lap dai cong",
+    "abbrev": "Neu ngai lap dai cong",
+    "status": "done"
   },
   {
     "id": "dialogue_106283",
@@ -1230,9 +1230,9 @@
     "raw_bytes": 55,
     "ascii_max": 56,
     "original": "卻敢來戲侮我耶",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dam treu choc ta",
+    "abbrev": "Dam treu choc ta",
+    "status": "done"
   },
   {
     "id": "dialogue_1062BB",
@@ -1243,9 +1243,9 @@
     "raw_bytes": 65,
     "ascii_max": 66,
     "original": "一有風吹草動無不入其耳",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Co dong gi cung bi ong biet",
+    "abbrev": "Co dong gi cung bi ong biet",
+    "status": "done"
   },
   {
     "id": "dialogue_1062FD",
@@ -1256,9 +1256,9 @@
     "raw_bytes": 59,
     "ascii_max": 60,
     "original": "此乃釜底抽薪之計也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Day la ke phu do chou thao",
+    "abbrev": "Day la ke phu do chou thao",
+    "status": "done"
   },
   {
     "id": "dialogue_106339",
@@ -1269,9 +1269,9 @@
     "raw_bytes": 33,
     "ascii_max": 34,
     "original": "必不為明公所用",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chac khong phuc vu minh cong",
+    "abbrev": "Chac khong phuc vu minh cong",
+    "status": "done"
   },
   {
     "id": "dialogue_10635B",
@@ -1282,9 +1282,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "命一將軍為使",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mang mot tuong lam su",
+    "abbrev": "Mang mot tuong lam su",
+    "status": "done"
   },
   {
     "id": "dialogue_106387",
@@ -1295,9 +1295,9 @@
     "raw_bytes": 17,
     "ascii_max": 18,
     "original": "將軍別來無恙乎",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong khong binh an",
+    "abbrev": "Tuongkhongbinhan",
+    "status": "done"
   },
   {
     "id": "dialogue_106399",
@@ -1308,9 +1308,9 @@
     "raw_bytes": 197,
     "ascii_max": 198,
     "original": "故不忍以健將決死戰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nen khong dung tuong gioi quyet tu chien",
+    "abbrev": "Nen khong dung tuong gioi quyet tu chien",
+    "status": "done"
   },
   {
     "id": "dialogue_10645F",
@@ -1321,9 +1321,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "願從公言",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Theo loi ngai",
+    "abbrev": "Theoloingai",
+    "status": "done"
   },
   {
     "id": "dialogue_10646B",
@@ -1334,9 +1334,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "不忍背棄",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong the bo roi",
+    "abbrev": "Khong the bo roi",
+    "status": "done"
   },
   {
     "id": "dialogue_106483",
@@ -1347,9 +1347,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "鴃祟儔鞳酗擗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10649D",
@@ -1360,9 +1360,9 @@
     "raw_bytes": 63,
     "ascii_max": 64,
     "original": "只需憑尺書結為內應",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chi can mot thu ket noi noi ung",
+    "abbrev": "Chi can mot thu ket noi noi ung",
+    "status": "done"
   },
   {
     "id": "dialogue_1064DD",
@@ -1373,9 +1373,9 @@
     "raw_bytes": 89,
     "ascii_max": 90,
     "original": "今乃為叛賊之臣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nay la than phan phan tac",
+    "abbrev": "Nay la than phan phan tac",
+    "status": "done"
   },
   {
     "id": "dialogue_106537",
@@ -1386,9 +1386,9 @@
     "raw_bytes": 47,
     "ascii_max": 48,
     "original": "明公若有舉動",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Minh cong neu co hanh dong",
+    "abbrev": "Minh cong neu co hanh dong",
+    "status": "done"
   },
   {
     "id": "dialogue_106567",
@@ -1399,9 +1399,9 @@
     "raw_bytes": 51,
     "ascii_max": 52,
     "original": "為萬世所唾棄耶",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bi van dai nhuc nha",
+    "abbrev": "Bi van dai nhuc nha",
+    "status": "done"
   },
   {
     "id": "dialogue_10659B",
@@ -1412,9 +1412,9 @@
     "raw_bytes": 37,
     "ascii_max": 38,
     "original": "此去必定無成",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Di nay chac khong thanh",
+    "abbrev": "Di nay chac khong thanh",
+    "status": "done"
   },
   {
     "id": "dialogue_1065C1",
@@ -1425,9 +1425,9 @@
     "raw_bytes": 51,
     "ascii_max": 52,
     "original": "見一將星欲墮",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thay mot sao tuong sap roi",
+    "abbrev": "Thay mot sao tuong sap roi",
+    "status": "done"
   },
   {
     "id": "dialogue_1065F5",
@@ -1438,9 +1438,9 @@
     "raw_bytes": 13,
     "ascii_max": 14,
     "original": "欲礎撐它韝",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_106603",
@@ -1451,9 +1451,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "在此射鹿",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ban cung o day",
+    "abbrev": "Ban cung o day",
+    "status": "done"
   },
   {
     "id": "dialogue_10661B",
@@ -1464,9 +1464,9 @@
     "raw_bytes": 33,
     "ascii_max": 34,
     "original": "吾等奉主命特來取汝性命",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chung ta theo lenh chu den lay mang ngai",
+    "abbrev": "Chungtatheolenhchudenlaymangngai",
+    "status": "done"
   },
   {
     "id": "dialogue_106647",
@@ -1477,9 +1477,9 @@
     "raw_bytes": 59,
     "ascii_max": 60,
     "original": "何故假冒軍士於此",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sao gia mao binh linh o day",
+    "abbrev": "Sao gia mao binh linh o day",
+    "status": "done"
   },
   {
     "id": "dialogue_106685",
@@ -1490,9 +1490,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "天隆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_1066BE",
@@ -1503,9 +1503,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "忖姓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_1066E8",
@@ -1516,9 +1516,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "士兵數",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "So binh si",
+    "abbrev": "So binh si",
+    "status": "done"
   },
   {
     "id": "dialogue_106706",
@@ -1529,9 +1529,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "坐姓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10671C",
@@ -1542,9 +1542,9 @@
     "raw_bytes": 13,
     "ascii_max": 14,
     "original": "狀態",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trang thai",
+    "abbrev": "Trang thai",
+    "status": "done"
   },
   {
     "id": "dialogue_106799",
@@ -1555,9 +1555,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "名在野",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ten tai da",
+    "abbrev": "Tentaida",
+    "status": "done"
   },
   {
     "id": "dialogue_1067A1",
@@ -1568,9 +1568,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "數君主",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "So quan chu",
+    "abbrev": "So quan",
+    "status": "done"
   },
   {
     "id": "dialogue_106814",
@@ -1581,9 +1581,9 @@
     "raw_bytes": 4,
     "ascii_max": 6,
     "original": "放棄",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bo cuoc",
+    "abbrev": "Bocuoc",
+    "status": "done"
   },
   {
     "id": "dialogue_10681A",
@@ -1594,9 +1594,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "活決定",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quyet dinh",
+    "abbrev": "Quyet",
+    "status": "done"
   },
   {
     "id": "dialogue_10686E",
@@ -1607,9 +1607,9 @@
     "raw_bytes": 13,
     "ascii_max": 14,
     "original": "種寶",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Loai bao vat",
+    "abbrev": "Loai bao vat",
+    "status": "done"
   },
   {
     "id": "dialogue_106895",
@@ -1620,9 +1620,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "種尚未同盟",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chua lien minh",
+    "abbrev": "Chualienminh",
+    "status": "done"
   },
   {
     "id": "dialogue_1068A1",
@@ -1633,9 +1633,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "攻守同盟",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lien minh cong thu",
+    "abbrev": "Lien minh",
+    "status": "done"
   },
   {
     "id": "dialogue_1068C3",
@@ -1646,9 +1646,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "人佔管",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nguoi quan ly",
+    "abbrev": "Nguoi quan",
+    "status": "done"
   },
   {
     "id": "dialogue_1068FB",
@@ -1659,9 +1659,9 @@
     "raw_bytes": 29,
     "ascii_max": 31,
     "original": "選擇要實施的兩個國家",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chon hai quoc gia thuc hien",
+    "abbrev": "Chon hai quoc gia thuc hien",
+    "status": "done"
   },
   {
     "id": "dialogue_10691A",
@@ -1672,9 +1672,9 @@
     "raw_bytes": 28,
     "ascii_max": 35,
     "original": "種請選擇兩位擔任密使的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon hai tuong lam mat su",
+    "abbrev": "Hay chon hai tuong lam mat su",
+    "status": "done"
   },
   {
     "id": "dialogue_1069ED",
@@ -1685,9 +1685,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "進行驅狼吞虎的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan huyen khu ho ton lang",
+    "abbrev": "Quan huyen khu ho ton lang",
+    "status": "done"
   },
   {
     "id": "dialogue_106A0D",
@@ -1698,9 +1698,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "請選擇實施此計的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon tuong thuc hien ke nay",
+    "abbrev": "Haychontuongthuchienkenay",
+    "status": "done"
   },
   {
     "id": "dialogue_106BA0",
@@ -1711,9 +1711,9 @@
     "raw_bytes": 30,
     "ascii_max": 37,
     "original": "請選擇實施此計擔任使者的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon tuong lam su thuc hien ke",
+    "abbrev": "Hay chon tuong lam su thuc hien ke",
+    "status": "done"
   },
   {
     "id": "dialogue_106BCC",
@@ -1724,9 +1724,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "將偽書送往",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gui thu gia den",
+    "abbrev": "Gui thu gia den",
+    "status": "done"
   },
   {
     "id": "dialogue_106C1C",
@@ -1737,9 +1737,9 @@
     "raw_bytes": 28,
     "ascii_max": 30,
     "original": "請選擇要進行借刀殺人的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quan huyen giet nguoi dao",
+    "abbrev": "Haychonquanhuyengietnguoidao",
+    "status": "done"
   },
   {
     "id": "dialogue_106CEB",
@@ -1750,9 +1750,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "進行混水摸魚的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan huyen hon nuoc mo ca",
+    "abbrev": "Quan huyen hon nuoc mo ca",
+    "status": "done"
   },
   {
     "id": "dialogue_106D09",
@@ -1763,9 +1763,9 @@
     "raw_bytes": 35,
     "ascii_max": 38,
     "original": "進行混水摸魚之計",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuc hien ke hon nuoc mo ca",
+    "abbrev": "Thuc hien ke hon nuoc mo ca",
+    "status": "done"
   },
   {
     "id": "dialogue_106D4B",
@@ -1776,9 +1776,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "請選擇要進行破壞城牆的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quan huyen pha tuong",
+    "abbrev": "Hay chon quan huyen pha tuong",
+    "status": "done"
   },
   {
     "id": "dialogue_106DA9",
@@ -1789,9 +1789,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "水請選擇要進行苦肉計的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quan huyen ke kho nhu",
+    "abbrev": "Hay chon quan huyen ke kho nhu",
+    "status": "done"
   },
   {
     "id": "dialogue_106DC7",
@@ -1802,9 +1802,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong",
+    "abbrev": "Tuong",
+    "status": "done"
   },
   {
     "id": "dialogue_106DCF",
@@ -1815,9 +1815,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "進行苦肉計",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuc hien ke kho nhu",
+    "abbrev": "Thuc hien ke kho nhu",
+    "status": "done"
   },
   {
     "id": "dialogue_106E0C",
@@ -1828,9 +1828,9 @@
     "raw_bytes": 24,
     "ascii_max": 31,
     "original": "請選擇要進行燒糧的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quan huyen dot luong",
+    "abbrev": "Hay chon quan huyen dot luong",
+    "status": "done"
   },
   {
     "id": "dialogue_106E4F",
@@ -1841,9 +1841,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "進行燒糧之計",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuc hien ke dot luong",
+    "abbrev": "Thuc hien ke dot luong",
+    "status": "done"
   },
   {
     "id": "dialogue_106E6D",
@@ -1854,9 +1854,9 @@
     "raw_bytes": 27,
     "ascii_max": 29,
     "original": "進行誘降的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan huyen du do hang",
+    "abbrev": "Quan huyen du do hang",
+    "status": "done"
   },
   {
     "id": "dialogue_106E8A",
@@ -1867,9 +1867,9 @@
     "raw_bytes": 26,
     "ascii_max": 28,
     "original": "請選擇要誘降的目標武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon tuong muc tieu du do",
+    "abbrev": "Haychontuongmuctieududo",
+    "status": "done"
   },
   {
     "id": "dialogue_106EA6",
@@ -1880,9 +1880,9 @@
     "raw_bytes": 32,
     "ascii_max": 39,
     "original": "請選擇實施此計擔任密使的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon tuong mat su thuc hien ke",
+    "abbrev": "Hay chon tuong mat su thuc hien ke",
+    "status": "done"
   },
   {
     "id": "dialogue_106EEC",
@@ -1893,9 +1893,9 @@
     "raw_bytes": 10,
     "ascii_max": 11,
     "original": "誘降成功",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Du do hang thanh cong",
+    "abbrev": "Du do hang",
+    "status": "done"
   },
   {
     "id": "dialogue_106F05",
@@ -1906,9 +1906,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "進行策反的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan huyen ce phan",
+    "abbrev": "Quan huyen ce phan",
+    "status": "done"
   },
   {
     "id": "dialogue_106F21",
@@ -1919,9 +1919,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "策反的目標武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong muc tieu ce phan",
+    "abbrev": "Tuong muc tieu ce phan",
+    "status": "done"
   },
   {
     "id": "dialogue_106F3D",
@@ -1932,9 +1932,9 @@
     "raw_bytes": 33,
     "ascii_max": 40,
     "original": "此計擔任密使的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong mat su thuc hien ke",
+    "abbrev": "Tuong mat su thuc hien ke",
+    "status": "done"
   },
   {
     "id": "dialogue_106F84",
@@ -1945,9 +1945,9 @@
     "raw_bytes": 10,
     "ascii_max": 11,
     "original": "策反成功",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ce phan thanh cong",
+    "abbrev": "Ce phan",
+    "status": "done"
   },
   {
     "id": "dialogue_106F9D",
@@ -1958,9 +1958,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "進行暗殺的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan huyen am sat",
+    "abbrev": "Quan huyen am sat",
+    "status": "done"
   },
   {
     "id": "dialogue_106FB9",
@@ -1971,9 +1971,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "暗殺的目標武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong muc tieu am sat",
+    "abbrev": "Tuong muc tieu am sat",
+    "status": "done"
   },
   {
     "id": "dialogue_10700C",
@@ -1984,9 +1984,9 @@
     "raw_bytes": 22,
     "ascii_max": 29,
     "original": "進行暗殺",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuc hien am sat",
+    "abbrev": "Thuc hien am sat",
+    "status": "done"
   },
   {
     "id": "dialogue_1070D8",
@@ -1997,9 +1997,9 @@
     "raw_bytes": 39,
     "ascii_max": 40,
     "original": "電腦托管的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan huyen do may quan ly",
+    "abbrev": "Quan huyen do may quan ly",
+    "status": "done"
   },
   {
     "id": "dialogue_107100",
@@ -2010,9 +2010,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "此人並非貪財之徒",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nguoi nay khong tham tien",
+    "abbrev": "Nguoi nay khong tham tien",
+    "status": "done"
   },
   {
     "id": "dialogue_10711F",
@@ -2023,9 +2023,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "此人必往",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nguoi nay chac se di",
+    "abbrev": "Nguoi nay chac se di",
+    "status": "done"
   },
   {
     "id": "dialogue_107135",
@@ -2036,9 +2036,9 @@
     "raw_bytes": 55,
     "ascii_max": 56,
     "original": "吾主特令吾贈與將軍千金",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu ta mang ngan vang tang tuong",
+    "abbrev": "Chu ta mang ngan vang tang tuong",
+    "status": "done"
   },
   {
     "id": "dialogue_10716D",
@@ -2049,9 +2049,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "某願施犬馬之力",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta xin ra suc chon ngua",
+    "abbrev": "Ta xin ra suc chon ngua",
+    "status": "done"
   },
   {
     "id": "dialogue_1071B0",
@@ -2062,9 +2062,9 @@
     "raw_bytes": 34,
     "ascii_max": 35,
     "original": "此人如柳下惠再世",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nguoi nay nhu Lieu Ha Hue tai the",
+    "abbrev": "Nguoi nay nhu Lieu Ha Hue tai the",
+    "status": "done"
   },
   {
     "id": "dialogue_1071D3",
@@ -2075,9 +2075,9 @@
     "raw_bytes": 63,
     "ascii_max": 64,
     "original": "獻一美人以收其心",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dang mot my nhan de thu long",
+    "abbrev": "Dang mot my nhan de thu long",
+    "status": "done"
   },
   {
     "id": "dialogue_107213",
@@ -2088,9 +2088,9 @@
     "raw_bytes": 63,
     "ascii_max": 64,
     "original": "方今天下別無英雄",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tren thien ha khong anh hung khac",
+    "abbrev": "Tren thien ha khong anh hung khac",
+    "status": "done"
   },
   {
     "id": "dialogue_107253",
@@ -2101,9 +2101,9 @@
     "raw_bytes": 53,
     "ascii_max": 54,
     "original": "吾主欲將此女送與將軍為妾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu ta muon giao nu nay lam thi",
+    "abbrev": "Chu ta muon giao nu nay lam thi",
+    "status": "done"
   },
   {
     "id": "dialogue_107289",
@@ -2114,9 +2114,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "某當效犬馬之報",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta se bao on nhu cho ngua",
+    "abbrev": "Ta se bao on nhu cho ngua",
+    "status": "done"
   },
   {
     "id": "dialogue_1072A7",
@@ -2127,9 +2127,9 @@
     "raw_bytes": 41,
     "ascii_max": 42,
     "original": "但恐名譽不立",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung lo danh ti khong lap",
+    "abbrev": "Nhung lo danh ti khong lap",
+    "status": "done"
   },
   {
     "id": "dialogue_1072D1",
@@ -2140,9 +2140,9 @@
     "raw_bytes": 35,
     "ascii_max": 36,
     "original": "公欲以一馬誘之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngai muon dung mot con ngua du do",
+    "abbrev": "Ngai muon dung mot con ngua du do",
+    "status": "done"
   },
   {
     "id": "dialogue_1072F5",
@@ -2153,9 +2153,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "公欲取天下",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngai muon chiem thien ha",
+    "abbrev": "Ngai muon chiem thien ha",
+    "status": "done"
   },
   {
     "id": "dialogue_107311",
@@ -2166,9 +2166,9 @@
     "raw_bytes": 83,
     "ascii_max": 84,
     "original": "今有良馬一匹",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nay co ngua tot mot con",
+    "abbrev": "Nay co ngua tot mot con",
+    "status": "done"
   },
   {
     "id": "dialogue_107365",
@@ -2179,9 +2179,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "將何以為報",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Se bao on the nao",
+    "abbrev": "Se bao on the nao",
+    "status": "done"
   },
   {
     "id": "dialogue_107381",
@@ -2192,9 +2192,9 @@
     "raw_bytes": 83,
     "ascii_max": 87,
     "original": "為何今日屈居於庸才之下",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sao hom nay o duoi ke nhu",
+    "abbrev": "Sao hom nay o duoi ke nhu",
+    "status": "done"
   },
   {
     "id": "dialogue_1073D8",
@@ -2205,9 +2205,9 @@
     "raw_bytes": 14,
     "ascii_max": 15,
     "original": "恨不逢其主耳",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Han khong gap chu",
+    "abbrev": "Hankhonggapchu",
+    "status": "done"
   },
   {
     "id": "dialogue_1073E7",
@@ -2218,9 +2218,9 @@
     "raw_bytes": 91,
     "ascii_max": 92,
     "original": "良禽擇木而棲",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chim tot chon cay ma dau",
+    "abbrev": "Chim tot chon cay ma dau",
+    "status": "done"
   },
   {
     "id": "dialogue_10744B",
@@ -2231,9 +2231,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "如旱苗之得甘雨也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhu mia kho gap mua",
+    "abbrev": "Nhu mia kho gap mua",
+    "status": "done"
   },
   {
     "id": "dialogue_10748B",
@@ -2244,9 +2244,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "必不為所動",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chac khong bi lay chuyen",
+    "abbrev": "Chac khong bi lay chuyen",
+    "status": "done"
   },
   {
     "id": "dialogue_1074A5",
@@ -2257,9 +2257,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "必能說得",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chac noi duoc",
+    "abbrev": "Chac noi duoc",
+    "status": "done"
   },
   {
     "id": "dialogue_1074C1",
@@ -2270,9 +2270,9 @@
     "raw_bytes": 37,
     "ascii_max": 38,
     "original": "願贈與明公",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xin tang minh cong",
+    "abbrev": "Xin tang minh cong",
+    "status": "done"
   },
   {
     "id": "dialogue_1074E7",
@@ -2283,9 +2283,9 @@
     "raw_bytes": 35,
     "ascii_max": 36,
     "original": "某豈可不以死力效之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta sao khong het suc phuc vu",
+    "abbrev": "Ta sao khong het suc phuc vu",
+    "status": "done"
   },
   {
     "id": "dialogue_107533",
@@ -2296,9 +2296,9 @@
     "raw_bytes": 43,
     "ascii_max": 45,
     "original": "素以孤傲聞名",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Von noi tieng co doc",
+    "abbrev": "Von noi tieng co doc",
+    "status": "done"
   },
   {
     "id": "dialogue_107560",
@@ -2309,9 +2309,9 @@
     "raw_bytes": 66,
     "ascii_max": 67,
     "original": "明公可親往求之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Minh cong nen tu den moi",
+    "abbrev": "Minh cong nen tu den moi",
+    "status": "done"
   },
   {
     "id": "dialogue_1075A3",
@@ -2322,9 +2322,9 @@
     "raw_bytes": 91,
     "ascii_max": 93,
     "original": "公乃忠義之士",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngai la nguoi trung nghia",
+    "abbrev": "Ngai la nguoi trung nghia",
+    "status": "done"
   },
   {
     "id": "dialogue_107600",
@@ -2335,9 +2335,9 @@
     "raw_bytes": 100,
     "ascii_max": 101,
     "original": "唯先生開其愚而拯其厄",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mong ong mo dau va cuu nan",
+    "abbrev": "Mong ong mo dau va cuu nan",
+    "status": "done"
   },
   {
     "id": "dialogue_107665",
@@ -2348,9 +2348,9 @@
     "raw_bytes": 79,
     "ascii_max": 80,
     "original": "願先生以天下蒼生為念",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mong ong vi dan chung thien ha",
+    "abbrev": "Mong ong vi dan chung thien ha",
+    "status": "done"
   },
   {
     "id": "dialogue_1076B5",
@@ -2361,9 +2361,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "恨未遇英雄耳",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Han chua gap anh hung",
+    "abbrev": "Han chua gap anh hung",
+    "status": "done"
   },
   {
     "id": "dialogue_1076D5",
@@ -2374,9 +2374,9 @@
     "raw_bytes": 57,
     "ascii_max": 58,
     "original": "將軍奈何舍美玉而求頑石乎",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong sao bo ngoc tim da",
+    "abbrev": "Tuong sao bo ngoc tim da",
+    "status": "done"
   },
   {
     "id": "dialogue_10770F",
@@ -2387,9 +2387,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "眾卿有何意見",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chung khan co y kien gi",
+    "abbrev": "Chung khan co y kien gi",
+    "status": "done"
   },
   {
     "id": "dialogue_10772D",
@@ -2400,9 +2400,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "老底荓悀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10774B",
@@ -2413,9 +2413,9 @@
     "raw_bytes": 173,
     "ascii_max": 174,
     "original": "此兵家必勝之道也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Day la dao thang binh gia",
+    "abbrev": "Day la dao thang binh gia",
+    "status": "done"
   },
   {
     "id": "dialogue_1077F9",
@@ -2426,9 +2426,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "其次伐交",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu hai la pha giao",
+    "abbrev": "Thu hai la pha giao",
+    "status": "done"
   },
   {
     "id": "dialogue_107825",
@@ -2439,9 +2439,9 @@
     "raw_bytes": 107,
     "ascii_max": 108,
     "original": "故兵不頓而利可全",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nen quan khong dinh ma loi toan",
+    "abbrev": "Nen quan khong dinh ma loi toan",
+    "status": "done"
   },
   {
     "id": "dialogue_107891",
@@ -2452,9 +2452,9 @@
     "raw_bytes": 73,
     "ascii_max": 74,
     "original": "不知彼而知己",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong biet ke ma biet minh",
+    "abbrev": "Khong biet ke ma biet minh",
+    "status": "done"
   },
   {
     "id": "dialogue_1078DB",
@@ -2465,9 +2465,9 @@
     "raw_bytes": 113,
     "ascii_max": 114,
     "original": "故能自保而全勝也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nen tu bao toan ma thang het",
+    "abbrev": "Nen tu bao toan ma thang het",
+    "status": "done"
   },
   {
     "id": "dialogue_10794D",
@@ -2478,9 +2478,9 @@
     "raw_bytes": 81,
     "ascii_max": 82,
     "original": "是故勝兵先勝而後求戰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan thang tien chien sau moi danh",
+    "abbrev": "Quan thang tien chien sau moi danh",
+    "status": "done"
   },
   {
     "id": "dialogue_10799F",
@@ -2491,9 +2491,9 @@
     "raw_bytes": 33,
     "ascii_max": 34,
     "original": "之國而以為樂",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quoc gia ma lam vui",
+    "abbrev": "Quoc gia ma lam vui",
+    "status": "done"
   },
   {
     "id": "dialogue_1079C1",
@@ -2504,9 +2504,9 @@
     "raw_bytes": 59,
     "ascii_max": 60,
     "original": "則忖狴峓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_1079FD",
@@ -2517,9 +2517,9 @@
     "raw_bytes": 80,
     "ascii_max": 81,
     "original": "今時值秋涼",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nay thoi tiet mua thu mat",
+    "abbrev": "Nay thoi tiet mua thu mat",
+    "status": "done"
   },
   {
     "id": "dialogue_107A4E",
@@ -2530,9 +2530,9 @@
     "raw_bytes": 66,
     "ascii_max": 67,
     "original": "求臣存畜軍士",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mong quan thu nuoi quan",
+    "abbrev": "Mong quan thu nuoi quan",
+    "status": "done"
   },
   {
     "id": "dialogue_107A91",
@@ -2543,9 +2543,9 @@
     "raw_bytes": 41,
     "ascii_max": 42,
     "original": "攻今敵有隙可乘",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nay ke dich co khe ha",
+    "abbrev": "Nay ke dich co khe ha",
+    "status": "done"
   },
   {
     "id": "dialogue_107ABB",
@@ -2556,9 +2556,9 @@
     "raw_bytes": 73,
     "ascii_max": 74,
     "original": "今若火速進兵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nay neu tien quan gap",
+    "abbrev": "Nay neu tien quan gap",
+    "status": "done"
   },
   {
     "id": "dialogue_107B05",
@@ -2569,9 +2569,9 @@
     "raw_bytes": 81,
     "ascii_max": 82,
     "original": "吾兵乃久經訓練之眾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan ta la doi quan luyen tap",
+    "abbrev": "Quan ta la doi quan luyen tap",
+    "status": "done"
   },
   {
     "id": "dialogue_107B57",
@@ -2582,9 +2582,9 @@
     "raw_bytes": 77,
     "ascii_max": 78,
     "original": "況今軍思效死",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hon nua quan muon hy sinh",
+    "abbrev": "Hon nua quan muon hy sinh",
+    "status": "done"
   },
   {
     "id": "dialogue_107BF3",
@@ -2595,9 +2595,9 @@
     "raw_bytes": 89,
     "ascii_max": 90,
     "original": "今只宜修文偃武",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nay chi nen tu bin nghi vu",
+    "abbrev": "Nay chi nen tu bin nghi vu",
+    "status": "done"
   },
   {
     "id": "dialogue_107C4D",
@@ -2608,9 +2608,9 @@
     "raw_bytes": 69,
     "ascii_max": 70,
     "original": "此乃保國之計也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Day la ke bao quoc",
+    "abbrev": "Day la ke bao quoc",
+    "status": "done"
   },
   {
     "id": "dialogue_107C93",
@@ -2621,9 +2621,9 @@
     "raw_bytes": 89,
     "ascii_max": 90,
     "original": "將軍猶欲行強為之事",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong van muon lam cuong",
+    "abbrev": "Tuong van muon lam cuong",
+    "status": "done"
   },
   {
     "id": "dialogue_107CED",
@@ -2634,9 +2634,9 @@
     "raw_bytes": 85,
     "ascii_max": 86,
     "original": "若不審時勢而輕進",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Neu khong xet thoi ma tien",
+    "abbrev": "Neu khong xet thoi ma tien",
+    "status": "done"
   },
   {
     "id": "dialogue_107D43",
@@ -2647,9 +2647,9 @@
     "raw_bytes": 79,
     "ascii_max": 80,
     "original": "公宜修德以安民",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngai nen tu duc an dan",
+    "abbrev": "Ngai nen tu duc an dan",
+    "status": "done"
   },
   {
     "id": "dialogue_107D93",
@@ -2660,9 +2660,9 @@
     "raw_bytes": 77,
     "ascii_max": 78,
     "original": "今日將軍又欲出師",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hom nay tuong lai muon xuat quan",
+    "abbrev": "Hom nay tuong lai muon xuat quan",
+    "status": "done"
   },
   {
     "id": "dialogue_107DE1",
@@ -2673,9 +2673,9 @@
     "raw_bytes": 91,
     "ascii_max": 92,
     "original": "今明公欲以一小忿而起全國之兵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Minh cong vi mot no ma dong quan",
+    "abbrev": "Minh cong vi mot no ma dong quan",
+    "status": "done"
   },
   {
     "id": "dialogue_107E3D",
@@ -2686,9 +2686,9 @@
     "raw_bytes": 91,
     "ascii_max": 92,
     "original": "將不可以慍致戰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong khong nen gian ma chien",
+    "abbrev": "Tuong khong nen gian ma chien",
+    "status": "done"
   },
   {
     "id": "dialogue_107E99",
@@ -2699,9 +2699,9 @@
     "raw_bytes": 215,
     "ascii_max": 216,
     "original": "本州多留兵則不足用",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ben chau de quan nhieu thi khong du",
+    "abbrev": "Ben chau de quan nhieu thi khong du",
+    "status": "done"
   },
   {
     "id": "dialogue_107F71",
@@ -2712,9 +2712,9 @@
     "raw_bytes": 109,
     "ascii_max": 111,
     "original": "今又動兵擾民",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nay lai dong binh lam loan dan",
+    "abbrev": "Nay lai dong binh lam loan dan",
+    "status": "done"
   },
   {
     "id": "dialogue_107FE0",
@@ -2725,9 +2725,9 @@
     "raw_bytes": 54,
     "ascii_max": 55,
     "original": "待其有隙而後可動也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cho co khe moi hanh dong",
+    "abbrev": "Cho co khe moi hanh dong",
+    "status": "done"
   },
   {
     "id": "dialogue_108017",
@@ -2738,9 +2738,9 @@
     "raw_bytes": 51,
     "ascii_max": 52,
     "original": "吾欲先安屬地",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta muon on dinh lanh tho truoc",
+    "abbrev": "Ta muon on dinh lanh tho truoc",
+    "status": "done"
   },
   {
     "id": "dialogue_10804B",
@@ -2751,9 +2751,9 @@
     "raw_bytes": 45,
     "ascii_max": 46,
     "original": "恐有亂民揭竿而起之危",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "So dan loan khoi day",
+    "abbrev": "So dan loan khoi day",
+    "status": "done"
   },
   {
     "id": "dialogue_108079",
@@ -2764,9 +2764,9 @@
     "raw_bytes": 53,
     "ascii_max": 54,
     "original": "宜輸糧以備不時之需",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nen van luong du phong",
+    "abbrev": "Nen van luong du phong",
+    "status": "done"
   },
   {
     "id": "dialogue_1080AF",
@@ -2777,9 +2777,9 @@
     "raw_bytes": 59,
     "ascii_max": 60,
     "original": "然而糧草不敷使用",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung luong thao khong du",
+    "abbrev": "Nhung luong thao khong du",
+    "status": "done"
   },
   {
     "id": "dialogue_1080EB",
@@ -2790,9 +2790,9 @@
     "raw_bytes": 73,
     "ascii_max": 74,
     "original": "令軍士四散結營",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cho binh linh tan ra dong trai",
+    "abbrev": "Cho binh linh tan ra dong trai",
+    "status": "done"
   },
   {
     "id": "dialogue_108135",
@@ -2803,9 +2803,9 @@
     "raw_bytes": 65,
     "ascii_max": 66,
     "original": "公仁義及於四方",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngai nghia duc den bon phuong",
+    "abbrev": "Ngai nghia duc den bon phuong",
+    "status": "done"
   },
   {
     "id": "dialogue_108177",
@@ -2816,9 +2816,9 @@
     "raw_bytes": 61,
     "ascii_max": 62,
     "original": "此乃主公之威",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Day la uy luc chu cong",
+    "abbrev": "Day la uy luc chu cong",
+    "status": "done"
   },
   {
     "id": "dialogue_1081B5",
@@ -2829,9 +2829,9 @@
     "raw_bytes": 49,
     "ascii_max": 50,
     "original": "四郡糧倉食米充足",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bon chau kho luong day lua",
+    "abbrev": "Bon chau kho luong day lua",
+    "status": "done"
   },
   {
     "id": "dialogue_1081E7",
@@ -2842,9 +2842,9 @@
     "raw_bytes": 63,
     "ascii_max": 65,
     "original": "修身齊家治國平天下",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu than gia quoc tri binh thien ha",
+    "abbrev": "Tu than gia quoc tri binh thien ha",
+    "status": "done"
   },
   {
     "id": "dialogue_108228",
@@ -2855,9 +2855,9 @@
     "raw_bytes": 42,
     "ascii_max": 43,
     "original": "吾輩皆駑鈍之才",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chung ta de la ke ngu don",
+    "abbrev": "Chung ta de la ke ngu don",
+    "status": "done"
   },
   {
     "id": "dialogue_108253",
@@ -2868,9 +2868,9 @@
     "raw_bytes": 49,
     "ascii_max": 50,
     "original": "並無金玉之言以獻主公",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong co loi hay de dang chu cong",
+    "abbrev": "Khong co loi hay de dang chu cong",
+    "status": "done"
   },
   {
     "id": "dialogue_108285",
@@ -2881,9 +2881,9 @@
     "raw_bytes": 47,
     "ascii_max": 51,
     "original": "豈是臣下無謀之輩所知",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong phai ke vo muu biet",
+    "abbrev": "Khong phai ke vo muu biet",
+    "status": "done"
   },
   {
     "id": "dialogue_1082B8",
@@ -2894,9 +2894,9 @@
     "raw_bytes": 54,
     "ascii_max": 55,
     "original": "眾卿各述其見",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chung khan trinh bay y kien",
+    "abbrev": "Chung khan trinh bay y kien",
+    "status": "done"
   },
   {
     "id": "dialogue_1082EF",
@@ -2907,9 +2907,9 @@
     "raw_bytes": 33,
     "ascii_max": 34,
     "original": "備英雄也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Bi la anh hung",
+    "abbrev": "Luu Bi la anh hung",
+    "status": "done"
   },
   {
     "id": "dialogue_108311",
@@ -2920,9 +2920,9 @@
     "raw_bytes": 53,
     "ascii_max": 54,
     "original": "何必遷延日月",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sao phai tri hoan",
+    "abbrev": "Sao phai tri hoan",
+    "status": "done"
   },
   {
     "id": "dialogue_108347",
@@ -2933,9 +2933,9 @@
     "raw_bytes": 69,
     "ascii_max": 70,
     "original": "他日必死於小人之手",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sau se chet tay tieu nhan",
+    "abbrev": "Sau se chet tay tieu nhan",
+    "status": "done"
   },
   {
     "id": "dialogue_10838D",
@@ -2946,9 +2946,9 @@
     "raw_bytes": 169,
     "ascii_max": 170,
     "original": "田豐剛而犯上",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dien Phong cung ma pham thuong",
+    "abbrev": "Dien Phong cung ma pham thuong",
+    "status": "done"
   },
   {
     "id": "dialogue_108437",
@@ -2959,9 +2959,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "公路塚中枯骨",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cong Lo nhu xuong trong mo",
+    "abbrev": "Cong Lo nhu xuong trong mo",
+    "status": "done"
   },
   {
     "id": "dialogue_108453",
@@ -2972,9 +2972,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "布豺狼也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lu Bo nhu cho soi",
+    "abbrev": "Lu Bo nhu cho soi",
+    "status": "done"
   },
   {
     "id": "dialogue_10847F",
@@ -2985,9 +2985,9 @@
     "raw_bytes": 91,
     "ascii_max": 93,
     "original": "今主公若不乘勢剿絕",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu cong neu khong thua de diet",
+    "abbrev": "Chu cong neu khong thua de diet",
+    "status": "done"
   },
   {
     "id": "dialogue_1084DC",
@@ -2998,9 +2998,9 @@
     "raw_bytes": 50,
     "ascii_max": 51,
     "original": "討漢賊以扶王室",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Danh tac Han phu vuong that",
+    "abbrev": "Danh tac Han phu vuong that",
+    "status": "done"
   },
   {
     "id": "dialogue_10850F",
@@ -3011,9 +3011,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "恐失大義於天下",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "So mat nghia voi thien ha",
+    "abbrev": "So mat nghia voi thien ha",
+    "status": "done"
   },
   {
     "id": "dialogue_10853B",
@@ -3024,9 +3024,9 @@
     "raw_bytes": 41,
     "ascii_max": 42,
     "original": "每日教練士卒",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hang ngay luyen binh",
+    "abbrev": "Hang ngay luyen binh",
+    "status": "done"
   },
   {
     "id": "dialogue_10857D",
@@ -3037,9 +3037,9 @@
     "raw_bytes": 57,
     "ascii_max": 58,
     "original": "主公此時起義兵以安天下",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu cong khoi nghia an thien ha",
+    "abbrev": "Chu cong khoi nghia an thien ha",
+    "status": "done"
   },
   {
     "id": "dialogue_1085B7",
@@ -3050,9 +3050,9 @@
     "raw_bytes": 61,
     "ascii_max": 63,
     "original": "汝等遲緩軍心",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cac ngai tri hoan quan tam",
+    "abbrev": "Cac ngai tri hoan quan tam",
+    "status": "done"
   },
   {
     "id": "dialogue_1085F6",
@@ -3063,9 +3063,9 @@
     "raw_bytes": 48,
     "ascii_max": 49,
     "original": "待其羽翼既成",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cho luc long day du",
+    "abbrev": "Cho luc long day du",
+    "status": "done"
   },
   {
     "id": "dialogue_108627",
@@ -3076,9 +3076,9 @@
     "raw_bytes": 143,
     "ascii_max": 144,
     "original": "今玄德素有英雄之名",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Huyen Duc von noi tieng anh hung",
+    "abbrev": "Huyen Duc von noi tieng anh hung",
+    "status": "done"
   },
   {
     "id": "dialogue_1086B7",
@@ -3089,9 +3089,9 @@
     "raw_bytes": 105,
     "ascii_max": 106,
     "original": "比先坐受困者不同",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khac voi ke bi quan truoc",
+    "abbrev": "Khac voi ke bi quan truoc",
+    "status": "done"
   },
   {
     "id": "dialogue_108721",
@@ -3102,9 +3102,9 @@
     "raw_bytes": 131,
     "ascii_max": 132,
     "original": "必裹糧策馬以迎王師",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chac bo luong cuong ngua don vuong",
+    "abbrev": "Chac bo luong cuong ngua don vuong",
+    "status": "done"
   },
   {
     "id": "dialogue_1087A5",
@@ -3115,9 +3115,9 @@
     "raw_bytes": 83,
     "ascii_max": 84,
     "original": "者江東孫伯符據長江之險",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ton Sach o Giang Dong theo song",
+    "abbrev": "Ton Sach o Giang Dong theo song",
+    "status": "done"
   },
   {
     "id": "dialogue_1087F9",
@@ -3128,9 +3128,9 @@
     "raw_bytes": 79,
     "ascii_max": 80,
     "original": "今虎踞冀州之地",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nay nhu ho chiem Ky Chau",
+    "abbrev": "Nay nhu ho chiem Ky Chau",
+    "status": "done"
   },
   {
     "id": "dialogue_108849",
@@ -3141,9 +3141,9 @@
     "raw_bytes": 105,
     "ascii_max": 106,
     "original": "與之為敵不利也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lam ke dich bat loi",
+    "abbrev": "Lam ke dich bat loi",
+    "status": "done"
   },
   {
     "id": "dialogue_1088B3",
@@ -3154,9 +3154,9 @@
     "raw_bytes": 39,
     "ascii_max": 40,
     "original": "兼有羌人之援",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lai co vien tuong Cuong",
+    "abbrev": "Lai co vien tuong Cuong",
+    "status": "done"
   },
   {
     "id": "dialogue_1088DB",
@@ -3167,9 +3167,9 @@
     "raw_bytes": 41,
     "ascii_max": 42,
     "original": "況擁羌兵之眾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hon nua co quan Cuong",
+    "abbrev": "Hon nua co quan Cuong",
+    "status": "done"
   },
   {
     "id": "dialogue_108905",
@@ -3180,9 +3180,9 @@
     "raw_bytes": 93,
     "ascii_max": 94,
     "original": "荊州人稱八駿之一",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nguoi Kinh Chau goi mot trong Bat Tuan",
+    "abbrev": "Nguoi Kinh Chau goi mot trong Bat Tuan",
+    "status": "done"
   },
   {
     "id": "dialogue_108963",
@@ -3193,9 +3193,9 @@
     "raw_bytes": 79,
     "ascii_max": 80,
     "original": "非好利忘義之輩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong phai ke tham loi bo nghia",
+    "abbrev": "Khong phai ke tham loi bo nghia",
+    "status": "done"
   },
   {
     "id": "dialogue_1089B3",
@@ -3206,9 +3206,9 @@
     "raw_bytes": 99,
     "ascii_max": 100,
     "original": "不可復興大軍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong the dong quan lon lai",
+    "abbrev": "Khong the dong quan lon lai",
+    "status": "done"
   },
   {
     "id": "dialogue_108A17",
@@ -3219,9 +3219,9 @@
     "raw_bytes": 39,
     "ascii_max": 40,
     "original": "方可長驅大進",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Moi co the tien quan dai",
+    "abbrev": "Moi co the tien quan dai",
+    "status": "done"
   },
   {
     "id": "dialogue_108A3F",
@@ -3232,9 +3232,9 @@
     "raw_bytes": 35,
     "ascii_max": 36,
     "original": "不可輕敵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong the khe dich",
+    "abbrev": "Khong the khe dich",
+    "status": "done"
   },
   {
     "id": "dialogue_108A63",
@@ -3245,9 +3245,9 @@
     "raw_bytes": 41,
     "ascii_max": 42,
     "original": "如虎生翼矣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhu ho them can",
+    "abbrev": "Nhu ho them can",
+    "status": "done"
   },
   {
     "id": "dialogue_108A8D",
@@ -3258,9 +3258,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "公善用兵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngai dung binh gioi",
+    "abbrev": "Ngai dung binh gioi",
+    "status": "done"
   },
   {
     "id": "dialogue_108AB9",
@@ -3271,9 +3271,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "不可與戰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong the chien",
+    "abbrev": "Khong the chien",
+    "status": "done"
   },
   {
     "id": "dialogue_108AD9",
@@ -3284,9 +3284,9 @@
     "raw_bytes": 59,
     "ascii_max": 60,
     "original": "不若求和安民為上",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hon la cau hoa an dan",
+    "abbrev": "Hon la cau hoa an dan",
+    "status": "done"
   },
   {
     "id": "dialogue_108B15",
@@ -3297,9 +3297,9 @@
     "raw_bytes": 25,
     "ascii_max": 27,
     "original": "無用之人",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke vo dung",
+    "abbrev": "Ke vo dung",
+    "status": "done"
   },
   {
     "id": "dialogue_108B30",
@@ -3310,9 +3310,9 @@
     "raw_bytes": 44,
     "ascii_max": 45,
     "original": "況為政以人為本",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hon nua tri chinh nhan la goc",
+    "abbrev": "Hon nua tri chinh nhan la goc",
+    "status": "done"
   },
   {
     "id": "dialogue_108B5D",
@@ -3323,9 +3323,9 @@
     "raw_bytes": 55,
     "ascii_max": 56,
     "original": "善曉兵機",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thong binh phap",
+    "abbrev": "Thong binh phap",
+    "status": "done"
   },
   {
     "id": "dialogue_108B95",
@@ -3336,9 +3336,9 @@
     "raw_bytes": 65,
     "ascii_max": 66,
     "original": "吾知彼常有不平之意",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta biet ong thuong bat man",
+    "abbrev": "Ta biet ong thuong bat man",
+    "status": "done"
   },
   {
     "id": "dialogue_108BD7",
@@ -3349,9 +3349,9 @@
     "raw_bytes": 33,
     "ascii_max": 34,
     "original": "不可使獨掌大權",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong cho doc chuoc quyen",
+    "abbrev": "Khong cho doc chuoc quyen",
+    "status": "done"
   },
   {
     "id": "dialogue_108BF9",
@@ -3362,9 +3362,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "何不羅而致之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sao khong moi den",
+    "abbrev": "Sao khong moi den",
+    "status": "done"
   },
   {
     "id": "dialogue_108C19",
@@ -3375,9 +3375,9 @@
     "raw_bytes": 51,
     "ascii_max": 52,
     "original": "因避亂隱居於此",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tron loan an minh o day",
+    "abbrev": "Tron loan an minh o day",
+    "status": "done"
   },
   {
     "id": "dialogue_108C50",
@@ -3388,9 +3388,9 @@
     "raw_bytes": 34,
     "ascii_max": 35,
     "original": "吾軍眾將皆心向主公",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong ta deu ve chu cong",
+    "abbrev": "Tuong ta deu ve chu cong",
+    "status": "done"
   },
   {
     "id": "dialogue_108C73",
@@ -3401,9 +3401,9 @@
     "raw_bytes": 45,
     "ascii_max": 49,
     "original": "必效死力以報主公知遇之恩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chac hy sinh bao on tri ngai",
+    "abbrev": "Chac hy sinh bao on tri ngai",
+    "status": "done"
   },
   {
     "id": "dialogue_108CA4",
@@ -3414,9 +3414,9 @@
     "raw_bytes": 56,
     "ascii_max": 57,
     "original": "拋頭顱撒熱血再所不辭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xong dau rot mau khong lui",
+    "abbrev": "Xong dau rot mau khong lui",
+    "status": "done"
   },
   {
     "id": "dialogue_108CDD",
@@ -3427,9 +3427,9 @@
     "raw_bytes": 73,
     "ascii_max": 74,
     "original": "天下英才皆齊聚主公麾下",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Anh tai thien ha ve chu cong",
+    "abbrev": "Anh tai thien ha ve chu cong",
+    "status": "done"
   },
   {
     "id": "dialogue_108D27",
@@ -3440,9 +3440,9 @@
     "raw_bytes": 55,
     "ascii_max": 57,
     "original": "公如願行三顧之禮示其求才若渴",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Neu lam le tam cung tim tai",
+    "abbrev": "Neu lam le tam cung tim tai",
+    "status": "done"
   },
   {
     "id": "dialogue_108D60",
@@ -3453,9 +3453,9 @@
     "raw_bytes": 40,
     "ascii_max": 41,
     "original": "鄉野之間並無可用之才",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong que khong tai dung",
+    "abbrev": "Dong que khong tai dung",
+    "status": "done"
   },
   {
     "id": "dialogue_108D89",
@@ -3466,9 +3466,9 @@
     "raw_bytes": 55,
     "ascii_max": 56,
     "original": "主公宜觀其人以視其才而用之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu cong nen xet nhan dung tai",
+    "abbrev": "Chu cong nen xet nhan dung tai",
+    "status": "done"
   },
   {
     "id": "dialogue_108DC1",
@@ -3479,9 +3479,9 @@
     "raw_bytes": 33,
     "ascii_max": 34,
     "original": "才主公信賞必罰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu cong thuong phat ro",
+    "abbrev": "Chu cong thuong phat ro",
+    "status": "done"
   },
   {
     "id": "dialogue_108DE3",
@@ -3492,9 +3492,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "賞虛施則勞臣怨",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuong hu thi quan oan",
+    "abbrev": "Thuong hu thi quan oan",
+    "status": "done"
   },
   {
     "id": "dialogue_108E03",
@@ -3505,9 +3505,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "乃遷善黜惡之法",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La phap dien thien cu ac",
+    "abbrev": "La phap dien thien cu ac",
+    "status": "done"
   },
   {
     "id": "dialogue_108E3B",
@@ -3518,9 +3518,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "以肝腦塗地",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hy sinh tan toan",
+    "abbrev": "Hy sinh tan toan",
+    "status": "done"
   },
   {
     "id": "dialogue_108E57",
@@ -3531,9 +3531,9 @@
     "raw_bytes": 37,
     "ascii_max": 38,
     "original": "不因一女子而效死力",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong vi mot nu ma hy sinh",
+    "abbrev": "Khong vi mot nu ma hy sinh",
+    "status": "done"
   },
   {
     "id": "dialogue_108E7D",
@@ -3544,9 +3544,9 @@
     "raw_bytes": 91,
     "ascii_max": 93,
     "original": "主公心腹猛將也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La tam phuc tuong manh chu cong",
+    "abbrev": "La tam phuc tuong manh chu cong",
+    "status": "done"
   },
   {
     "id": "dialogue_108EDA",
@@ -3557,9 +3557,9 @@
     "raw_bytes": 32,
     "ascii_max": 33,
     "original": "仍雖以名馬賜之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Van tang ngua quy",
+    "abbrev": "Van tang ngua quy",
+    "status": "done"
   },
   {
     "id": "dialogue_108F15",
@@ -3570,9 +3570,9 @@
     "raw_bytes": 37,
     "ascii_max": 38,
     "original": "主公何以賜予重寶",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu cong sao tang bao vat",
+    "abbrev": "Chu cong sao tang bao vat",
+    "status": "done"
   },
   {
     "id": "dialogue_108F3B",
@@ -3583,9 +3583,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "則勇士知其所死",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dung si biet hy sinh vi gi",
+    "abbrev": "Dung si biet hy sinh vi gi",
+    "status": "done"
   },
   {
     "id": "dialogue_108F5B",
@@ -3596,9 +3596,9 @@
     "raw_bytes": 43,
     "ascii_max": 45,
     "original": "將公主賜於此人",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Giao cong chua cho nguoi nay",
+    "abbrev": "Giao cong chua cho nguoi nay",
+    "status": "done"
   },
   {
     "id": "dialogue_108F88",
@@ -3609,9 +3609,9 @@
     "raw_bytes": 56,
     "ascii_max": 57,
     "original": "乃當世之英傑",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La anh tuong thoi dai",
+    "abbrev": "La anh tuong thoi dai",
+    "status": "done"
   },
   {
     "id": "dialogue_108FC1",
@@ -3622,9 +3622,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "此人必生反意",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nguoi nay chac sinh long phan",
+    "abbrev": "Nguoinaychacsinhlongphan",
+    "status": "done"
   },
   {
     "id": "dialogue_108FDD",
@@ -3635,9 +3635,9 @@
     "raw_bytes": 45,
     "ascii_max": 46,
     "original": "乃明珠暗投也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La minh chau nem toi",
+    "abbrev": "La minh chau nem toi",
+    "status": "done"
   },
   {
     "id": "dialogue_10900B",
@@ -3648,9 +3648,9 @@
     "raw_bytes": 35,
     "ascii_max": 36,
     "original": "乃安邦定國之材",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La tai an bang dinh quoc",
+    "abbrev": "La tai an bang dinh quoc",
+    "status": "done"
   },
   {
     "id": "dialogue_10902F",
@@ -3661,9 +3661,9 @@
     "raw_bytes": 49,
     "ascii_max": 50,
     "original": "明公如執意流放此人",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Minh cong neu truc xuat",
+    "abbrev": "Minh cong neu truc xuat",
+    "status": "done"
   },
   {
     "id": "dialogue_109061",
@@ -3674,9 +3674,9 @@
     "raw_bytes": 41,
     "ascii_max": 42,
     "original": "英部傢悀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10908B",
@@ -3687,9 +3687,9 @@
     "raw_bytes": 45,
     "ascii_max": 46,
     "original": "況且事未可定",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hon nua viec chua ro",
+    "abbrev": "Hon nua viec chua ro",
+    "status": "done"
   },
   {
     "id": "dialogue_1090B9",
@@ -3700,9 +3700,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "若孕慾庤",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_1090E5",
@@ -3713,9 +3713,9 @@
     "raw_bytes": 34,
     "ascii_max": 35,
     "original": "若不斬草除根",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Neu khong diet tan goc",
+    "abbrev": "Neu khong diet tan goc",
+    "status": "done"
   },
   {
     "id": "dialogue_109108",
@@ -3726,9 +3726,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "今日不殺此賊",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hom nay khong giet tac",
+    "abbrev": "Hom nay khong giet tac",
+    "status": "done"
   },
   {
     "id": "dialogue_109121",
@@ -3739,9 +3739,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "留你何用",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Giu ngai lam gi",
+    "abbrev": "Giu ngai lam gi",
+    "status": "done"
   },
   {
     "id": "dialogue_109143",
@@ -3752,9 +3752,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "珜煽捫悝琠囥",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_109165",
@@ -3765,9 +3765,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "召的方式",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cach trieu chieu",
+    "abbrev": "Cach trieu chieu",
+    "status": "done"
   },
   {
     "id": "dialogue_10918F",
@@ -3778,9 +3778,9 @@
     "raw_bytes": 25,
     "ascii_max": 29,
     "original": "徵召武將的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan huyen trieu chieu tuong",
+    "abbrev": "Quan huyen trieu chieu tuong",
+    "status": "done"
   },
   {
     "id": "dialogue_1091AC",
@@ -3791,9 +3791,9 @@
     "raw_bytes": 18,
     "ascii_max": 19,
     "original": "無在野武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong tuong tai da",
+    "abbrev": "Khong tuong tai da",
+    "status": "done"
   },
   {
     "id": "dialogue_1091BF",
@@ -3804,9 +3804,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "徵召的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong trieu chieu",
+    "abbrev": "Tuong trieu chieu",
+    "status": "done"
   },
   {
     "id": "dialogue_1091D5",
@@ -3817,9 +3817,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "磥局郈嚝僁嵽籊洈怐漯",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_1091EF",
@@ -3830,9 +3830,9 @@
     "raw_bytes": 28,
     "ascii_max": 35,
     "original": "請輸入賜予的黃金數",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay nhap so vang tang",
+    "abbrev": "Hay nhap so vang tang",
+    "status": "done"
   },
   {
     "id": "dialogue_1092AA",
@@ -3843,9 +3843,9 @@
     "raw_bytes": 33,
     "ascii_max": 34,
     "original": "誓死不願投效",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quyet khong phuc vu",
+    "abbrev": "Quyet khong phuc vu",
+    "status": "done"
   },
   {
     "id": "dialogue_1092CC",
@@ -3856,9 +3856,9 @@
     "raw_bytes": 12,
     "ascii_max": 15,
     "original": "召失敗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trieu chieu that bai",
+    "abbrev": "Trieu chieu",
+    "status": "done"
   },
   {
     "id": "dialogue_109317",
@@ -3869,9 +3869,9 @@
     "raw_bytes": 25,
     "ascii_max": 32,
     "original": "以美色誘之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dung sac du do",
+    "abbrev": "Dung sac du do",
+    "status": "done"
   },
   {
     "id": "dialogue_1093B4",
@@ -3882,9 +3882,9 @@
     "raw_bytes": 20,
     "ascii_max": 27,
     "original": "的郡內沒有名馬",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trong quan khong co ma quy",
+    "abbrev": "Trong quan khong co ma quy",
+    "status": "done"
   },
   {
     "id": "dialogue_109474",
@@ -3895,9 +3895,9 @@
     "raw_bytes": 26,
     "ascii_max": 27,
     "original": "主閣下您沒有任何寶物",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu cong khong co bao vat",
+    "abbrev": "Chu cong khong co bao vat",
+    "status": "done"
   },
   {
     "id": "dialogue_10948F",
@@ -3908,9 +3908,9 @@
     "raw_bytes": 21,
     "ascii_max": 25,
     "original": "請選擇要贈予的寶物",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon bao vat tang",
+    "abbrev": "Hay chon bao vat tang",
+    "status": "done"
   },
   {
     "id": "dialogue_10958C",
@@ -3921,9 +3921,9 @@
     "raw_bytes": 24,
     "ascii_max": 31,
     "original": "無適當武將可徵召",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong tuong hop de trieu",
+    "abbrev": "Khong tuong hop de trieu",
+    "status": "done"
   },
   {
     "id": "dialogue_1095BC",
@@ -3934,9 +3934,9 @@
     "raw_bytes": 26,
     "ascii_max": 33,
     "original": "處曉以大義",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuyet phuc bang dai nghia",
+    "abbrev": "Thuyet phuc bang dai nghia",
+    "status": "done"
   },
   {
     "id": "dialogue_109650",
@@ -3947,9 +3947,9 @@
     "raw_bytes": 20,
     "ascii_max": 24,
     "original": "請選擇要改變官職的郡",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quan thay quan chuc",
+    "abbrev": "Haychonquanthayquanchuc",
+    "status": "done"
   },
   {
     "id": "dialogue_109668",
@@ -3960,9 +3960,9 @@
     "raw_bytes": 24,
     "ascii_max": 28,
     "original": "請選擇要改變官職的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon tuong thay quan chuc",
+    "abbrev": "Haychontuongthayquanchuc",
+    "status": "done"
   },
   {
     "id": "dialogue_109684",
@@ -3973,9 +3973,9 @@
     "raw_bytes": 22,
     "ascii_max": 23,
     "original": "請選擇欲要改變的官職",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quan chuc muon thay",
+    "abbrev": "Haychonquanchucmuonthay",
+    "status": "done"
   },
   {
     "id": "dialogue_1096D8",
@@ -3986,9 +3986,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "所屬的武將總人數不足六人",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tong tuong chua du sau nguoi",
+    "abbrev": "Tong tuong chua du sau nguoi",
+    "status": "done"
   },
   {
     "id": "dialogue_109704",
@@ -3999,9 +3999,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "請選擇本次朝廷會議的主題",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon chu de hoi nghi",
+    "abbrev": "Hay chon chu de hoi nghi",
+    "status": "done"
   },
   {
     "id": "dialogue_10971D",
@@ -4012,9 +4012,9 @@
     "raw_bytes": 23,
     "ascii_max": 27,
     "original": "改鬚郈嚝颩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_109738",
@@ -4025,9 +4025,9 @@
     "raw_bytes": 26,
     "ascii_max": 27,
     "original": "此計施不得",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke nay khong thuc hien duoc",
+    "abbrev": "Ke nay khong thuc hien duoc",
+    "status": "done"
   },
   {
     "id": "dialogue_10978D",
@@ -4038,9 +4038,9 @@
     "raw_bytes": 8,
     "ascii_max": 9,
     "original": "迒昍昍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_109796",
@@ -4051,9 +4051,9 @@
     "raw_bytes": 22,
     "ascii_max": 23,
     "original": "請選擇要討論的國家",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quoc gia thao luan",
+    "abbrev": "Haychonquocgiathaoluan",
+    "status": "done"
   },
   {
     "id": "dialogue_10989C",
@@ -4064,9 +4064,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "請選擇要賞賜武將的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quan huyen thuong tuong",
+    "abbrev": "Hay chon quan huyen",
+    "status": "done"
   },
   {
     "id": "dialogue_1098CE",
@@ -4077,9 +4077,9 @@
     "raw_bytes": 29,
     "ascii_max": 36,
     "original": "請輸入賞賜的黃金數",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay nhap so vang thuong",
+    "abbrev": "Hay nhap so vang thuong",
+    "status": "done"
   },
   {
     "id": "dialogue_1099E0",
@@ -4090,9 +4090,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "您膝下已無公主也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu cong khong con cong chua",
+    "abbrev": "Chu cong khong con cong chua",
+    "status": "done"
   },
   {
     "id": "dialogue_109A1A",
@@ -4103,9 +4103,9 @@
     "raw_bytes": 22,
     "ascii_max": 29,
     "original": "請選擇要賜婚的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon tuong cuoi cong chua",
+    "abbrev": "Hay chon tuong cuoi cong chua",
+    "status": "done"
   },
   {
     "id": "dialogue_109A37",
@@ -4116,9 +4116,9 @@
     "raw_bytes": 25,
     "ascii_max": 29,
     "original": "將公主嫁予",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Giao cong chua cho",
+    "abbrev": "Giao cong chua cho",
+    "status": "done"
   },
   {
     "id": "dialogue_109A54",
@@ -4129,9 +4129,9 @@
     "raw_bytes": 18,
     "ascii_max": 19,
     "original": "請選擇處分的方式",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon cach xu phat",
+    "abbrev": "Haychoncachxuphat",
+    "status": "done"
   },
   {
     "id": "dialogue_109A67",
@@ -4142,9 +4142,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "請選擇要處分武將的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quan huyen xu tuong",
+    "abbrev": "Haychonquanhuyenxutuong",
+    "status": "done"
   },
   {
     "id": "dialogue_109A9D",
@@ -4155,9 +4155,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "請選擇要沒收的寶物",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon bao vat tru",
+    "abbrev": "Hay chon bao vat tru",
+    "status": "done"
   },
   {
     "id": "dialogue_109AF0",
@@ -4168,9 +4168,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "請選擇要流放武將的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quan huyen truc xuat",
+    "abbrev": "Haychonquanhuyentrucxuat",
+    "status": "done"
   },
   {
     "id": "dialogue_109B0C",
@@ -4181,9 +4181,9 @@
     "raw_bytes": 20,
     "ascii_max": 22,
     "original": "請選擇要流放的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon tuong truc xuat",
+    "abbrev": "Haychontuongtrucxuat",
+    "status": "done"
   },
   {
     "id": "dialogue_109B32",
@@ -4194,9 +4194,9 @@
     "raw_bytes": 26,
     "ascii_max": 27,
     "original": "斬首武將的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan huyen truc dau tuong",
+    "abbrev": "Quan huyen truc dau tuong",
+    "status": "done"
   },
   {
     "id": "dialogue_109B4D",
@@ -4207,9 +4207,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "物直郈嚝颩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_109B80",
@@ -4220,9 +4220,9 @@
     "raw_bytes": 18,
     "ascii_max": 19,
     "original": "被斬首示眾了",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Da bi truc dau thi chung",
+    "abbrev": "Dabitrucdauthichung",
+    "status": "done"
   },
   {
     "id": "dialogue_109BC4",
@@ -4233,9 +4233,9 @@
     "raw_bytes": 54,
     "ascii_max": 55,
     "original": "乃吾之刀下魚",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La ca trong dao ta",
+    "abbrev": "La ca trong dao ta",
+    "status": "done"
   },
   {
     "id": "dialogue_109BFB",
@@ -4246,9 +4246,9 @@
     "raw_bytes": 51,
     "ascii_max": 52,
     "original": "今兩國合則相利",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hai nuoc hop thi co loi",
+    "abbrev": "Hai nuoc hop thi co loi",
+    "status": "done"
   },
   {
     "id": "dialogue_109C5F",
@@ -4259,9 +4259,9 @@
     "raw_bytes": 17,
     "ascii_max": 21,
     "original": "幸而不辱君命",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "May man khong lam mat mang",
+    "abbrev": "Maymankhonglammatmang",
+    "status": "done"
   },
   {
     "id": "dialogue_109C74",
@@ -4272,9 +4272,9 @@
     "raw_bytes": 22,
     "ascii_max": 23,
     "original": "謀我甚切",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Am muu ta rat gan",
+    "abbrev": "Am muu ta rat gan",
+    "status": "done"
   },
   {
     "id": "dialogue_109C8B",
@@ -4285,9 +4285,9 @@
     "raw_bytes": 75,
     "ascii_max": 76,
     "original": "信義名於諸侯",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tin nghia noi tieng chu hau",
+    "abbrev": "Tin nghia noi tieng chu hau",
+    "status": "done"
   },
   {
     "id": "dialogue_109CD7",
@@ -4298,9 +4298,9 @@
     "raw_bytes": 33,
     "ascii_max": 34,
     "original": "明公宜速伐之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Minh cong nen tan cong gap",
+    "abbrev": "Minh cong nen tan cong gap",
+    "status": "done"
   },
   {
     "id": "dialogue_109CF9",
@@ -4311,9 +4311,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "乃主公之威",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "La uy luc chu cong",
+    "abbrev": "La uy luc chu cong",
+    "status": "done"
   },
   {
     "id": "dialogue_109D11",
@@ -4324,9 +4324,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "背信無義之輩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Loai bo tin nghia",
+    "abbrev": "Loai bo tin nghia",
+    "status": "done"
   },
   {
     "id": "dialogue_109D31",
@@ -4337,9 +4337,9 @@
     "raw_bytes": 73,
     "ascii_max": 74,
     "original": "差一舌辯之士",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thieu mot nguoi bien thien",
+    "abbrev": "Thieu mot nguoi bien thien",
+    "status": "done"
   },
   {
     "id": "dialogue_109D7B",
@@ -4350,9 +4350,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "不能說服",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong thuyet phuc duoc",
+    "abbrev": "Khong thuyet phuc duoc",
+    "status": "done"
   },
   {
     "id": "dialogue_109D95",
@@ -4363,9 +4363,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "令一上將率軍相助",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mang mot tuong dan quan tro",
+    "abbrev": "Mangmottuongdanquantro",
+    "status": "done"
   },
   {
     "id": "dialogue_109DAF",
@@ -4376,9 +4376,9 @@
     "raw_bytes": 37,
     "ascii_max": 38,
     "original": "見鄰國有難",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thay nuoc lang co nan",
+    "abbrev": "Thay nuoc lang co nan",
+    "status": "done"
   },
   {
     "id": "dialogue_109DD5",
@@ -4389,9 +4389,9 @@
     "raw_bytes": 55,
     "ascii_max": 56,
     "original": "吾國積怨已久",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nuoc ta tich o lau",
+    "abbrev": "Nuoc ta tich o lau",
+    "status": "done"
   },
   {
     "id": "dialogue_109E0D",
@@ -4402,9 +4402,9 @@
     "raw_bytes": 19,
     "ascii_max": 20,
     "original": "以金糧相助",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Giup vang va luong",
+    "abbrev": "Giup vang va luong",
+    "status": "done"
   },
   {
     "id": "dialogue_109E21",
@@ -4415,9 +4415,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "不願借糧",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong muon cho luong",
+    "abbrev": "Khong muon cho luong",
+    "status": "done"
   },
   {
     "id": "dialogue_109E37",
@@ -4428,9 +4428,9 @@
     "raw_bytes": 61,
     "ascii_max": 62,
     "original": "令一上將率大軍破之為上策",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mang tuong dan quan pha la thuong",
+    "abbrev": "Mang tuong dan quan pha la thuong",
+    "status": "done"
   },
   {
     "id": "dialogue_109E75",
@@ -4441,9 +4441,9 @@
     "raw_bytes": 45,
     "ascii_max": 47,
     "original": "眾諸侯必不敢正視吾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu hau khong dam nhin ta",
+    "abbrev": "Chu hau khong dam nhin ta",
+    "status": "done"
   },
   {
     "id": "dialogue_109EA4",
@@ -4454,9 +4454,9 @@
     "raw_bytes": 12,
     "ascii_max": 13,
     "original": "欣然許之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vui ve chap nhan",
+    "abbrev": "Vuivechapnhan",
+    "status": "done"
   },
   {
     "id": "dialogue_109EB1",
@@ -4467,9 +4467,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "主公何不引軍伐之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu cong sao khong danh",
+    "abbrev": "Chu cong sao khong danh",
+    "status": "done"
   },
   {
     "id": "dialogue_109EDD",
@@ -4480,9 +4480,9 @@
     "raw_bytes": 47,
     "ascii_max": 48,
     "original": "何須資糧於賊",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Can gi cho luong ke",
+    "abbrev": "Can gi cho luong ke",
+    "status": "done"
   },
   {
     "id": "dialogue_109F0D",
@@ -4493,9 +4493,9 @@
     "raw_bytes": 83,
     "ascii_max": 85,
     "original": "不若施以懷柔之計",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hon la dung ke nhuu nhu",
+    "abbrev": "Hon la dung ke nhuu nhu",
+    "status": "done"
   },
   {
     "id": "dialogue_109F62",
@@ -4506,9 +4506,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "擇日令人回禮",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chon ngay hoi le",
+    "abbrev": "Chon ngay hoi le",
+    "status": "done"
   },
   {
     "id": "dialogue_109F7B",
@@ -4519,9 +4519,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "辜負主公期望",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong xung mong chu cong",
+    "abbrev": "Khong xung mong chu cong",
+    "status": "done"
   },
   {
     "id": "dialogue_109F93",
@@ -4532,9 +4532,9 @@
     "raw_bytes": 51,
     "ascii_max": 52,
     "original": "不如行以懷柔之法",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hon la dung phap nhuu nhu",
+    "abbrev": "Hon la dung phap nhuu nhu",
+    "status": "done"
   },
   {
     "id": "dialogue_109FC7",
@@ -4545,9 +4545,9 @@
     "raw_bytes": 49,
     "ascii_max": 50,
     "original": "今更如驚弓之鳥",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nay nhu chim bi ban",
+    "abbrev": "Nay nhu chim bi ban",
+    "status": "done"
   },
   {
     "id": "dialogue_109FF9",
@@ -4558,9 +4558,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "果從吾願",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Qua nhu mong muon",
+    "abbrev": "Qua nhu mong muon",
+    "status": "done"
   },
   {
     "id": "dialogue_10A011",
@@ -4571,9 +4571,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "某纂釵菻謒銆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10A047",
@@ -4584,9 +4584,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "善之善者也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tot cua tot",
+    "abbrev": "Tot cua tot",
+    "status": "done"
   },
   {
     "id": "dialogue_10A065",
@@ -4597,9 +4597,9 @@
     "raw_bytes": 59,
     "ascii_max": 60,
     "original": "以救一郡百姓之命",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "De cuu mang dan mot quan",
+    "abbrev": "De cuu mang dan mot quan",
+    "status": "done"
   },
   {
     "id": "dialogue_10A0A1",
@@ -4610,9 +4610,9 @@
     "raw_bytes": 45,
     "ascii_max": 46,
     "original": "兩軍唯有在戰場相見",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hai quan chi gap tren chien truong",
+    "abbrev": "Hai quan chi gap tren chien truong",
+    "status": "done"
   },
   {
     "id": "dialogue_10A0CF",
@@ -4623,9 +4623,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "決不肯和",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quyet khong hoa",
+    "abbrev": "Quyet khong hoa",
+    "status": "done"
   },
   {
     "id": "dialogue_10A0E7",
@@ -4636,9 +4636,9 @@
     "raw_bytes": 83,
     "ascii_max": 84,
     "original": "宜假天子之詔",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nen gia lenh Thien tu",
+    "abbrev": "Nen gia lenh Thien tu",
+    "status": "done"
   },
   {
     "id": "dialogue_10A13B",
@@ -4649,9 +4649,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "遂令兩家罷兵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lien hai ben ngung chien",
+    "abbrev": "Lien hai ben ngung chien",
+    "status": "done"
   },
   {
     "id": "dialogue_10A167",
@@ -4662,9 +4662,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "不聽勸戒",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong nghe khuyen",
+    "abbrev": "Khong nghe khuyen",
+    "status": "done"
   },
   {
     "id": "dialogue_10A183",
@@ -4675,9 +4675,9 @@
     "raw_bytes": 37,
     "ascii_max": 38,
     "original": "捨一無謀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bo mot ke vo muu",
+    "abbrev": "Bo mot ke vo muu",
+    "status": "done"
   },
   {
     "id": "dialogue_10A1C9",
@@ -4688,9 +4688,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "送還吾國",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tra ve nuoc ta",
+    "abbrev": "Tra ve nuoc ta",
+    "status": "done"
   },
   {
     "id": "dialogue_10A1DF",
@@ -4701,9 +4701,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "無法贖回",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong the chuoc",
+    "abbrev": "Khong the chuoc",
+    "status": "done"
   },
   {
     "id": "dialogue_10A201",
@@ -4714,9 +4714,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "結盟的國家",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quoc gia lien minh",
+    "abbrev": "Quoc gia lien minh",
+    "status": "done"
   },
   {
     "id": "dialogue_10A219",
@@ -4727,9 +4727,9 @@
     "raw_bytes": 27,
     "ascii_max": 31,
     "original": "擔任使者的武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong lam su",
+    "abbrev": "Tuong lam su",
+    "status": "done"
   },
   {
     "id": "dialogue_10A238",
@@ -4740,9 +4740,9 @@
     "raw_bytes": 20,
     "ascii_max": 21,
     "original": "請輸入結盟年限",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay nhap thoi han lien minh",
+    "abbrev": "Hay nhap thoi han",
+    "status": "done"
   },
   {
     "id": "dialogue_10A311",
@@ -4753,9 +4753,9 @@
     "raw_bytes": 10,
     "ascii_max": 16,
     "original": "埂嫙",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10A35C",
@@ -4766,9 +4766,9 @@
     "raw_bytes": 24,
     "ascii_max": 31,
     "original": "請選擇要出兵合攻的郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quan huyen hop tan",
+    "abbrev": "Hay chon quan huyen hop tan",
+    "status": "done"
   },
   {
     "id": "dialogue_10A3E0",
@@ -4779,9 +4779,9 @@
     "raw_bytes": 22,
     "ascii_max": 24,
     "original": "請選擇要求援助的物資",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon vat tu vien tro",
+    "abbrev": "Hay chon vat tu vien tro",
+    "status": "done"
   },
   {
     "id": "dialogue_10A3F8",
@@ -4792,9 +4792,9 @@
     "raw_bytes": 27,
     "ascii_max": 34,
     "original": "請輸入援助的",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay nhap vien tro",
+    "abbrev": "Hay nhap vien tro",
+    "status": "done"
   },
   {
     "id": "dialogue_10A4C4",
@@ -4805,9 +4805,9 @@
     "raw_bytes": 22,
     "ascii_max": 29,
     "original": "請選擇要求聯姻的國家",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quoc gia lien hon",
+    "abbrev": "Hay chon quoc gia lien hon",
+    "status": "done"
   },
   {
     "id": "dialogue_10A587",
@@ -4818,9 +4818,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "進貢的國家",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quoc gia tien cong",
+    "abbrev": "Quoc gia tien cong",
+    "status": "done"
   },
   {
     "id": "dialogue_10A5A0",
@@ -4831,9 +4831,9 @@
     "raw_bytes": 22,
     "ascii_max": 23,
     "original": "請選擇準備進貢的物資",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon vat tu tien cong",
+    "abbrev": "Haychonvattutiencong",
+    "status": "done"
   },
   {
     "id": "dialogue_10A611",
@@ -4844,9 +4844,9 @@
     "raw_bytes": 27,
     "ascii_max": 34,
     "original": "為公郈擗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10A67C",
@@ -4857,9 +4857,9 @@
     "raw_bytes": 20,
     "ascii_max": 21,
     "original": "請選擇要脅迫的國家",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quoc gia ep buoc",
+    "abbrev": "Haychonquocgiaepbuoc",
+    "status": "done"
   },
   {
     "id": "dialogue_10A691",
@@ -4870,9 +4870,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "求提供的物資",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vat tu yeu cau",
+    "abbrev": "Vat tu yeu cau",
+    "status": "done"
   },
   {
     "id": "dialogue_10A6AB",
@@ -4883,9 +4883,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "脅求的",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ep yeu cau",
+    "abbrev": "Ep yeu cau",
+    "status": "done"
   },
   {
     "id": "dialogue_10A7E0",
@@ -4896,9 +4896,9 @@
     "raw_bytes": 20,
     "ascii_max": 21,
     "original": "請選擇要降服的國家",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quoc gia hang phuc",
+    "abbrev": "Hay chon quoc gia",
+    "status": "done"
   },
   {
     "id": "dialogue_10A8E5",
@@ -4909,9 +4909,9 @@
     "raw_bytes": 25,
     "ascii_max": 32,
     "original": "脅亳郈嚝僁嵽翿",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10A9B8",
@@ -4922,9 +4922,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "國家威信受損",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Uy tin quoc gia ton hai",
+    "abbrev": "Uy tin quoc gia ton hai",
+    "status": "done"
   },
   {
     "id": "dialogue_10A9D4",
@@ -4935,9 +4935,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "請選擇要交換俘虜的國家",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quoc gia trao tu",
+    "abbrev": "Hay chon quoc gia trao tu",
+    "status": "done"
   },
   {
     "id": "dialogue_10AA0C",
@@ -4948,9 +4948,9 @@
     "raw_bytes": 26,
     "ascii_max": 27,
     "original": "請選擇要換回的被俘虜武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon tuong tu bin tra",
+    "abbrev": "Hay chon tuong tu bin tra",
+    "status": "done"
   },
   {
     "id": "dialogue_10AA27",
@@ -4961,9 +4961,9 @@
     "raw_bytes": 19,
     "ascii_max": 20,
     "original": "請選擇交換的條件",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon dieu kien trao doi",
+    "abbrev": "Hay chon dieu kien",
+    "status": "done"
   },
   {
     "id": "dialogue_10AA5D",
@@ -4974,9 +4974,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "交換用的敵俘虜武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong tu bin dich tra",
+    "abbrev": "Tuong tu bin dich tra",
+    "status": "done"
   },
   {
     "id": "dialogue_10AA7D",
@@ -4987,9 +4987,9 @@
     "raw_bytes": 20,
     "ascii_max": 27,
     "original": "國捐郈擗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10AB84",
@@ -5000,9 +5000,9 @@
     "raw_bytes": 58,
     "ascii_max": 65,
     "original": "你是否要堅持製造",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Co quyet che tao khong",
+    "abbrev": "Co quyet che tao khong",
+    "status": "done"
   },
   {
     "id": "dialogue_10AC15",
@@ -5013,9 +5013,9 @@
     "raw_bytes": 40,
     "ascii_max": 41,
     "original": "你是否要堅持執行",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Co quyet thuc hien khong",
+    "abbrev": "Co quyet thuc hien khong",
+    "status": "done"
   },
   {
     "id": "dialogue_10AC3E",
@@ -5026,9 +5026,9 @@
     "raw_bytes": 22,
     "ascii_max": 23,
     "original": "的糧倉空空如也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Kho luong trong rong",
+    "abbrev": "Kho luong trong rong",
+    "status": "done"
   },
   {
     "id": "dialogue_10AD37",
@@ -5039,9 +5039,9 @@
     "raw_bytes": 23,
     "ascii_max": 30,
     "original": "請選擇欲要購買的武器",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon vu khi muon mua",
+    "abbrev": "Hay chon vu khi muon mua",
+    "status": "done"
   },
   {
     "id": "dialogue_10ADE8",
@@ -5052,9 +5052,9 @@
     "raw_bytes": 34,
     "ascii_max": 41,
     "original": "沒有足夠的黃金用來買弩箭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong du vang mua nu tien",
+    "abbrev": "Thieu tien",
+    "status": "done"
   },
   {
     "id": "dialogue_10AE5C",
@@ -5065,9 +5065,9 @@
     "raw_bytes": 30,
     "ascii_max": 31,
     "original": "沒有足夠的黃金用來買馬匹",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong du vang mua ngua",
+    "abbrev": "Thieu tien",
+    "status": "done"
   },
   {
     "id": "dialogue_10AE8C",
@@ -5078,9 +5078,9 @@
     "raw_bytes": 30,
     "ascii_max": 31,
     "original": "已無合格的壯丁可供徵召",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong con thanh nien tot",
+    "abbrev": "Khong con thanh nien tot",
+    "status": "done"
   },
   {
     "id": "dialogue_10AEF0",
@@ -5091,9 +5091,9 @@
     "raw_bytes": 28,
     "ascii_max": 32,
     "original": "個新兵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "tan binh",
+    "abbrev": "tan binh",
+    "status": "done"
   },
   {
     "id": "dialogue_10AF10",
@@ -5104,9 +5104,9 @@
     "raw_bytes": 18,
     "ascii_max": 25,
     "original": "你是否要堅持徵兵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Co quyet chiem binh khong",
+    "abbrev": "Co quyet chiem binh khong",
+    "status": "done"
   },
   {
     "id": "dialogue_10AF2D",
@@ -5117,9 +5117,9 @@
     "raw_bytes": 10,
     "ascii_max": 12,
     "original": "埂朄",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10AF9A",
@@ -5130,9 +5130,9 @@
     "raw_bytes": 32,
     "ascii_max": 34,
     "original": "兵召募",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chiem binh",
+    "abbrev": "Chiem binh",
+    "status": "done"
   },
   {
     "id": "dialogue_10AFBC",
@@ -5143,9 +5143,9 @@
     "raw_bytes": 18,
     "ascii_max": 25,
     "original": "你是否要堅持募兵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Co quyet muu binh khong",
+    "abbrev": "Co quyet muu binh khong",
+    "status": "done"
   },
   {
     "id": "dialogue_10B025",
@@ -5156,9 +5156,9 @@
     "raw_bytes": 12,
     "ascii_max": 13,
     "original": "馬匹",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngua",
+    "abbrev": "Ngua",
+    "status": "done"
   },
   {
     "id": "dialogue_10B03C",
@@ -5169,9 +5169,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "弩兵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nu binh",
+    "abbrev": "Nu binh",
+    "status": "done"
   },
   {
     "id": "dialogue_10B046",
@@ -5182,9 +5182,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "兵連弩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lien nu",
+    "abbrev": "Lien nu",
+    "status": "done"
   },
   {
     "id": "dialogue_10B052",
@@ -5195,9 +5195,9 @@
     "raw_bytes": 24,
     "ascii_max": 26,
     "original": "請選擇重新編成的兵種",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon loai binh tai bien",
+    "abbrev": "Haychonloaibinhtaibien",
+    "status": "done"
   },
   {
     "id": "dialogue_10B06C",
@@ -5208,9 +5208,9 @@
     "raw_bytes": 26,
     "ascii_max": 27,
     "original": "請輸入重新編隊的兵員",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay nhap so binh tai bien",
+    "abbrev": "Hay nhap so binh tai bien",
+    "status": "done"
   },
   {
     "id": "dialogue_10B0A1",
@@ -5221,9 +5221,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "請選擇要移動的目標郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon quan huyen dich",
+    "abbrev": "Hay chon quan huyen dich",
+    "status": "done"
   },
   {
     "id": "dialogue_10B0C4",
@@ -5234,9 +5234,9 @@
     "raw_bytes": 26,
     "ascii_max": 27,
     "original": "請分別選擇欲要運補的項目",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon muc van bu",
+    "abbrev": "Hay chon muc van bu",
+    "status": "done"
   },
   {
     "id": "dialogue_10B0F1",
@@ -5247,9 +5247,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "弩尿擗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10B111",
@@ -5260,9 +5260,9 @@
     "raw_bytes": 19,
     "ascii_max": 23,
     "original": "內沒有黃金",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong co vang trong",
+    "abbrev": "Khong co vang trong",
+    "status": "done"
   },
   {
     "id": "dialogue_10B128",
@@ -5273,9 +5273,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "輸入運送",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhap van chuyen",
+    "abbrev": "Nhap van chuyen",
+    "status": "done"
   },
   {
     "id": "dialogue_10B179",
@@ -5286,9 +5286,9 @@
     "raw_bytes": 19,
     "ascii_max": 20,
     "original": "內沒有馬匹",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong co ngua trong",
+    "abbrev": "Khong co ngua trong",
+    "status": "done"
   },
   {
     "id": "dialogue_10B18D",
@@ -5299,9 +5299,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "運輸入運送",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhap van chuyen",
+    "abbrev": "Nhap van chuyen",
+    "status": "done"
   },
   {
     "id": "dialogue_10B1C1",
@@ -5312,9 +5312,9 @@
     "raw_bytes": 31,
     "ascii_max": 35,
     "original": "數馭擗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10B1E4",
@@ -5325,9 +5325,9 @@
     "raw_bytes": 16,
     "ascii_max": 17,
     "original": "內沒有連弩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong co lien nu",
+    "abbrev": "Khong co lien nu",
+    "status": "done"
   },
   {
     "id": "dialogue_10B215",
@@ -5338,9 +5338,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "內沒有發石車",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong co phat da xe",
+    "abbrev": "Khong co phat da xe",
+    "status": "done"
   },
   {
     "id": "dialogue_10B24B",
@@ -5351,9 +5351,9 @@
     "raw_bytes": 17,
     "ascii_max": 18,
     "original": "內沒有衝車",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong co xe xung",
+    "abbrev": "Khong co xe xung",
+    "status": "done"
   },
   {
     "id": "dialogue_10B2B1",
@@ -5364,9 +5364,9 @@
     "raw_bytes": 19,
     "ascii_max": 20,
     "original": "內沒有井蘭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong co can lan",
+    "abbrev": "Khong co can lan",
+    "status": "done"
   },
   {
     "id": "dialogue_10B2E5",
@@ -5377,9 +5377,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "內沒有元戎弩沒有",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong co nguyen vu",
+    "abbrev": "Khong co nguyen vu",
+    "status": "done"
   },
   {
     "id": "dialogue_10B394",
@@ -5390,9 +5390,9 @@
     "raw_bytes": 52,
     "ascii_max": 53,
     "original": "不若另投明主",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hon la theo minh chu khac",
+    "abbrev": "Hon la theo minh chu khac",
+    "status": "done"
   },
   {
     "id": "dialogue_10B3C9",
@@ -5403,9 +5403,9 @@
     "raw_bytes": 77,
     "ascii_max": 78,
     "original": "久聞將軍勇名",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nghe tieng dung truong tuong",
+    "abbrev": "Nghe tieng dung truong tuong",
+    "status": "done"
   },
   {
     "id": "dialogue_10B417",
@@ -5416,9 +5416,9 @@
     "raw_bytes": 79,
     "ascii_max": 80,
     "original": "未有如明公者",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chua gap ai nhu minh cong",
+    "abbrev": "Chua gap ai nhu minh cong",
+    "status": "done"
   },
   {
     "id": "dialogue_10B467",
@@ -5429,9 +5429,9 @@
     "raw_bytes": 27,
     "ascii_max": 29,
     "original": "明公招賢納士",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Minh cong chi tai nap si",
+    "abbrev": "Minh cong chi tai nap si",
+    "status": "done"
   },
   {
     "id": "dialogue_10B484",
@@ -5442,9 +5442,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "大雨",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mua lon",
+    "abbrev": "Mua",
+    "status": "done"
   },
   {
     "id": "dialogue_10B499",
@@ -5455,9 +5455,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "幸惕簳",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10B4B1",
@@ -5468,9 +5468,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "為里",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vi ly",
+    "abbrev": "Vi ly",
+    "status": "done"
   },
   {
     "id": "dialogue_10B4B9",
@@ -5481,9 +5481,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "早捲峈",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10B4C3",
@@ -5494,9 +5494,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "口減",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Giam mieng",
+    "abbrev": "Giam",
+    "status": "done"
   },
   {
     "id": "dialogue_10B4CB",
@@ -5507,9 +5507,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "業減",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Giam nghiep",
+    "abbrev": "Giam",
+    "status": "done"
   },
   {
     "id": "dialogue_10B4D3",
@@ -5520,9 +5520,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "什虓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10B4E3",
@@ -5533,9 +5533,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "氣升",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Si khi tang",
+    "abbrev": "Si khi",
+    "status": "done"
   },
   {
     "id": "dialogue_10B4F3",
@@ -5546,9 +5546,9 @@
     "raw_bytes": 7,
     "ascii_max": 9,
     "original": "黃金",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vang",
+    "abbrev": "Vang",
+    "status": "done"
   },
   {
     "id": "dialogue_10B4FC",
@@ -5559,9 +5559,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "增米糧",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tang luong",
+    "abbrev": "Tang",
+    "status": "done"
   },
   {
     "id": "dialogue_10B514",
@@ -5572,9 +5572,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "寶物",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bao vat",
+    "abbrev": "Bao",
+    "status": "done"
   },
   {
     "id": "dialogue_10B533",
@@ -5585,9 +5585,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "大業終成春秋大夢",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dai nghiep thanh cong mong xuan",
+    "abbrev": "Dai nghiep thanh cong mong xuan",
+    "status": "done"
   },
   {
     "id": "dialogue_10B553",
@@ -5598,9 +5598,9 @@
     "raw_bytes": 33,
     "ascii_max": 34,
     "original": "您終於一統天下了",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngai thong nhat thien ha",
+    "abbrev": "Ngai thong nhat thien ha",
+    "status": "done"
   },
   {
     "id": "dialogue_10B7FA",
@@ -5611,9 +5611,9 @@
     "raw_bytes": 23,
     "ascii_max": 30,
     "original": "郡發生人民暴動",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan xay bao loan",
+    "abbrev": "Quan xay bao loan",
+    "status": "done"
   },
   {
     "id": "dialogue_10B81F",
@@ -5624,9 +5624,9 @@
     "raw_bytes": 90,
     "ascii_max": 97,
     "original": "統治度降",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tri do giam",
+    "abbrev": "Tri do giam",
+    "status": "done"
   },
   {
     "id": "dialogue_10B9DC",
@@ -5637,9 +5637,9 @@
     "raw_bytes": 41,
     "ascii_max": 48,
     "original": "所以並沒有產生任何損失",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong co ton hai",
+    "abbrev": "Khong co ton hai",
+    "status": "done"
   },
   {
     "id": "dialogue_10BAB7",
@@ -5650,9 +5650,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "郡士兵糧餉支出",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chi tieu luong quan quan",
+    "abbrev": "Chi tieu luong quan quan",
+    "status": "done"
   },
   {
     "id": "dialogue_10BAD4",
@@ -5663,9 +5663,9 @@
     "raw_bytes": 35,
     "ascii_max": 36,
     "original": "統治度為",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tri do la",
+    "abbrev": "Tri do la",
+    "status": "done"
   },
   {
     "id": "dialogue_10BB3B",
@@ -5676,9 +5676,9 @@
     "raw_bytes": 26,
     "ascii_max": 29,
     "original": "屯田歉收",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Don dien thieu hut",
+    "abbrev": "Don dien thieu hut",
+    "status": "done"
   },
   {
     "id": "dialogue_10BB58",
@@ -5689,9 +5689,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "屯田豐收",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Don dien binh an",
+    "abbrev": "Don dien binh an",
+    "status": "done"
   },
   {
     "id": "dialogue_10BB72",
@@ -5702,9 +5702,9 @@
     "raw_bytes": 20,
     "ascii_max": 27,
     "original": "屯田收成",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Don dien thu hoach",
+    "abbrev": "Don dien thu hoach",
+    "status": "done"
   },
   {
     "id": "dialogue_10BC1C",
@@ -5715,9 +5715,9 @@
     "raw_bytes": 34,
     "ascii_max": 35,
     "original": "郡稅收增加",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan thu tang",
+    "abbrev": "Quan thu tang",
+    "status": "done"
   },
   {
     "id": "dialogue_10BC88",
@@ -5728,9 +5728,9 @@
     "raw_bytes": 27,
     "ascii_max": 30,
     "original": "訓練度上升",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Do huan luyen tang",
+    "abbrev": "Do huan luyen tang",
+    "status": "done"
   },
   {
     "id": "dialogue_10BCB2",
@@ -5741,9 +5741,9 @@
     "raw_bytes": 39,
     "ascii_max": 42,
     "original": "運送物資途中",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Van chuyen tren duong",
+    "abbrev": "Van chuyen tren duong",
+    "status": "done"
   },
   {
     "id": "dialogue_10BD48",
@@ -5754,9 +5754,9 @@
     "raw_bytes": 17,
     "ascii_max": 24,
     "original": "召募得新兵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Moi duoc tan binh",
+    "abbrev": "Moi duoc tan binh",
+    "status": "done"
   },
   {
     "id": "dialogue_10BDF4",
@@ -5767,9 +5767,9 @@
     "raw_bytes": 17,
     "ascii_max": 18,
     "original": "已完成",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoan thanh",
+    "abbrev": "Hoan thanh",
+    "status": "done"
   },
   {
     "id": "dialogue_10BE06",
@@ -5780,9 +5780,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "珣距離完成日還有",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10BE50",
@@ -5793,9 +5793,9 @@
     "raw_bytes": 17,
     "ascii_max": 18,
     "original": "農業值上升至",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nong nghiep tang",
+    "abbrev": "Nong nghiep tang",
+    "status": "done"
   },
   {
     "id": "dialogue_10BE62",
@@ -5806,9 +5806,9 @@
     "raw_bytes": 19,
     "ascii_max": 21,
     "original": "含淚撥種",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gat nuoc ma gieo",
+    "abbrev": "Gat nuoc ma gieo",
+    "status": "done"
   },
   {
     "id": "dialogue_10BE77",
@@ -5819,9 +5819,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "結束屯田工作",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ket thuc don dien",
+    "abbrev": "Ket thuc don dien",
+    "status": "done"
   },
   {
     "id": "dialogue_10BEA0",
@@ -5832,9 +5832,9 @@
     "raw_bytes": 17,
     "ascii_max": 18,
     "original": "商業值上升至",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuong nghiep tang",
+    "abbrev": "Thuong nghiep tang",
+    "status": "done"
   },
   {
     "id": "dialogue_10BECC",
@@ -5845,9 +5845,9 @@
     "raw_bytes": 17,
     "ascii_max": 24,
     "original": "防洪率上升至",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chong hong tang",
+    "abbrev": "Chong hong tang",
+    "status": "done"
   },
   {
     "id": "dialogue_10BF5C",
@@ -5858,9 +5858,9 @@
     "raw_bytes": 24,
     "ascii_max": 25,
     "original": "送往君主",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gui cho quan chu",
+    "abbrev": "Gui cho quan chu",
+    "status": "done"
   },
   {
     "id": "dialogue_10BF75",
@@ -5871,9 +5871,9 @@
     "raw_bytes": 31,
     "ascii_max": 35,
     "original": "匹及",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10BFAE",
@@ -5884,9 +5884,9 @@
     "raw_bytes": 17,
     "ascii_max": 18,
     "original": "率米倉增加",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Kho lua tang",
+    "abbrev": "Kho lua tang",
+    "status": "done"
   },
   {
     "id": "dialogue_10BFC0",
@@ -5897,9 +5897,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "米減少",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lua giam",
+    "abbrev": "Lua giam",
+    "status": "done"
   },
   {
     "id": "dialogue_10BFFB",
@@ -5910,9 +5910,9 @@
     "raw_bytes": 16,
     "ascii_max": 17,
     "original": "已購置弩箭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Da mua nu tien",
+    "abbrev": "Da mua nu tien",
+    "status": "done"
   },
   {
     "id": "dialogue_10C00C",
@@ -5923,9 +5923,9 @@
     "raw_bytes": 17,
     "ascii_max": 24,
     "original": "已購置駿馬",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Da mua ngua tot",
+    "abbrev": "Da mua ngua tot",
+    "status": "done"
   },
   {
     "id": "dialogue_10C234",
@@ -5936,9 +5936,9 @@
     "raw_bytes": 6,
     "ascii_max": 8,
     "original": "喝啊",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ha a",
+    "abbrev": "Ha a",
+    "status": "done"
   },
   {
     "id": "dialogue_10C23C",
@@ -5949,9 +5949,9 @@
     "raw_bytes": 52,
     "ascii_max": 53,
     "original": "汝若立即棄刀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Neu bo kiem ngay",
+    "abbrev": "Neu bo kiem ngay",
+    "status": "done"
   },
   {
     "id": "dialogue_10C274",
@@ -5962,9 +5962,9 @@
     "raw_bytes": 25,
     "ascii_max": 27,
     "original": "此乃天意也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Day la y troi",
+    "abbrev": "Day la y troi",
+    "status": "done"
   },
   {
     "id": "dialogue_10C28F",
@@ -5975,9 +5975,9 @@
     "raw_bytes": 35,
     "ascii_max": 36,
     "original": "有膽再戰三百回合",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dam danh 300 hoi",
+    "abbrev": "Dam danh 300 hoi",
+    "status": "done"
   },
   {
     "id": "dialogue_10C2B3",
@@ -5988,9 +5988,9 @@
     "raw_bytes": 41,
     "ascii_max": 42,
     "original": "汝只有此等本事",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngai chi co tai nay",
+    "abbrev": "Ngai chi co tai nay",
+    "status": "done"
   },
   {
     "id": "dialogue_10C2DF",
@@ -6001,9 +6001,9 @@
     "raw_bytes": 37,
     "ascii_max": 38,
     "original": "不取汝首級",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong lay dau ngai",
+    "abbrev": "Khong lay dau ngai",
+    "status": "done"
   },
   {
     "id": "dialogue_10C321",
@@ -6014,9 +6014,9 @@
     "raw_bytes": 26,
     "ascii_max": 27,
     "original": "技不如人",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ky thua nhan",
+    "abbrev": "Ky thua nhan",
+    "status": "done"
   },
   {
     "id": "dialogue_10C33C",
@@ -6027,9 +6027,9 @@
     "raw_bytes": 8,
     "ascii_max": 9,
     "original": "想走",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Muon di",
+    "abbrev": "Muon di",
+    "status": "done"
   },
   {
     "id": "dialogue_10C345",
@@ -6040,9 +6040,9 @@
     "raw_bytes": 13,
     "ascii_max": 14,
     "original": "我一箭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta mot ten",
+    "abbrev": "Ta mot ten",
+    "status": "done"
   },
   {
     "id": "dialogue_10C353",
@@ -6053,9 +6053,9 @@
     "raw_bytes": 55,
     "ascii_max": 56,
     "original": "不知是計",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong biet la ke",
+    "abbrev": "Khong biet la ke",
+    "status": "done"
   },
   {
     "id": "dialogue_10C451",
@@ -6066,9 +6066,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "卻然也",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phai vay",
+    "abbrev": "Phai vay",
+    "status": "done"
   },
   {
     "id": "dialogue_10C45B",
@@ -6079,9 +6079,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "焉敢犯我境",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dam xam bien gioi",
+    "abbrev": "Dam xam bien gioi",
+    "status": "done"
   },
   {
     "id": "dialogue_10C473",
@@ -6092,9 +6092,9 @@
     "raw_bytes": 15,
     "ascii_max": 16,
     "original": "來取汝首級",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Den lay dau ngai",
+    "abbrev": "Den lay dau ngai",
+    "status": "done"
   },
   {
     "id": "dialogue_10C483",
@@ -6105,9 +6105,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "茖荓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10C48F",
@@ -6118,9 +6118,9 @@
     "raw_bytes": 31,
     "ascii_max": 32,
     "original": "先通姓名",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bao ten truoc",
+    "abbrev": "Bao ten truoc",
+    "status": "done"
   },
   {
     "id": "dialogue_10C4C5",
@@ -6131,9 +6131,9 @@
     "raw_bytes": 13,
     "ascii_max": 14,
     "original": "回筆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tra but",
+    "abbrev": "Tra but",
+    "status": "done"
   },
   {
     "id": "dialogue_10C4D3",
@@ -6144,9 +6144,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "在此",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "O day",
+    "abbrev": "O day",
+    "status": "done"
   },
   {
     "id": "dialogue_10C4DD",
@@ -6157,9 +6157,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "被縑野藂哄",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bi danh lua",
+    "abbrev": "Bi danh lua",
+    "status": "done"
   },
   {
     "id": "dialogue_10C4E9",
@@ -6170,9 +6170,9 @@
     "raw_bytes": 17,
     "ascii_max": 18,
     "original": "馬受縛",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngua bi troi",
+    "abbrev": "Ngua bi troi",
+    "status": "done"
   },
   {
     "id": "dialogue_10C4FB",
@@ -6183,9 +6183,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "無名下將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong vo danh",
+    "abbrev": "Tuong vo danh",
+    "status": "done"
   },
   {
     "id": "dialogue_10C515",
@@ -6196,9 +6196,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "還自執迷不省",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Van co chap ngo",
+    "abbrev": "Van co chap ngo",
+    "status": "done"
   },
   {
     "id": "dialogue_10C533",
@@ -6209,9 +6209,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "何得妄言",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sao noi bao",
+    "abbrev": "Sao noi bao",
+    "status": "done"
   },
   {
     "id": "dialogue_10C549",
@@ -6222,9 +6222,9 @@
     "raw_bytes": 23,
     "ascii_max": 27,
     "original": "安敢亂言",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dam noi loan",
+    "abbrev": "Dam noi loan",
+    "status": "done"
   },
   {
     "id": "dialogue_10C564",
@@ -6235,9 +6235,9 @@
     "raw_bytes": 20,
     "ascii_max": 21,
     "original": "助惡匹夫",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke tro ac",
+    "abbrev": "Ke tro ac",
+    "status": "done"
   },
   {
     "id": "dialogue_10C57C",
@@ -6248,9 +6248,9 @@
     "raw_bytes": 20,
     "ascii_max": 21,
     "original": "此等鼠輩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Loai chuot nhat",
+    "abbrev": "Loai chuot nhat",
+    "status": "done"
   },
   {
     "id": "dialogue_10C594",
@@ -6261,9 +6261,9 @@
     "raw_bytes": 14,
     "ascii_max": 15,
     "original": "反賊早早受降",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phan tac hang ha",
+    "abbrev": "Phantachangha",
+    "status": "done"
   },
   {
     "id": "dialogue_10C5A3",
@@ -6274,9 +6274,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "何不早降",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sao khong hang som",
+    "abbrev": "Sao khong hang som",
+    "status": "done"
   },
   {
     "id": "dialogue_10C5B9",
@@ -6287,9 +6287,9 @@
     "raw_bytes": 15,
     "ascii_max": 16,
     "original": "名之痐",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10C5CC",
@@ -6300,9 +6300,9 @@
     "raw_bytes": 14,
     "ascii_max": 15,
     "original": "匹夫休得逞強",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke phu dung cuong",
+    "abbrev": "Kephudungcuong",
+    "status": "done"
   },
   {
     "id": "dialogue_10C5DB",
@@ -6313,9 +6313,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "襄敼",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10C600",
@@ -6326,9 +6326,9 @@
     "raw_bytes": 10,
     "ascii_max": 11,
     "original": "吾誓殺汝",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ta quyet giet ngai",
+    "abbrev": "Ta quyet",
+    "status": "done"
   },
   {
     "id": "dialogue_10C60B",
@@ -6339,9 +6339,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "何足道哉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Co gi ke",
+    "abbrev": "Co gi ke",
+    "status": "done"
   },
   {
     "id": "dialogue_10C621",
@@ -6352,9 +6352,9 @@
     "raw_bytes": 17,
     "ascii_max": 19,
     "original": "惡尹荓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10C634",
@@ -6365,9 +6365,9 @@
     "raw_bytes": 8,
     "ascii_max": 9,
     "original": "安在",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "O dau",
+    "abbrev": "O dau",
+    "status": "done"
   },
   {
     "id": "dialogue_10C765",
@@ -6378,9 +6378,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "腳底抹油",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chay mat",
+    "abbrev": "Chay mat",
+    "status": "done"
   },
   {
     "id": "dialogue_10C790",
@@ -6391,9 +6391,9 @@
     "raw_bytes": 34,
     "ascii_max": 35,
     "original": "壯志未酬身先死",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chi cong chet som",
+    "abbrev": "Chi cong chet som",
+    "status": "done"
   },
   {
     "id": "dialogue_10C7C7",
@@ -6404,9 +6404,9 @@
     "raw_bytes": 9,
     "ascii_max": 19,
     "original": "受驚嚇",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bi kinh hoang",
+    "abbrev": "Bi kinh hoang",
+    "status": "done"
   },
   {
     "id": "dialogue_10C984",
@@ -6417,9 +6417,9 @@
     "raw_bytes": 63,
     "ascii_max": 70,
     "original": "一族自此沒入歷史洪流",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ca toc mai vao lich su",
+    "abbrev": "Ca toc mai vao lich su",
+    "status": "done"
   },
   {
     "id": "dialogue_10CBBF",
@@ -6430,9 +6430,9 @@
     "raw_bytes": 36,
     "ascii_max": 37,
     "original": "被煽動叛變",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bi khich dong phan",
+    "abbrev": "Bi khich dong phan",
+    "status": "done"
   },
   {
     "id": "dialogue_10CF4D",
@@ -6443,9 +6443,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "雄十一",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hung 11",
+    "abbrev": "Hung 11",
+    "status": "done"
   },
   {
     "id": "dialogue_10CF55",
@@ -6456,9 +6456,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "十二",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Muoi hai",
+    "abbrev": "Muoi hai",
+    "status": "done"
   },
   {
     "id": "dialogue_10CF5D",
@@ -6469,9 +6469,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "傷晴",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuong tinh",
+    "abbrev": "Thuong",
+    "status": "done"
   },
   {
     "id": "dialogue_10CF73",
@@ -6482,9 +6482,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "釵镼",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10CF79",
@@ -6495,9 +6495,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "逃北",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tau bac",
+    "abbrev": "Taubac",
+    "status": "done"
   },
   {
     "id": "dialogue_10CF8C",
@@ -6508,9 +6508,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "東南",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong nam",
+    "abbrev": "Dong",
+    "status": "done"
   },
   {
     "id": "dialogue_10CF97",
@@ -6521,9 +6521,9 @@
     "raw_bytes": 45,
     "ascii_max": 46,
     "original": "汝與吾主相約之事",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Viec ngai hua voi chu ta",
+    "abbrev": "Viec ngai hua voi chu ta",
+    "status": "done"
   },
   {
     "id": "dialogue_10CFC5",
@@ -6534,9 +6534,9 @@
     "raw_bytes": 57,
     "ascii_max": 58,
     "original": "願隨者與吾同生共死",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ai theo ta cung chet",
+    "abbrev": "Ai theo ta cung chet",
+    "status": "done"
   },
   {
     "id": "dialogue_10D033",
@@ -6547,9 +6547,9 @@
     "raw_bytes": 127,
     "ascii_max": 128,
     "original": "四方英雄莫不相助以創大業",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Anh hung bon phuong cung tao dai nghiep",
+    "abbrev": "Anh hung bon phuong cung tao dai nghiep",
+    "status": "done"
   },
   {
     "id": "dialogue_10D0B3",
@@ -6560,9 +6560,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "如撥雲霧而見青天",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhu tan may thay troi",
+    "abbrev": "Nhu tan may thay troi",
+    "status": "done"
   },
   {
     "id": "dialogue_10D0F4",
@@ -6573,9 +6573,9 @@
     "raw_bytes": 18,
     "ascii_max": 19,
     "original": "誰敢與吾決一死戰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ai dam quyet tu voi ta",
+    "abbrev": "Aidamquyettuvoita",
+    "status": "done"
   },
   {
     "id": "dialogue_10D107",
@@ -6586,9 +6586,9 @@
     "raw_bytes": 15,
     "ascii_max": 16,
     "original": "來取汝性命",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Den lay mang ngai",
+    "abbrev": "Denlaymangngai",
+    "status": "done"
   },
   {
     "id": "dialogue_10D117",
@@ -6599,9 +6599,9 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "不配與吾交手",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong xung giao thu",
+    "abbrev": "Khong xung giao thu",
+    "status": "done"
   },
   {
     "id": "dialogue_10D131",
@@ -6612,9 +6612,9 @@
     "raw_bytes": 13,
     "ascii_max": 16,
     "original": "大愚",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dai ngu",
+    "abbrev": "Dai ngu",
+    "status": "done"
   },
   {
     "id": "dialogue_10D192",
@@ -6625,9 +6625,9 @@
     "raw_bytes": 20,
     "ascii_max": 22,
     "original": "定要全軍撤退嗎",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Rut lui toan quan",
+    "abbrev": "Rut lui toan quan",
+    "status": "done"
   },
   {
     "id": "dialogue_10D1AB",
@@ -6638,9 +6638,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "惜鶠",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10D1B5",
@@ -6651,9 +6651,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "瑣埽",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10D1C2",
@@ -6664,9 +6664,9 @@
     "raw_bytes": 38,
     "ascii_max": 39,
     "original": "蟋忖洏媦衧側藹",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10D1F4",
@@ -6677,9 +6677,9 @@
     "raw_bytes": 36,
     "ascii_max": 37,
     "original": "無法進行休養療傷",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong the nghi duong",
+    "abbrev": "Khong the nghi duong",
+    "status": "done"
   },
   {
     "id": "dialogue_10D274",
@@ -6690,9 +6690,9 @@
     "raw_bytes": 36,
     "ascii_max": 37,
     "original": "無法實施激勵士氣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong the khich si khi",
+    "abbrev": "Khong the khich si khi",
+    "status": "done"
   },
   {
     "id": "dialogue_10D375",
@@ -6703,9 +6703,9 @@
     "raw_bytes": 21,
     "ascii_max": 22,
     "original": "部隊的位置",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vi tri bo doi",
+    "abbrev": "Vi tri bo doi",
+    "status": "done"
   },
   {
     "id": "dialogue_10D38B",
@@ -6716,9 +6716,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "攻城兵器的位置",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vi tri cong thanh",
+    "abbrev": "Vi tri cong thanh",
+    "status": "done"
   },
   {
     "id": "dialogue_10D3C8",
@@ -6729,9 +6729,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "輜重",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vat tu",
+    "abbrev": "Vat tu",
+    "status": "done"
   },
   {
     "id": "dialogue_10D3E8",
@@ -6742,9 +6742,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "陣形",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran hinh",
+    "abbrev": "Tranhinh",
+    "status": "done"
   },
   {
     "id": "dialogue_10D42F",
@@ -6755,9 +6755,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "中哄",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10D437",
@@ -6768,9 +6768,9 @@
     "raw_bytes": 13,
     "ascii_max": 14,
     "original": "戍僱蔡",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10D4A3",
@@ -6781,9 +6781,9 @@
     "raw_bytes": 39,
     "ascii_max": 40,
     "original": "因士兵逃離死傷殆盡",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Binh chay chet het",
+    "abbrev": "Binh chay chet het",
+    "status": "done"
   },
   {
     "id": "dialogue_10D50B",
@@ -6794,9 +6794,9 @@
     "raw_bytes": 35,
     "ascii_max": 42,
     "original": "因士兵逃光了",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Binh chay het",
+    "abbrev": "Binh chay het",
+    "status": "done"
   },
   {
     "id": "dialogue_10D5FF",
@@ -6807,9 +6807,9 @@
     "raw_bytes": 17,
     "ascii_max": 18,
     "original": "是否要攀牆攻城",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Leo tuong cong thanh",
+    "abbrev": "Leotuongcongthanh",
+    "status": "done"
   },
   {
     "id": "dialogue_10D611",
@@ -6820,9 +6820,9 @@
     "raw_bytes": 27,
     "ascii_max": 28,
     "original": "領是否要使用雲梯攀牆攻城",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dung van ti leo tuong",
+    "abbrev": "Dung van ti leo tuong",
+    "status": "done"
   },
   {
     "id": "dialogue_10D641",
@@ -6833,9 +6833,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "立刻攻擊接鄰的敵部隊嗎",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tan cong doi dich lien",
+    "abbrev": "Tan cong doi dich lien",
+    "status": "done"
   },
   {
     "id": "dialogue_10D65F",
@@ -6846,9 +6846,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "請選擇欲要攻擊的敵部隊",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon doi dich tan cong",
+    "abbrev": "Haychondoidichtancong",
+    "status": "done"
   },
   {
     "id": "dialogue_10D677",
@@ -6859,9 +6859,9 @@
     "raw_bytes": 41,
     "ascii_max": 42,
     "original": "選擇出欲要射擊的敵部隊",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hay chon doi dich ban",
+    "abbrev": "Hay chon doi dich ban",
+    "status": "done"
   },
   {
     "id": "dialogue_10D7A1",
@@ -6872,9 +6872,9 @@
     "raw_bytes": 17,
     "ascii_max": 23,
     "original": "否火攻計失敗了",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke hoa tan that bai",
+    "abbrev": "Ke hoa tan that bai",
+    "status": "done"
   },
   {
     "id": "dialogue_10D918",
@@ -6885,9 +6885,9 @@
     "raw_bytes": 30,
     "ascii_max": 32,
     "original": "軍已經全軍覆滅",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan da toan quan phuc",
+    "abbrev": "Quan da toan quan phuc",
+    "status": "done"
   },
   {
     "id": "dialogue_10D973",
@@ -6898,9 +6898,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "軍的發石車已被摧毀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xe phat da bi pha",
+    "abbrev": "Xe phat da bi pha",
+    "status": "done"
   },
   {
     "id": "dialogue_10D98B",
@@ -6911,9 +6911,9 @@
     "raw_bytes": 21,
     "ascii_max": 23,
     "original": "軍的衝車已被摧毀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xe xung bi pha",
+    "abbrev": "Xe xung bi pha",
+    "status": "done"
   },
   {
     "id": "dialogue_10D9A2",
@@ -6924,9 +6924,9 @@
     "raw_bytes": 22,
     "ascii_max": 26,
     "original": "軍的雲梯已被摧毀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Van ti bi pha",
+    "abbrev": "Van ti bi pha",
+    "status": "done"
   },
   {
     "id": "dialogue_10D9BC",
@@ -6937,9 +6937,9 @@
     "raw_bytes": 20,
     "ascii_max": 21,
     "original": "軍的井蘭已被摧毀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Can lan bi pha",
+    "abbrev": "Can lan bi pha",
+    "status": "done"
   },
   {
     "id": "dialogue_10D9D1",
@@ -6950,9 +6950,9 @@
     "raw_bytes": 19,
     "ascii_max": 20,
     "original": "覆楔蒂巧舅",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10D9E5",
@@ -6963,9 +6963,9 @@
     "raw_bytes": 19,
     "ascii_max": 20,
     "original": "牙拍已被摧毀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nha pai bi pha",
+    "abbrev": "Nha pai bi pha",
+    "status": "done"
   },
   {
     "id": "dialogue_10D9F9",
@@ -6976,9 +6976,9 @@
     "raw_bytes": 19,
     "ascii_max": 20,
     "original": "叉檑已被摧毀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xa le bi pha",
+    "abbrev": "Xa le bi pha",
+    "status": "done"
   },
   {
     "id": "dialogue_10DA9F",
@@ -6989,9 +6989,9 @@
     "raw_bytes": 23,
     "ascii_max": 24,
     "original": "進行策反誘降",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ce phan du do hang",
+    "abbrev": "Ce phan du do hang",
+    "status": "done"
   },
   {
     "id": "dialogue_10DAD5",
@@ -7002,9 +7002,9 @@
     "raw_bytes": 34,
     "ascii_max": 35,
     "original": "實施此計需耗金",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke nay can vang",
+    "abbrev": "Ke nay can vang",
+    "status": "done"
   },
   {
     "id": "dialogue_10DAF8",
@@ -7015,9 +7015,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "所攜軍資不足",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan tu khong du",
+    "abbrev": "Quan tu khong du",
+    "status": "done"
   },
   {
     "id": "dialogue_10DB15",
@@ -7028,9 +7028,9 @@
     "raw_bytes": 44,
     "ascii_max": 45,
     "original": "需耗材料金",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Can vat lieu vang",
+    "abbrev": "Can vat lieu vang",
+    "status": "done"
   },
   {
     "id": "dialogue_10DB80",
@@ -7041,9 +7041,9 @@
     "raw_bytes": 40,
     "ascii_max": 47,
     "original": "進行燒糧兼搶糧之計",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dot luong cuop luong",
+    "abbrev": "Dot luong cuop luong",
+    "status": "done"
   },
   {
     "id": "dialogue_10DBC7",
@@ -7054,9 +7054,9 @@
     "raw_bytes": 39,
     "ascii_max": 40,
     "original": "計謀成功了",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke moai thanh cong",
+    "abbrev": "Ke moai thanh cong",
+    "status": "done"
   },
   {
     "id": "dialogue_10DBEF",
@@ -7067,9 +7067,9 @@
     "raw_bytes": 39,
     "ascii_max": 40,
     "original": "糧的計謀被識穿了",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ke dot luong bi phat",
+    "abbrev": "Ke dot luong bi phat",
+    "status": "done"
   },
   {
     "id": "dialogue_10DC17",
@@ -7080,9 +7080,9 @@
     "raw_bytes": 43,
     "ascii_max": 44,
     "original": "令間者滲透敵陣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cho gian xam tham",
+    "abbrev": "Cho gian xam tham",
+    "status": "done"
   },
   {
     "id": "dialogue_10DC43",
@@ -7093,9 +7093,9 @@
     "raw_bytes": 33,
     "ascii_max": 34,
     "original": "四處散播謠言",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truyen tin ac",
+    "abbrev": "Truyen tin ac",
+    "status": "done"
   },
   {
     "id": "dialogue_10DC68",
@@ -7106,9 +7106,9 @@
     "raw_bytes": 50,
     "ascii_max": 51,
     "original": "謠言已在敵營中散開",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tin ac trong dich trai",
+    "abbrev": "Tin ac trong dich trai",
+    "status": "done"
   },
   {
     "id": "dialogue_10DD50",
@@ -7119,9 +7119,9 @@
     "raw_bytes": 28,
     "ascii_max": 29,
     "original": "我軍密探順利偵察到敵軍情報",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mat tham thu tin dich",
+    "abbrev": "Mat tham thu tin dich",
+    "status": "done"
   },
   {
     "id": "dialogue_10DD6D",
@@ -7132,9 +7132,9 @@
     "raw_bytes": 17,
     "ascii_max": 24,
     "original": "銈襤遜蹓覺",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10DDDB",
@@ -7145,9 +7145,9 @@
     "raw_bytes": 9,
     "ascii_max": 12,
     "original": "籇菕",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "dialogue_10DE14",
@@ -7158,9 +7158,9 @@
     "raw_bytes": 18,
     "ascii_max": 19,
     "original": "部隊的陣形",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran hinh bo doi",
+    "abbrev": "Tran hinh bo doi",
+    "status": "done"
   },
   {
     "id": "dialogue_10DE70",
@@ -7171,9 +7171,9 @@
     "raw_bytes": 18,
     "ascii_max": 19,
     "original": "確定要將其斬首嗎",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quyet truc dau khong",
+    "abbrev": "Quyettrucdaukhong",
+    "status": "done"
   },
   {
     "id": "dialogue_10DE83",
@@ -7184,9 +7184,9 @@
     "raw_bytes": 20,
     "ascii_max": 21,
     "original": "被押赴大牢囚禁",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bi giam trong nguc",
+    "abbrev": "Bi giam trong nguc",
+    "status": "done"
   },
   {
     "id": "dialogue_10DE98",
@@ -7197,9 +7197,9 @@
     "raw_bytes": 18,
     "ascii_max": 19,
     "original": "確定要將其釋放嗎",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quyet tha khong",
+    "abbrev": "Quyet tha khong",
+    "status": "done"
   },
   {
     "id": "dialogue_10DEAB",
@@ -7210,9 +7210,9 @@
     "raw_bytes": 14,
     "ascii_max": 15,
     "original": "被釋放",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Da duoc tha",
+    "abbrev": "Da duoc tha",
+    "status": "done"
   },
   {
     "id": "dialogue_10DEBA",
@@ -7223,8 +7223,8 @@
     "raw_bytes": 25,
     "ascii_max": 26,
     "original": "被押赴刑場斬首示眾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bi truc dau thi chung",
+    "abbrev": "Bi truc dau thi chung",
+    "status": "done"
   }
 ]

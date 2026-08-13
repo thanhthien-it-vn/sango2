@@ -8,9 +8,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "蟫傅",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE033",
@@ -21,9 +21,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "元皓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dien Phong",
+    "abbrev": "DPho",
+    "status": "done"
   },
   {
     "id": "menu_0FE08F",
@@ -34,9 +34,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "德瑜",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu Du",
+    "abbrev": "Chu Du",
+    "status": "done"
   },
   {
     "id": "menu_0FE095",
@@ -47,9 +47,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "初延",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE0C7",
@@ -60,9 +60,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "聽邦",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE123",
@@ -73,9 +73,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "文博",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE133",
@@ -86,9 +86,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "季文",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ky Van",
+    "abbrev": "Ky Van",
+    "status": "done"
   },
   {
     "id": "menu_0FE157",
@@ -99,9 +99,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "文然",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cat Mieu",
+    "abbrev": "CMieu",
+    "status": "done"
   },
   {
     "id": "menu_0FE15D",
@@ -112,9 +112,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "璜穆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE163",
@@ -125,9 +125,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "棓鉾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE183",
@@ -138,9 +138,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "遂高",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuy Cao",
+    "abbrev": "TCao",
+    "status": "done"
   },
   {
     "id": "menu_0FE193",
@@ -151,9 +151,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "平叔",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ha Uyen",
+    "abbrev": "HUye",
+    "status": "done"
   },
   {
     "id": "menu_0FE1A5",
@@ -164,9 +164,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "理冷",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE1DF",
@@ -177,9 +177,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "子遠",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu Vien",
+    "abbrev": "TVien",
+    "status": "done"
   },
   {
     "id": "menu_0FE1E7",
@@ -190,9 +190,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "孔休",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong Huu",
+    "abbrev": "KHuu",
+    "status": "done"
   },
   {
     "id": "menu_0FE1FB",
@@ -203,9 +203,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "奉先",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lu Bo",
+    "abbrev": "Lu Bo",
+    "status": "done"
   },
   {
     "id": "menu_0FE213",
@@ -216,9 +216,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "子恪",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gia Cat Khac",
+    "abbrev": "GCKh",
+    "status": "done"
   },
   {
     "id": "menu_0FE25D",
@@ -229,9 +229,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "蘭宋",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE263",
@@ -242,9 +242,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "仲子",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vien Dam",
+    "abbrev": "VDam",
+    "status": "done"
   },
   {
     "id": "menu_0FE269",
@@ -255,9 +255,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "葆祖",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE2BB",
@@ -268,9 +268,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "暀撟",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE2C1",
@@ -281,9 +281,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "恪堪",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE2E5",
@@ -294,9 +294,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "明傕",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ly Que",
+    "abbrev": "LQue",
+    "status": "done"
   },
   {
     "id": "menu_0FE313",
@@ -307,9 +307,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "元凱",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luc Tich",
+    "abbrev": "LTic",
+    "status": "done"
   },
   {
     "id": "menu_0FE333",
@@ -320,9 +320,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "沙摩可",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sa Ma Kha",
+    "abbrev": "SaMaKha",
+    "status": "done"
   },
   {
     "id": "menu_0FE35B",
@@ -333,9 +333,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "蠾鶞",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE367",
@@ -346,9 +346,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "椪鼮",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE36D",
@@ -359,9 +359,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "恪邢",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE387",
@@ -372,9 +372,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "朵思大王",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Do Tu Dai Vuong",
+    "abbrev": "DoTuDV",
+    "status": "done"
   },
   {
     "id": "menu_0FE391",
@@ -385,9 +385,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "明韋",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dien Vi",
+    "abbrev": "DVi",
+    "status": "done"
   },
   {
     "id": "menu_0FE3B3",
@@ -398,9 +398,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "蓿坐",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE3C9",
@@ -411,9 +411,9 @@
     "raw_bytes": 5,
     "ascii_max": 7,
     "original": "瑜倉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE3D3",
@@ -424,9 +424,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "幼平",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu Thai",
+    "abbrev": "CThai",
+    "status": "done"
   },
   {
     "id": "menu_0FE3D9",
@@ -437,9 +437,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "山善",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE3E3",
@@ -450,9 +450,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "砟蝸",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE3FB",
@@ -463,9 +463,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "仲直",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phap Chinh",
+    "abbrev": "PChi",
+    "status": "done"
   },
   {
     "id": "menu_0FE419",
@@ -476,9 +476,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "恪優",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE45B",
@@ -489,9 +489,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "漯鷩穭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE467",
@@ -502,9 +502,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "德偉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phi Y",
+    "abbrev": "Phi Y",
+    "status": "done"
   },
   {
     "id": "menu_0FE48B",
@@ -515,9 +515,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "鴻豫",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chuong Tu",
+    "abbrev": "CTu",
+    "status": "done"
   },
   {
     "id": "menu_0FE491",
@@ -528,9 +528,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "德豔",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tong Du",
+    "abbrev": "TDu",
+    "status": "done"
   },
   {
     "id": "menu_0FE4CF",
@@ -541,9 +541,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "伯約",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong Vi",
+    "abbrev": "TVi",
+    "status": "done"
   },
   {
     "id": "menu_0FE4DB",
@@ -554,9 +554,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "磟茖",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE509",
@@ -567,9 +567,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "鷩轗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE52B",
@@ -580,9 +580,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "玄威",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ma Tieu",
+    "abbrev": "MTie",
+    "status": "done"
   },
   {
     "id": "menu_0FE543",
@@ -593,9 +593,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "祝融夫人",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phu nhan Chuc Dung",
+    "abbrev": "ChucDung",
+    "status": "done"
   },
   {
     "id": "menu_0FE55F",
@@ -606,9 +606,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "何燒戈",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE56B",
@@ -619,9 +619,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "暀萵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE571",
@@ -632,9 +632,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "奕晃",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE587",
@@ -645,9 +645,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "磥蝌",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE5B1",
@@ -658,9 +658,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "悄鄏",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE5BF",
@@ -671,9 +671,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "伯仁",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chau Thu",
+    "abbrev": "CThu",
+    "status": "done"
   },
   {
     "id": "menu_0FE5CD",
@@ -684,9 +684,9 @@
     "raw_bytes": 5,
     "ascii_max": 7,
     "original": "元恩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vuong Lang",
+    "abbrev": "WLang",
+    "status": "done"
   },
   {
     "id": "menu_0FE5D7",
@@ -697,9 +697,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "元讓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ha Hau Don",
+    "abbrev": "HDon",
+    "status": "done"
   },
   {
     "id": "menu_0FE5DF",
@@ -710,9 +710,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "妙才",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ha Hau Uyen",
+    "abbrev": "HUye",
+    "status": "done"
   },
   {
     "id": "menu_0FE5EB",
@@ -723,9 +723,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "雅權",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE5F1",
@@ -736,9 +736,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "玷躁",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE5F7",
@@ -749,9 +749,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "仲權",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ha Hau Ba",
+    "abbrev": "HBa",
+    "status": "done"
   },
   {
     "id": "menu_0FE613",
@@ -762,9 +762,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "鄐撱",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE647",
@@ -775,9 +775,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "武叔",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vo Ban",
+    "abbrev": "VBan",
+    "status": "done"
   },
   {
     "id": "menu_0FE64D",
@@ -788,9 +788,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "侯乾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hau Can",
+    "abbrev": "HCan",
+    "status": "done"
   },
   {
     "id": "menu_0FE659",
@@ -801,9 +801,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "茠黖",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE665",
@@ -814,9 +814,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "權皓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE66B",
@@ -827,9 +827,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "元宗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ton Hao",
+    "abbrev": "THao",
+    "status": "done"
   },
   {
     "id": "menu_0FE677",
@@ -840,9 +840,9 @@
     "raw_bytes": 5,
     "ascii_max": 9,
     "original": "伯符",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ton Sach",
+    "abbrev": "TSac",
+    "status": "done"
   },
   {
     "id": "menu_0FE680",
@@ -853,9 +853,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "仲異",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ton Quyen",
+    "abbrev": "TQuy",
+    "status": "done"
   },
   {
     "id": "menu_0FE68B",
@@ -866,9 +866,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "公禮",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ton Thieu",
+    "abbrev": "TThi",
+    "status": "done"
   },
   {
     "id": "menu_0FE69B",
@@ -879,9 +879,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "幼臺",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ton Tinh",
+    "abbrev": "TTi",
+    "status": "done"
   },
   {
     "id": "menu_0FE6A3",
@@ -892,9 +892,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "德達",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nham Kien",
+    "abbrev": "NKie",
+    "status": "done"
   },
   {
     "id": "menu_0FE6BB",
@@ -905,9 +905,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "韞羃",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE6C7",
@@ -918,9 +918,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "叔弼",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ton Khang",
+    "abbrev": "TKha",
+    "status": "done"
   },
   {
     "id": "menu_0FE6D3",
@@ -931,9 +931,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "叔明",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ton Kiet",
+    "abbrev": "TKie",
+    "status": "done"
   },
   {
     "id": "menu_0FE6D9",
@@ -944,9 +944,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "佐資",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE6DF",
@@ -957,9 +957,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "磭衈",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE70D",
@@ -970,9 +970,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "高盛",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE713",
@@ -983,9 +983,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "文嚮",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE723",
@@ -996,9 +996,9 @@
     "raw_bytes": 5,
     "ascii_max": 9,
     "original": "伯緒",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luong Ky",
+    "abbrev": "LKy",
+    "status": "done"
   },
   {
     "id": "menu_0FE72C",
@@ -1009,9 +1009,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "元則",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoan Pham",
+    "abbrev": "HPha",
+    "status": "done"
   },
   {
     "id": "menu_0FE74F",
@@ -1022,9 +1022,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "元明",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan Khac",
+    "abbrev": "GKha",
+    "status": "done"
   },
   {
     "id": "menu_0FE76B",
@@ -1035,9 +1035,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "季行",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Canh Ky",
+    "abbrev": "CKy",
+    "status": "done"
   },
   {
     "id": "menu_0FE777",
@@ -1048,9 +1048,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "公達",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu Ma Y",
+    "abbrev": "TMY",
+    "status": "done"
   },
   {
     "id": "menu_0FE78F",
@@ -1061,9 +1061,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "友若",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hua Chu",
+    "abbrev": "HChu",
+    "status": "done"
   },
   {
     "id": "menu_0FE79B",
@@ -1074,9 +1074,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "文若",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tun Tu",
+    "abbrev": "Tun Tu",
+    "status": "done"
   },
   {
     "id": "menu_0FE7B5",
@@ -1087,9 +1087,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "葵蔑",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE7BB",
@@ -1100,9 +1100,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "空膍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE7CB",
@@ -1113,9 +1113,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "本初",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vien Thieu",
+    "abbrev": "VThi",
+    "status": "done"
   },
   {
     "id": "menu_0FE7D1",
@@ -1126,9 +1126,9 @@
     "raw_bytes": 5,
     "ascii_max": 7,
     "original": "緒術",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vien Thu",
+    "abbrev": "VThu",
+    "status": "done"
   },
   {
     "id": "menu_0FE7D8",
@@ -1139,9 +1139,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "公路",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vien Thu",
+    "abbrev": "VThu",
+    "status": "done"
   },
   {
     "id": "menu_0FE7E3",
@@ -1152,9 +1152,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "顯奕",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE7E9",
@@ -1165,9 +1165,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "榮譚",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vien Dam",
+    "abbrev": "VDam",
+    "status": "done"
   },
   {
     "id": "menu_0FE7EF",
@@ -1178,9 +1178,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "顯思",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vien Dam",
+    "abbrev": "VDam",
+    "status": "done"
   },
   {
     "id": "menu_0FE7FB",
@@ -1191,9 +1191,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "伯業",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cong Ton Toan",
+    "abbrev": "CToan",
+    "status": "done"
   },
   {
     "id": "menu_0FE80D",
@@ -1204,9 +1204,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "勒萌",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vuong Ky",
+    "abbrev": "WKy",
+    "status": "done"
   },
   {
     "id": "menu_0FE817",
@@ -1217,9 +1217,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "季常",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ma Tu",
+    "abbrev": "Ma Su",
+    "status": "done"
   },
   {
     "id": "menu_0FE81F",
@@ -1230,9 +1230,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "德信",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vuong Binh",
+    "abbrev": "WBin",
+    "status": "done"
   },
   {
     "id": "menu_0FE83F",
@@ -1243,9 +1243,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "壽成",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tieu Thua",
+    "abbrev": "TTh",
+    "status": "done"
   },
   {
     "id": "menu_0FE857",
@@ -1256,9 +1256,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "鶪虜",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE85D",
@@ -1269,9 +1269,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "滬韃",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE897",
@@ -1282,9 +1282,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "桓觸",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE8AF",
@@ -1295,9 +1295,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "季珪",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thoi Diem",
+    "abbrev": "TDi",
+    "status": "done"
   },
   {
     "id": "menu_0FE8D7",
@@ -1308,9 +1308,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "叔嗣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong Huu",
+    "abbrev": "THuu",
+    "status": "done"
   },
   {
     "id": "menu_0FE8F3",
@@ -1321,9 +1321,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "言疆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong Dong",
+    "abbrev": "TDo",
+    "status": "done"
   },
   {
     "id": "menu_0FE90D",
@@ -1334,9 +1334,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "滬躑",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE923",
@@ -1347,9 +1347,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "翼德",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong Phi",
+    "abbrev": "TPhi",
+    "status": "done"
   },
   {
     "id": "menu_0FE934",
@@ -1360,9 +1360,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "稚叔",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong Duong",
+    "abbrev": "TDu",
+    "status": "done"
   },
   {
     "id": "menu_0FE93F",
@@ -1373,9 +1373,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "惠恕",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong On",
+    "abbrev": "TOn",
+    "status": "done"
   },
   {
     "id": "menu_0FE945",
@@ -1386,9 +1386,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "桓衛",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE94F",
@@ -1399,9 +1399,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "鉹螂",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FE967",
@@ -1412,9 +1412,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "文遠",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong Lieu",
+    "abbrev": "TLie",
+    "status": "done"
   },
   {
     "id": "menu_0FE96D",
@@ -1425,9 +1425,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "文翼",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong Ho",
+    "abbrev": "THo",
+    "status": "done"
   },
   {
     "id": "menu_0FE973",
@@ -1438,9 +1438,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "伯恭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong Dich",
+    "abbrev": "TDi",
+    "status": "done"
   },
   {
     "id": "menu_0FE97F",
@@ -1451,9 +1451,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "孟卓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong Mieu",
+    "abbrev": "TMi",
+    "status": "done"
   },
   {
     "id": "menu_0FE9A7",
@@ -1464,9 +1464,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "德容",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong Ky",
+    "abbrev": "TKy",
+    "status": "done"
   },
   {
     "id": "menu_0FE9CB",
@@ -1477,9 +1477,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "敬仲",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong Cung",
+    "abbrev": "TCu",
+    "status": "done"
   },
   {
     "id": "menu_0FE9D1",
@@ -1490,9 +1490,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "德節",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong Hoa",
+    "abbrev": "THo",
+    "status": "done"
   },
   {
     "id": "menu_0FE9FB",
@@ -1503,9 +1503,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "子桓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tao Phi",
+    "abbrev": "TPhi",
+    "status": "done"
   },
   {
     "id": "menu_0FEA01",
@@ -1516,9 +1516,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "文烈",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tao Tu",
+    "abbrev": "TTu",
+    "status": "done"
   },
   {
     "id": "menu_0FEA0F",
@@ -1529,9 +1529,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "彭祖",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tao Vu",
+    "abbrev": "TVu",
+    "status": "done"
   },
   {
     "id": "menu_0FEA17",
@@ -1542,9 +1542,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "安民",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan Binh",
+    "abbrev": "QBi",
+    "status": "done"
   },
   {
     "id": "menu_0FEA1D",
@@ -1555,9 +1555,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "文性",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEA3F",
@@ -1568,9 +1568,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "黥漸",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEA57",
@@ -1581,9 +1581,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "子丹",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tao Chan",
+    "abbrev": "TCha",
+    "status": "done"
   },
   {
     "id": "menu_0FEA7B",
@@ -1594,9 +1594,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "子建",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tao Chi",
+    "abbrev": "TChi",
+    "status": "done"
   },
   {
     "id": "menu_0FEA81",
@@ -1607,9 +1607,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "德彰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tao Chuong",
+    "abbrev": "TChu",
+    "status": "done"
   },
   {
     "id": "menu_0FEAAF",
@@ -1620,9 +1620,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "元仲",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tao Due",
+    "abbrev": "TDu",
+    "status": "done"
   },
   {
     "id": "menu_0FEACF",
@@ -1633,9 +1633,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "于瓊",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vu Quynh",
+    "abbrev": "VQuy",
+    "status": "done"
   },
   {
     "id": "menu_0FEAD5",
@@ -1646,9 +1646,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "脩于導",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vu Tu",
+    "abbrev": "Vu Tu",
+    "status": "done"
   },
   {
     "id": "menu_0FEAFF",
@@ -1659,9 +1659,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "仲康",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dien Vi",
+    "abbrev": "DVi",
+    "status": "done"
   },
   {
     "id": "menu_0FEB05",
@@ -1672,9 +1672,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "丹氾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEB13",
@@ -1685,9 +1685,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "元圖",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quach Do",
+    "abbrev": "GDo",
+    "status": "done"
   },
   {
     "id": "menu_0FEB27",
@@ -1698,9 +1698,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "攸之",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong Uy",
+    "abbrev": "TUy",
+    "status": "done"
   },
   {
     "id": "menu_0FEB2D",
@@ -1711,9 +1711,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "德奕",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEB57",
@@ -1724,9 +1724,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "暀蔚",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEB6F",
@@ -1737,9 +1737,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "公臺",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Cong",
+    "abbrev": "TCo",
+    "status": "done"
   },
   {
     "id": "menu_0FEB7D",
@@ -1750,9 +1750,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "瓊就",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Cuu",
+    "abbrev": "TCuu",
+    "status": "done"
   },
   {
     "id": "menu_0FEB8B",
@@ -1763,9 +1763,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "穭蛻",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEB9F",
@@ -1776,9 +1776,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "鄑粥",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEBAF",
@@ -1789,9 +1789,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "季弼",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Co",
+    "abbrev": "TCo",
+    "status": "done"
   },
   {
     "id": "menu_0FEBBF",
@@ -1802,9 +1802,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "威彥",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Uong",
+    "abbrev": "TUo",
+    "status": "done"
   },
   {
     "id": "menu_0FEBCB",
@@ -1815,9 +1815,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "聽藅",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEBDB",
@@ -1828,9 +1828,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "幼節",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Dang",
+    "abbrev": "TDa",
+    "status": "done"
   },
   {
     "id": "menu_0FEBE1",
@@ -1841,9 +1841,9 @@
     "raw_bytes": 5,
     "ascii_max": 7,
     "original": "益遜",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gia Cat Khac",
+    "abbrev": "GCKh",
+    "status": "done"
   },
   {
     "id": "menu_0FEBE8",
@@ -1854,9 +1854,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "伯言",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lu Ton",
+    "abbrev": "LTon",
+    "status": "done"
   },
   {
     "id": "menu_0FEBED",
@@ -1867,9 +1867,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "濟績",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lu Khang",
+    "abbrev": "LKha",
+    "status": "done"
   },
   {
     "id": "menu_0FEBF3",
@@ -1880,9 +1880,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "公紀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lu Tong",
+    "abbrev": "LTo",
+    "status": "done"
   },
   {
     "id": "menu_0FEBF9",
@@ -1893,9 +1893,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "孝士仁",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tang Hoi",
+    "abbrev": "THoi",
+    "status": "done"
   },
   {
     "id": "menu_0FEC07",
@@ -1906,9 +1906,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "恭祖",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dau Khiem",
+    "abbrev": "DKh",
+    "status": "done"
   },
   {
     "id": "menu_0FEC1B",
@@ -1919,9 +1919,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "公悌",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phuc Tan",
+    "abbrev": "PTa",
+    "status": "done"
   },
   {
     "id": "menu_0FEC29",
@@ -1932,9 +1932,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "瓊嬰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phung Nhuan",
+    "abbrev": "PNhu",
+    "status": "done"
   },
   {
     "id": "menu_0FEC3B",
@@ -1945,9 +1945,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "永先",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong Tong",
+    "abbrev": "TTo",
+    "status": "done"
   },
   {
     "id": "menu_0FEC41",
@@ -1958,9 +1958,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "齯敻",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEC4F",
@@ -1971,9 +1971,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "帶來洞主",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mang Lai dong chu",
+    "abbrev": "MLDong",
+    "status": "done"
   },
   {
     "id": "menu_0FEC6D",
@@ -1984,9 +1984,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "竄蛣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEC7F",
@@ -1997,9 +1997,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "遠志",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trinh Vien Chi",
+    "abbrev": "TVChi",
+    "status": "done"
   },
   {
     "id": "menu_0FEC8B",
@@ -2010,9 +2010,9 @@
     "raw_bytes": 5,
     "ascii_max": 9,
     "original": "德樞",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trinh Dong",
+    "abbrev": "TDo",
+    "status": "done"
   },
   {
     "id": "menu_0FEC97",
@@ -2023,9 +2023,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "孕羆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEC9F",
@@ -2036,9 +2036,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "德謀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thanh Pho",
+    "abbrev": "TPho",
+    "status": "done"
   },
   {
     "id": "menu_0FECA5",
@@ -2049,9 +2049,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "孝銀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FECBB",
@@ -2062,9 +2062,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "公舉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Than Dam",
+    "abbrev": "TDa",
+    "status": "done"
   },
   {
     "id": "menu_0FECC3",
@@ -2075,9 +2075,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "盂咩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FECE7",
@@ -2088,9 +2088,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "公覆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoang Gai",
+    "abbrev": "HGai",
+    "status": "done"
   },
   {
     "id": "menu_0FED07",
@@ -2101,9 +2101,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "休元",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoang Quyen",
+    "abbrev": "HQuy",
+    "status": "done"
   },
   {
     "id": "menu_0FED37",
@@ -2114,9 +2114,9 @@
     "raw_bytes": 9,
     "ascii_max": 13,
     "original": "越吉元帥",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Viet Cat Nguyen soai",
+    "abbrev": "VCatNS",
+    "status": "done"
   },
   {
     "id": "menu_0FED5F",
@@ -2127,9 +2127,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "德祖",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duong Tu",
+    "abbrev": "DTu",
+    "status": "done"
   },
   {
     "id": "menu_0FED77",
@@ -2140,9 +2140,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "威公",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong Uy",
+    "abbrev": "DUy",
+    "status": "done"
   },
   {
     "id": "menu_0FED7D",
@@ -2153,9 +2153,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "撠亂",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FED8D",
@@ -2166,9 +2166,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "升鋒",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tang Tung",
+    "abbrev": "TTu",
+    "status": "done"
   },
   {
     "id": "menu_0FED9F",
@@ -2179,9 +2179,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "憟藇",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEDA7",
@@ -2192,9 +2192,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "鄍翾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEDAF",
@@ -2205,9 +2205,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "茈悅",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEDB7",
@@ -2218,9 +2218,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "公仁",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong Quan",
+    "abbrev": "TQua",
+    "status": "done"
   },
   {
     "id": "menu_0FEDBF",
@@ -2231,9 +2231,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "董荼奴",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong Trac",
+    "abbrev": "DTrac",
+    "status": "done"
   },
   {
     "id": "menu_0FEDDB",
@@ -2244,9 +2244,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "叔穎",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong Uy",
+    "abbrev": "DUy",
+    "status": "done"
   },
   {
     "id": "menu_0FEDE1",
@@ -2257,9 +2257,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "酮衖",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEDEB",
@@ -2270,9 +2270,9 @@
     "raw_bytes": 5,
     "ascii_max": 9,
     "original": "龔襲",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEDFB",
@@ -2283,9 +2283,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "仲翔",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Han Toai",
+    "abbrev": "HToa",
+    "status": "done"
   },
   {
     "id": "menu_0FEE0B",
@@ -2296,9 +2296,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "秧蝜",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEE11",
@@ -2309,9 +2309,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "祖詡",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vuong Lang",
+    "abbrev": "WLang",
+    "status": "done"
   },
   {
     "id": "menu_0FEE17",
@@ -2322,9 +2322,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "炊憍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEE23",
@@ -2335,9 +2335,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "炊蝨",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEE4B",
@@ -2348,9 +2348,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "苳葆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEE67",
@@ -2361,9 +2361,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "元儉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lieu Hoa",
+    "abbrev": "LHo",
+    "status": "done"
   },
   {
     "id": "menu_0FEE87",
@@ -2374,9 +2374,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "宣高",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lu Khang",
+    "abbrev": "LKha",
+    "status": "done"
   },
   {
     "id": "menu_0FEEA0",
@@ -2387,9 +2387,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "子龍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trieu Van",
+    "abbrev": "TVan",
+    "status": "done"
   },
   {
     "id": "menu_0FEEC7",
@@ -2400,9 +2400,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "公壽",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Vinh",
+    "abbrev": "LVi",
+    "status": "done"
   },
   {
     "id": "menu_0FEED5",
@@ -2413,9 +2413,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "瞻膜膜",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEEFF",
@@ -2426,9 +2426,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "玄德",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Bi",
+    "abbrev": "Luu Bi",
+    "status": "done"
   },
   {
     "id": "menu_0FEF13",
@@ -2439,9 +2439,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "季玉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Ky",
+    "abbrev": "LKy",
+    "status": "done"
   },
   {
     "id": "menu_0FEF23",
@@ -2452,9 +2452,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "子臺",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEF29",
@@ -2465,9 +2465,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "寧曄",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mau Thach",
+    "abbrev": "MTha",
+    "status": "done"
   },
   {
     "id": "menu_0FEF2F",
@@ -2478,9 +2478,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "子陽",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duong Nghi",
+    "abbrev": "DNg",
+    "status": "done"
   },
   {
     "id": "menu_0FEF35",
@@ -2491,9 +2491,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "酈祀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEF3B",
@@ -2504,9 +2504,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "公嗣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Thien",
+    "abbrev": "LThi",
+    "status": "done"
   },
   {
     "id": "menu_0FEF4F",
@@ -2517,9 +2517,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "元穎",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Phuc",
+    "abbrev": "LPh",
+    "status": "done"
   },
   {
     "id": "menu_0FEF61",
@@ -2530,9 +2530,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "康孔才",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khong Dung",
+    "abbrev": "KDun",
+    "status": "done"
   },
   {
     "id": "menu_0FEF75",
@@ -2543,9 +2543,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "蝴娷",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEF87",
@@ -2556,9 +2556,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "子柔",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khoai Luong",
+    "abbrev": "KLu",
+    "status": "done"
   },
   {
     "id": "menu_0FEFAB",
@@ -2569,9 +2569,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "元紹",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEFB3",
@@ -2582,9 +2582,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "濟彥",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEFD1",
@@ -2595,9 +2595,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "臺樊",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "menu_0FEFF3",
@@ -2608,9 +2608,9 @@
     "raw_bytes": 5,
     "ascii_max": 9,
     "original": "文珪",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Ung",
+    "abbrev": "TUng",
+    "status": "done"
   },
   {
     "id": "menu_0FEFFC",
@@ -2621,8 +2621,8 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "承明",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Ba",
+    "abbrev": "LBa",
+    "status": "done"
   }
 ]

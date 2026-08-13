@@ -8,9 +8,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "殙廅鳪",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FA7B1",
@@ -21,9 +21,9 @@
     "raw_bytes": 8,
     "ascii_max": 10,
     "original": "栴朓栻鷘",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FAE04",
@@ -34,9 +34,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "戰爭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chien tranh",
+    "abbrev": "Chien",
+    "status": "done"
   },
   {
     "id": "misc_0FAE0B",
@@ -47,9 +47,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "訓練",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuan luyen",
+    "abbrev": "Tuan",
+    "status": "done"
   },
   {
     "id": "misc_0FAE13",
@@ -60,9 +60,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "運補",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Van bu",
+    "abbrev": "Van bu",
+    "status": "done"
   },
   {
     "id": "misc_0FAE23",
@@ -73,9 +73,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "艨狶",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FAE33",
@@ -86,9 +86,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "士兵分配",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phan bo binh si",
+    "abbrev": "Phan bo",
+    "status": "done"
   },
   {
     "id": "misc_0FAE40",
@@ -99,9 +99,9 @@
     "raw_bytes": 8,
     "ascii_max": 9,
     "original": "製造兵器",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Che tao vu khi",
+    "abbrev": "Che tao",
+    "status": "done"
   },
   {
     "id": "misc_0FAE49",
@@ -112,9 +112,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "數隄",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chiem binh",
+    "abbrev": "Chiem",
+    "status": "done"
   },
   {
     "id": "misc_0FAE51",
@@ -125,9 +125,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "土地開發",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khai phat dat",
+    "abbrev": "Khaiphatdat",
+    "status": "done"
   },
   {
     "id": "misc_0FAE5D",
@@ -138,9 +138,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "屯田",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Don dien",
+    "abbrev": "Don dien",
+    "status": "done"
   },
   {
     "id": "misc_0FAE65",
@@ -151,9 +151,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "巧萼虓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khai khoang",
+    "abbrev": "Khai khoang",
+    "status": "done"
   },
   {
     "id": "misc_0FAE71",
@@ -164,9 +164,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "治水防洪",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tri thuy chong hong",
+    "abbrev": "Tri thuy",
+    "status": "done"
   },
   {
     "id": "misc_0FAE7D",
@@ -177,9 +177,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "厚城牆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Day cung tuong",
+    "abbrev": "Daycungtuong",
+    "status": "done"
   },
   {
     "id": "misc_0FAE89",
@@ -190,9 +190,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "發糧賑災",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phat luong cuu tai",
+    "abbrev": "Phat luong",
+    "status": "done"
   },
   {
     "id": "misc_0FAE95",
@@ -203,9 +203,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "燒殺搜刮",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thieu sat cuop pha",
+    "abbrev": "Thieu sat",
+    "status": "done"
   },
   {
     "id": "misc_0FAEA1",
@@ -216,9 +216,9 @@
     "raw_bytes": 11,
     "ascii_max": 15,
     "original": "調整稅率",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dieu chinh thue suat",
+    "abbrev": "Dieu chinh thue",
+    "status": "done"
   },
   {
     "id": "misc_0FAEB0",
@@ -229,9 +229,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "買米",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mua lua",
+    "abbrev": "Mua",
+    "status": "done"
   },
   {
     "id": "misc_0FAEB7",
@@ -242,9 +242,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "賣米",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ban lua",
+    "abbrev": "Banlua",
+    "status": "done"
   },
   {
     "id": "misc_0FAEBF",
@@ -255,9 +255,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "士兵兵器",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vu khi binh si",
+    "abbrev": "Vu khi",
+    "status": "done"
   },
   {
     "id": "misc_0FAEC9",
@@ -268,9 +268,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "兵武將武器",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Vu khi tuong",
+    "abbrev": "Vu khi tuong",
+    "status": "done"
   },
   {
     "id": "misc_0FAEDF",
@@ -281,9 +281,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "買馬",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mua ngua",
+    "abbrev": "Mua",
+    "status": "done"
   },
   {
     "id": "misc_0FAEE5",
@@ -294,9 +294,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "步兵裝備",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trang bi bo binh",
+    "abbrev": "Trang bi bo",
+    "status": "done"
   },
   {
     "id": "misc_0FAEF1",
@@ -307,9 +307,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "器弩箭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nu tien",
+    "abbrev": "Nu tien",
+    "status": "done"
   },
   {
     "id": "misc_0FAEF9",
@@ -320,9 +320,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "亡連弩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lien nu",
+    "abbrev": "Lien nu",
+    "status": "done"
   },
   {
     "id": "misc_0FAF01",
@@ -333,9 +333,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "地戰船",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chien thuyen",
+    "abbrev": "Chien",
+    "status": "done"
   },
   {
     "id": "misc_0FAF09",
@@ -346,9 +346,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "發石車",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Xe phat da",
+    "abbrev": "Xe phat da",
+    "status": "done"
   },
   {
     "id": "misc_0FAF19",
@@ -359,9 +359,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "展雲梯",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Van ti",
+    "abbrev": "Van ti",
+    "status": "done"
   },
   {
     "id": "misc_0FAF21",
@@ -372,9 +372,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "水井蘭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Can lan",
+    "abbrev": "Can lan",
+    "status": "done"
   },
   {
     "id": "misc_0FAF33",
@@ -385,9 +385,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "蟦覺",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FAF3D",
@@ -398,9 +398,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "搜尋人才",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tim nhan tai",
+    "abbrev": "Tim nhan tai",
+    "status": "done"
   },
   {
     "id": "misc_0FAF49",
@@ -411,9 +411,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "刮移防",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FAF5C",
@@ -424,9 +424,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "全能",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Toan nang",
+    "abbrev": "Toan",
+    "status": "done"
   },
   {
     "id": "misc_0FAF63",
@@ -437,9 +437,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "參謀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tham muu",
+    "abbrev": "Tham",
+    "status": "done"
   },
   {
     "id": "misc_0FAF6B",
@@ -450,9 +450,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "軍事",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan su",
+    "abbrev": "Quansu",
+    "status": "done"
   },
   {
     "id": "misc_0FAF71",
@@ -463,9 +463,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "器內政",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Noi chinh",
+    "abbrev": "Noi chin",
+    "status": "done"
   },
   {
     "id": "misc_0FAF79",
@@ -476,9 +476,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "將外交",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ngoai giao",
+    "abbrev": "Ngoai gi",
+    "status": "done"
   },
   {
     "id": "misc_0FAF8B",
@@ -489,9 +489,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "智將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong tri",
+    "abbrev": "Tuong",
+    "status": "done"
   },
   {
     "id": "misc_0FAF91",
@@ -502,9 +502,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "猛將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong manh",
+    "abbrev": "Tuong",
+    "status": "done"
   },
   {
     "id": "misc_0FAFA1",
@@ -515,9 +515,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "文官",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan van",
+    "abbrev": "Quan van",
+    "status": "done"
   },
   {
     "id": "misc_0FAFA9",
@@ -528,9 +528,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "弩軍師",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FAFB1",
@@ -541,9 +541,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "埴謅茼",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FAFB9",
@@ -554,9 +554,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "石將軍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong Thach",
+    "abbrev": "Tuong",
+    "status": "done"
   },
   {
     "id": "misc_0FAFD9",
@@ -567,9 +567,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "蒂永",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FAFE9",
@@ -580,9 +580,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "水軍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuy quan",
+    "abbrev": "Thuyquan",
+    "status": "done"
   },
   {
     "id": "misc_0FAFF1",
@@ -593,9 +593,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "才刀劍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dao kiem",
+    "abbrev": "Dao kiem",
+    "status": "done"
   },
   {
     "id": "misc_0FAFFF",
@@ -606,9 +606,9 @@
     "raw_bytes": 5,
     "ascii_max": 9,
     "original": "膋齯",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FF00D",
@@ -619,9 +619,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "繙虒",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FF015",
@@ -632,9 +632,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "公琰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cong Vien",
+    "abbrev": "CongVien",
+    "status": "done"
   },
   {
     "id": "misc_0FF03B",
@@ -645,9 +645,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "伯喈",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bo Giai",
+    "abbrev": "BoGiai",
+    "status": "done"
   },
   {
     "id": "misc_0FF05B",
@@ -658,9 +658,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "元遜",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nguyen Ton",
+    "abbrev": "Nguyen",
+    "status": "done"
   },
   {
     "id": "misc_0FF07F",
@@ -671,9 +671,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "思遠",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu Vien",
+    "abbrev": "TuVien",
+    "status": "done"
   },
   {
     "id": "misc_0FF0B9",
@@ -684,9 +684,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "繙蚗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FF0C3",
@@ -697,9 +697,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "玄茂",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Huyen Mao",
+    "abbrev": "Huyen",
+    "status": "done"
   },
   {
     "id": "misc_0FF0CB",
@@ -710,9 +710,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "炊掑",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FF0D1",
@@ -723,9 +723,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "蝴媥",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FF0E3",
@@ -736,9 +736,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "慕容",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Mac Dung",
+    "abbrev": "Mac",
+    "status": "done"
   },
   {
     "id": "misc_0FF0E9",
@@ -749,9 +749,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "喈徹理吉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FF154",
@@ -762,9 +762,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "孝威",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hieu Uy",
+    "abbrev": "Hieu",
+    "status": "done"
   },
   {
     "id": "misc_0FF159",
@@ -775,9 +775,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "載綜",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tai Tong",
+    "abbrev": "Tai",
+    "status": "done"
   },
   {
     "id": "misc_0FF189",
@@ -788,9 +788,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "敬元常",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ky Nguyen Thuong",
+    "abbrev": "Ky",
+    "status": "done"
   },
   {
     "id": "misc_0FF191",
@@ -801,9 +801,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "容縉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dung Tan",
+    "abbrev": "Dung",
+    "status": "done"
   },
   {
     "id": "misc_0FF19B",
@@ -814,9 +814,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "仲遠",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trung Vien",
+    "abbrev": "Trung",
+    "status": "done"
   },
   {
     "id": "misc_0FF1AF",
@@ -827,9 +827,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "元嗣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nguyen Ty",
+    "abbrev": "Nguyen",
+    "status": "done"
   },
   {
     "id": "misc_0FF1BB",
@@ -840,9 +840,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "莒子",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cu Tu",
+    "abbrev": "Cu Tu",
+    "status": "done"
   },
   {
     "id": "misc_0FF1E7",
@@ -853,9 +853,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "坐撣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FF1ED",
@@ -866,9 +866,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "仲珩",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trung Hanh",
+    "abbrev": "Trung",
+    "status": "done"
   },
   {
     "id": "misc_0FF20D",
@@ -879,9 +879,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "文顏",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Van Ngan",
+    "abbrev": "Van",
+    "status": "done"
   },
   {
     "id": "misc_0FF227",
@@ -892,9 +892,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "雲長",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Van Truong",
+    "abbrev": "Van",
+    "status": "done"
   },
   {
     "id": "misc_0FF23F",
@@ -905,9 +905,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "正平",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chinh Binh",
+    "abbrev": "Chinh",
+    "status": "done"
   },
   {
     "id": "misc_0FF24B",
@@ -918,9 +918,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "楔鼠",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FF25B",
@@ -931,9 +931,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "士元",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Si Nguyen",
+    "abbrev": "Si",
+    "status": "done"
   },
   {
     "id": "misc_0FF269",
@@ -944,9 +944,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "白虎",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bach Ho",
+    "abbrev": "Bach Ho",
+    "status": "done"
   },
   {
     "id": "misc_0FF271",
@@ -957,9 +957,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "高與",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FF277",
@@ -970,9 +970,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "仱狺",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FF27D",
@@ -983,9 +983,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "公蘇",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cong To",
+    "abbrev": "CongTo",
+    "status": "done"
   },
   {
     "id": "misc_0FF28F",
@@ -996,9 +996,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "德潤",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duc Thuan",
+    "abbrev": "Duc",
+    "status": "done"
   },
   {
     "id": "misc_0FF307",
@@ -1009,9 +1009,9 @@
     "raw_bytes": 9,
     "ascii_max": 10,
     "original": "一字蛇陣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Tu Xa",
+    "abbrev": "Tran Tu Xa",
+    "status": "done"
   },
   {
     "id": "misc_0FF31D",
@@ -1022,9 +1022,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "行之陣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Hanh",
+    "abbrev": "Tran Hanh",
+    "status": "done"
   },
   {
     "id": "misc_0FF329",
@@ -1035,9 +1035,9 @@
     "raw_bytes": 11,
     "ascii_max": 12,
     "original": "鉤行之陣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Khuynh Hanh",
+    "abbrev": "Tran Khuynh",
+    "status": "done"
   },
   {
     "id": "misc_0FF335",
@@ -1048,9 +1048,9 @@
     "raw_bytes": 11,
     "ascii_max": 15,
     "original": "但毓郎璊妍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FF344",
@@ -1061,9 +1061,9 @@
     "raw_bytes": 8,
     "ascii_max": 10,
     "original": "箕形之陣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Ky Hinh",
+    "abbrev": "TranKyHinh",
+    "status": "done"
   },
   {
     "id": "misc_0FF34E",
@@ -1074,9 +1074,9 @@
     "raw_bytes": 10,
     "ascii_max": 14,
     "original": "十面埋伏",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thap dien mai phuc",
+    "abbrev": "Thap dien mai",
+    "status": "done"
   },
   {
     "id": "misc_0FF35C",
@@ -1087,9 +1087,9 @@
     "raw_bytes": 26,
     "ascii_max": 27,
     "original": "此行必無所得",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hanh nay chac khong duoc gi",
+    "abbrev": "Hanh nay chac khong duoc gi",
+    "status": "done"
   },
   {
     "id": "misc_0FF377",
@@ -1100,9 +1100,9 @@
     "raw_bytes": 21,
     "ascii_max": 23,
     "original": "百戰不殆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bach chien bat bai",
+    "abbrev": "Bach chien bat bai",
+    "status": "done"
   },
   {
     "id": "misc_0FF3C7",
@@ -1113,9 +1113,9 @@
     "raw_bytes": 29,
     "ascii_max": 30,
     "original": "主公宜令人尋訪",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chu cong nen cho nguoi tim kiem",
+    "abbrev": "Chucongnenchonguoitimkiem",
+    "status": "done"
   },
   {
     "id": "misc_0FF4A0",
@@ -1126,9 +1126,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "劉備",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Bi",
+    "abbrev": "LuuBi",
+    "status": "done"
   },
   {
     "id": "misc_0FF4A8",
@@ -1139,9 +1139,9 @@
     "raw_bytes": 318,
     "ascii_max": 319,
     "original": "擁有漢朝血統因此立志復興漢室",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Co dong mach nha Han nen lap chi phuc hung Han that",
+    "abbrev": "Co dong mach nha Han nen lap chi phuc hung Han that",
+    "status": "done"
   },
   {
     "id": "misc_0FF5E7",
@@ -1152,9 +1152,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "祧捃神",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FF5EF",
@@ -1165,9 +1165,9 @@
     "raw_bytes": 535,
     "ascii_max": 536,
     "original": "但他在臨死時仍以妙計退走司馬懿大兵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung khi sap chet ong van dung ke thong minh de rut lui quan lon Tu Ma Y",
+    "abbrev": "Nhung khi sap chet ong van dung ke thong minh de rut lui quan lon Tu Ma Y",
+    "status": "done"
   },
   {
     "id": "misc_0FF80D",
@@ -1178,9 +1178,9 @@
     "raw_bytes": 437,
     "ascii_max": 438,
     "original": "再配上威力驚人的青龍偃月刀及赤兔馬",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ket hop voi Thanh Long Yen Nguyet Dao va Xich Tho ma tao suc manh kinh nguoi",
+    "abbrev": "Ket hop voi Thanh Long Yen Nguyet Dao va Xich Tho ma tao suc manh kinh nguoi",
+    "status": "done"
   },
   {
     "id": "misc_0FF9C9",
@@ -1191,9 +1191,9 @@
     "raw_bytes": 373,
     "ascii_max": 374,
     "original": "最後終於在征吳替關羽復仇的征戰前被部將暗殺",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cuoi cung bi am sat truoc khi chien dau bao thu Quan Vu",
+    "abbrev": "Cuoi cung bi am sat truoc khi chien dau bao thu Quan Vu",
+    "status": "done"
   },
   {
     "id": "misc_0FFB45",
@@ -1204,9 +1204,9 @@
     "raw_bytes": 393,
     "ascii_max": 394,
     "original": "子龍可說是一身忠肝義膽的英雄好漢",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trieu Van la anh hung trung nghia",
+    "abbrev": "Trieu Van la anh hung trung nghia",
+    "status": "done"
   },
   {
     "id": "misc_0FFCD5",
@@ -1217,9 +1217,9 @@
     "raw_bytes": 327,
     "ascii_max": 328,
     "original": "雖年近六十旬仍有萬夫不當之勇",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Du gan 60 tuoi van co suc manh van phu bat dang",
+    "abbrev": "Du gan 60 tuoi van co suc manh van phu bat dang",
+    "status": "done"
   },
   {
     "id": "misc_0FFE1D",
@@ -1230,9 +1230,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "戰狐邑",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_0FFE25",
@@ -1243,9 +1243,9 @@
     "raw_bytes": 355,
     "ascii_max": 356,
     "original": "曾與魏國猛將許褚戰得平分秋色",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tung danh ngang tay voi Hua Chu cua Nguy",
+    "abbrev": "Tung danh ngang tay voi Hua Chu cua Nguy",
+    "status": "done"
   },
   {
     "id": "misc_0FFF91",
@@ -1256,9 +1256,9 @@
     "raw_bytes": 277,
     "ascii_max": 278,
     "original": "可惜在劉備攻蜀地時在落鳳坡被亂箭射死",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Che tai Lac Phong Pha khi Luu Bi tan cong Thuc",
+    "abbrev": "Che tai Lac Phong Pha khi Luu Bi tan cong Thuc",
+    "status": "done"
   },
   {
     "id": "misc_1000AD",
@@ -1269,9 +1269,9 @@
     "raw_bytes": 245,
     "ascii_max": 246,
     "original": "但因支持劉備而被蔡瑁所逐",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bi Truai Mao truc xuat vi ung ho Luu Bi",
+    "abbrev": "Bi Truai Mao truc xuat vi ung ho Luu Bi",
+    "status": "done"
   },
   {
     "id": "misc_1001A9",
@@ -1282,9 +1282,9 @@
     "raw_bytes": 195,
     "ascii_max": 196,
     "original": "利用他的母親將徐庶騙到身邊",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dung me ruot lua Tu Thu den ben minh",
+    "abbrev": "Dung me ruot lua Tu Thu den ben minh",
+    "status": "done"
   },
   {
     "id": "misc_100278",
@@ -1295,9 +1295,9 @@
     "raw_bytes": 186,
     "ascii_max": 188,
     "original": "亦是蜀國一名頗為活躍的將領",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cung la tuong kha nang dong cua Thuc",
+    "abbrev": "Cung la tuong kha nang dong cua Thuc",
+    "status": "done"
   },
   {
     "id": "misc_100339",
@@ -1308,9 +1308,9 @@
     "raw_bytes": 265,
     "ascii_max": 266,
     "original": "他認為馬謖只會說好聽的話",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ong cho rang Ma Su chi biet noi hay",
+    "abbrev": "Ong cho rang Ma Su chi biet noi hay",
+    "status": "done"
   },
   {
     "id": "misc_100449",
@@ -1321,9 +1321,9 @@
     "raw_bytes": 177,
     "ascii_max": 178,
     "original": "在陶謙的推薦下成為劉備的心腹",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duoc Tao Thien gioi thieu tro than tam phuc Luu Bi",
+    "abbrev": "Duoc Tao Thien gioi thieu tro than tam phuc Luu Bi",
+    "status": "done"
   },
   {
     "id": "misc_100504",
@@ -1334,9 +1334,9 @@
     "raw_bytes": 256,
     "ascii_max": 257,
     "original": "在孔明死後繼承遺志數次北伐魏國",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sau khi Gia Cat Luong che tiep chi Bac phat Nguy nhieu lan",
+    "abbrev": "Sau khi Gia Cat Luong che tiep chi Bac phat Nguy nhieu lan",
+    "status": "done"
   },
   {
     "id": "misc_10060D",
@@ -1347,9 +1347,9 @@
     "raw_bytes": 185,
     "ascii_max": 187,
     "original": "曾與劉備的養子劉封聯手征戰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tung lien thu voi Luu Phong di chien",
+    "abbrev": "Tung lien thu voi Luu Phong di chien",
+    "status": "done"
   },
   {
     "id": "misc_1006C8",
@@ -1360,9 +1360,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "劉禪",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Thien",
+    "abbrev": "LuuThien",
+    "status": "done"
   },
   {
     "id": "misc_1006D0",
@@ -1373,9 +1373,9 @@
     "raw_bytes": 230,
     "ascii_max": 231,
     "original": "然而他卻沒有繼承到父親的才華與仁厚",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhung khong thua ke tai nang va nhan duc cua cha",
+    "abbrev": "Nhung khong thua ke tai nang va nhan duc cua cha",
+    "status": "done"
   },
   {
     "id": "misc_1007BD",
@@ -1386,9 +1386,9 @@
     "raw_bytes": 469,
     "ascii_max": 470,
     "original": "年輕時就以狡猾多謀見長",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tre tuoi da noi tieng xao quyet",
+    "abbrev": "Tre tuoi da noi tieng xao quyet",
+    "status": "done"
   },
   {
     "id": "misc_100993",
@@ -1399,9 +1399,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "仃銗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_100999",
@@ -1412,9 +1412,9 @@
     "raw_bytes": 191,
     "ascii_max": 195,
     "original": "爾後親自率軍攻打東吳不果而染重病亡故",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sau tu danh Dong Ngo that bai va chet vi benh nang",
+    "abbrev": "Sau tu danh Dong Ngo that bai va chet vi benh nang",
+    "status": "done"
   },
   {
     "id": "misc_100A63",
@@ -1425,9 +1425,9 @@
     "raw_bytes": 323,
     "ascii_max": 324,
     "original": "終使得司馬家族重新統一了分裂的政權",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gia toc Tu Ma thong nhat chinh quyen chia cat",
+    "abbrev": "Gia toc Tu Ma thong nhat chinh quyen chia cat",
+    "status": "done"
   },
   {
     "id": "misc_100BA7",
@@ -1438,9 +1438,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "侯淵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hau Uyen",
+    "abbrev": "Hau Uyen",
+    "status": "done"
   },
   {
     "id": "misc_100BAF",
@@ -1451,9 +1451,9 @@
     "raw_bytes": 167,
     "ascii_max": 168,
     "original": "自曹操舉兵拓展疆土時",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu khi Tao Thao khoi nghia mo rong lanh tho",
+    "abbrev": "Tu khi Tao Thao khoi nghia mo rong lanh tho",
+    "status": "done"
   },
   {
     "id": "misc_100C5F",
@@ -1464,9 +1464,9 @@
     "raw_bytes": 143,
     "ascii_max": 144,
     "original": "甚至把中箭的眼珠吃掉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tha an mat bi ban trung",
+    "abbrev": "Tha an mat bi ban trung",
+    "status": "done"
   },
   {
     "id": "misc_100CEF",
@@ -1477,9 +1477,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "許褚",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hua Chu",
+    "abbrev": "HuaChu",
+    "status": "done"
   },
   {
     "id": "misc_100CF5",
@@ -1490,9 +1490,9 @@
     "raw_bytes": 185,
     "ascii_max": 187,
     "original": "曾數次救出身陷險境的曹操",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhieu lan cuu Tao Thao khoi hiem can",
+    "abbrev": "Nhieu lan cuu Tao Thao khoi hiem can",
+    "status": "done"
   },
   {
     "id": "misc_100DB0",
@@ -1503,9 +1503,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "徐晃",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu Hoang",
+    "abbrev": "Tu",
+    "status": "done"
   },
   {
     "id": "misc_100DB5",
@@ -1516,9 +1516,9 @@
     "raw_bytes": 143,
     "ascii_max": 144,
     "original": "而被曹操讚喻為有周亞夫之風",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tao Thao khen co phong Chu A Phu",
+    "abbrev": "Tao Thao khen co phong Chu A Phu",
+    "status": "done"
   },
   {
     "id": "misc_100E45",
@@ -1529,9 +1529,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "鬥控",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_100E4D",
@@ -1542,9 +1542,9 @@
     "raw_bytes": 209,
     "ascii_max": 210,
     "original": "殺得孫權東吳士兵落慌而逃",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Danh Tan Quyen quan Dong Ngo tan loan",
+    "abbrev": "Danh Tan Quyen quan Dong Ngo tan loan",
+    "status": "done"
   },
   {
     "id": "misc_100F25",
@@ -1555,9 +1555,9 @@
     "raw_bytes": 201,
     "ascii_max": 202,
     "original": "在渭水一戰與馬超殺得曹操膽顫心寒",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Danh Tao Thao kinh hoang voi Ma Sieu tai Vi Thuy",
+    "abbrev": "Danh Tao Thao kinh hoang voi Ma Sieu tai Vi Thuy",
+    "status": "done"
   },
   {
     "id": "misc_100FF5",
@@ -1568,9 +1568,9 @@
     "raw_bytes": 225,
     "ascii_max": 226,
     "original": "終於不被操所信賴而被逼服毒自殺",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bi Tao Thao ep uong doc tu sat",
+    "abbrev": "Bi Tao Thao ep uong doc tu sat",
+    "status": "done"
   },
   {
     "id": "misc_1010DD",
@@ -1581,9 +1581,9 @@
     "raw_bytes": 253,
     "ascii_max": 254,
     "original": "因荀彧的推薦而為曹操賣命",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duoc Tuc Yu gioi thieu phuc vu Tao Thao",
+    "abbrev": "Duoc Tuc Yu gioi thieu phuc vu Tao Thao",
+    "status": "done"
   },
   {
     "id": "misc_1011E1",
@@ -1594,9 +1594,9 @@
     "raw_bytes": 223,
     "ascii_max": 224,
     "original": "在討伐黃巾賊時建立戰功",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lap cong khi danh Hoang Kim",
+    "abbrev": "Lap cong khi danh Hoang Kim",
+    "status": "done"
   },
   {
     "id": "misc_1012C1",
@@ -1607,9 +1607,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "父耨",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_1012C9",
@@ -1620,9 +1620,9 @@
     "raw_bytes": 229,
     "ascii_max": 231,
     "original": "傳說因斬道人于吉而飽受神鬼侵擾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truyen cat dao si Vu Ciet bi quy nhieu",
+    "abbrev": "Truyen cat dao si Vu Ciet bi quy nhieu",
+    "status": "done"
   },
   {
     "id": "misc_1013B0",
@@ -1633,9 +1633,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "孫權",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ton Quyen",
+    "abbrev": "Ton",
+    "status": "done"
   },
   {
     "id": "misc_1013B5",
@@ -1646,9 +1646,9 @@
     "raw_bytes": 315,
     "ascii_max": 316,
     "original": "與劉備聯手在赤壁一役中大敗曹操",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lien thu Luu Bi danh bai Tao Thao tai Xich Bich",
+    "abbrev": "Lien thu Luu Bi danh bai Tao Thao tai Xich Bich",
+    "status": "done"
   },
   {
     "id": "misc_1014F9",
@@ -1659,9 +1659,9 @@
     "raw_bytes": 359,
     "ascii_max": 360,
     "original": "使得東吳這場驚天地泣鬼神的大戰中大獲全勝",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gay chien thang lon cho Dong Ngo",
+    "abbrev": "Gay chien thang lon cho Dong Ngo",
+    "status": "done"
   },
   {
     "id": "misc_101669",
@@ -1672,9 +1672,9 @@
     "raw_bytes": 203,
     "ascii_max": 207,
     "original": "但後來甘興霸不計前嫌奮勇救凌統之性命",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cam Hinh Ba khong vi thu cuu Linh Thong",
+    "abbrev": "Cam Hinh Ba khong vi thu cuu Linh Thong",
+    "status": "done"
   },
   {
     "id": "misc_101738",
@@ -1685,9 +1685,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "黃蓋",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoang Cai",
+    "abbrev": "Hoang",
+    "status": "done"
   },
   {
     "id": "misc_10173D",
@@ -1698,9 +1698,9 @@
     "raw_bytes": 165,
     "ascii_max": 167,
     "original": "終於使周瑜的火燒連環船得以成功",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoan thanh ke hoa lien thuyen cua Chu Du",
+    "abbrev": "Hoan thanh ke hoa lien thuyen cua Chu Du",
+    "status": "done"
   },
   {
     "id": "misc_1017E4",
@@ -1711,9 +1711,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "陸遜",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lu Tu",
+    "abbrev": "Lu Tu",
+    "status": "done"
   },
   {
     "id": "misc_1017E9",
@@ -1724,9 +1724,9 @@
     "raw_bytes": 221,
     "ascii_max": 222,
     "original": "後來劉備為報關羽之仇而兵臨江南",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Bi danh xuong Giang Nam bao thu Quan Vu",
+    "abbrev": "Luu Bi danh xuong Giang Nam bao thu Quan Vu",
+    "status": "done"
   },
   {
     "id": "misc_1018C7",
@@ -1737,9 +1737,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "忖茈",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_1018CF",
@@ -1750,9 +1750,9 @@
     "raw_bytes": 261,
     "ascii_max": 262,
     "original": "後來依照約定帶著一干眾兵士前去投靠歸順",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Theo y dinh dan quan den hang",
+    "abbrev": "Theo y dinh dan quan den hang",
+    "status": "done"
   },
   {
     "id": "misc_1019D5",
@@ -1763,9 +1763,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "沒豆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_1019DD",
@@ -1776,9 +1776,9 @@
     "raw_bytes": 225,
     "ascii_max": 226,
     "original": "據說他在慶功宴上被關羽魂魄嚇得七竅流血而亡",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bi hon Quan Vu trong tiec lam chet kinh hoang",
+    "abbrev": "Bi hon Quan Vu trong tiec lam chet kinh hoang",
+    "status": "done"
   },
   {
     "id": "misc_101AC8",
@@ -1789,9 +1789,9 @@
     "raw_bytes": 224,
     "ascii_max": 225,
     "original": "只有他強力主張聯合劉備以拒曹操",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Kien chi lien minh Luu Bi chong Tao Thao",
+    "abbrev": "Kien chi lien minh Luu Bi chong Tao Thao",
+    "status": "done"
   },
   {
     "id": "misc_101BA9",
@@ -1802,9 +1802,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "只戍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_101BB1",
@@ -1815,9 +1815,9 @@
     "raw_bytes": 437,
     "ascii_max": 438,
     "original": "連響叮噹的關羽和張飛聯手都無法打敗他",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan Vu Truong Phi lien thu khong danh bai",
+    "abbrev": "Quan Vu Truong Phi lien thu khong danh bai",
+    "status": "done"
   },
   {
     "id": "misc_101D6D",
@@ -1828,9 +1828,9 @@
     "raw_bytes": 291,
     "ascii_max": 292,
     "original": "燒洛陽並挾獻帝強行遷都長安",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dot Lac Duong ep Thien tu den Truong An",
+    "abbrev": "Dot Lac Duong ep Thien tu den Truong An",
+    "status": "done"
   },
   {
     "id": "misc_101E91",
@@ -1841,9 +1841,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "爭僭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_101E99",
@@ -1854,9 +1854,9 @@
     "raw_bytes": 225,
     "ascii_max": 226,
     "original": "在得到傳國玉璽之後便自立為王",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu lap lam vuong khi co ngoc ty",
+    "abbrev": "Tu lap lam vuong khi co ngoc ty",
+    "status": "done"
   },
   {
     "id": "misc_101F81",
@@ -1867,9 +1867,9 @@
     "raw_bytes": 233,
     "ascii_max": 234,
     "original": "擔心遭受董卓報複而逃出洛陽",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "So Doc Truo bao thu tron Lac Duong",
+    "abbrev": "So Doc Truo bao thu tron Lac Duong",
+    "status": "done"
   },
   {
     "id": "misc_110DB8",
@@ -1880,9 +1880,9 @@
     "raw_bytes": 4,
     "ascii_max": 14,
     "original": "襄平",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong Binh",
+    "abbrev": "Tuong Binh",
+    "status": "done"
   },
   {
     "id": "misc_110E40",
@@ -1893,9 +1893,9 @@
     "raw_bytes": 4,
     "ascii_max": 14,
     "original": "北平",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bac Binh",
+    "abbrev": "Bac Binh",
+    "status": "done"
   },
   {
     "id": "misc_110F50",
@@ -1906,9 +1906,9 @@
     "raw_bytes": 4,
     "ascii_max": 14,
     "original": "晉陽",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tan Duong",
+    "abbrev": "Tan Duong",
+    "status": "done"
   },
   {
     "id": "misc_111060",
@@ -1919,9 +1919,9 @@
     "raw_bytes": 4,
     "ascii_max": 14,
     "original": "平原",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Binh Nguyen",
+    "abbrev": "Binh Nguyen",
+    "status": "done"
   },
   {
     "id": "misc_111170",
@@ -1932,9 +1932,9 @@
     "raw_bytes": 4,
     "ascii_max": 14,
     "original": "北海",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bac Hai",
+    "abbrev": "Bac Hai",
+    "status": "done"
   },
   {
     "id": "misc_111414",
@@ -1945,9 +1945,9 @@
     "raw_bytes": 8,
     "ascii_max": 18,
     "original": "長安",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Truong An",
+    "abbrev": "Truong An",
+    "status": "done"
   },
   {
     "id": "misc_111524",
@@ -1958,9 +1958,9 @@
     "raw_bytes": 8,
     "ascii_max": 18,
     "original": "天水",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thien Thuy",
+    "abbrev": "Thien Thuy",
+    "status": "done"
   },
   {
     "id": "misc_111DA4",
@@ -1971,9 +1971,9 @@
     "raw_bytes": 8,
     "ascii_max": 18,
     "original": "零陵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lang Lam",
+    "abbrev": "Lang Lam",
+    "status": "done"
   },
   {
     "id": "misc_1120D7",
@@ -1984,9 +1984,9 @@
     "raw_bytes": 5,
     "ascii_max": 15,
     "original": "柴桑",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sai Sang",
+    "abbrev": "Sai Sang",
+    "status": "done"
   },
   {
     "id": "misc_1121E6",
@@ -1997,9 +1997,9 @@
     "raw_bytes": 6,
     "ascii_max": 16,
     "original": "下弁",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ha Te",
+    "abbrev": "Ha Te",
+    "status": "done"
   },
   {
     "id": "misc_11226C",
@@ -2010,9 +2010,9 @@
     "raw_bytes": 8,
     "ascii_max": 18,
     "original": "梓潼",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu Thong",
+    "abbrev": "Tu Thong",
+    "status": "done"
   },
   {
     "id": "misc_112516",
@@ -2023,9 +2023,9 @@
     "raw_bytes": 6,
     "ascii_max": 16,
     "original": "雲南",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Van Nam",
+    "abbrev": "Van Nam",
+    "status": "done"
   },
   {
     "id": "misc_112912",
@@ -2036,9 +2036,9 @@
     "raw_bytes": 10,
     "ascii_max": 26,
     "original": "下一郡縣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan huyen tiep theo",
+    "abbrev": "Quan huyen tiep theo",
+    "status": "done"
   },
   {
     "id": "misc_112C72",
@@ -2049,9 +2049,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "商業發展",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phat trien thuong nghiep",
+    "abbrev": "Phat trien thuong nghiep",
+    "status": "done"
   },
   {
     "id": "misc_112D02",
@@ -2062,9 +2062,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "加厚城牆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Day cung tuong",
+    "abbrev": "Day cung tuong",
+    "status": "done"
   },
   {
     "id": "misc_112D92",
@@ -2075,9 +2075,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "燒殺搜括",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thieu sat cuop pha",
+    "abbrev": "Thieu sat cuop pha",
+    "status": "done"
   },
   {
     "id": "misc_112EFA",
@@ -2088,9 +2088,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "援助要求",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Yeu cau vien tro",
+    "abbrev": "Yeu cau vien tro",
+    "status": "done"
   },
   {
     "id": "misc_11301A",
@@ -2101,9 +2101,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "降服勸告",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khuyen hang phuc",
+    "abbrev": "Khuyen hang phuc",
+    "status": "done"
   },
   {
     "id": "misc_113062",
@@ -2114,9 +2114,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "議和調停",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoa giai dieu dinh",
+    "abbrev": "Hoa giai dieu dinh",
+    "status": "done"
   },
   {
     "id": "misc_1130AA",
@@ -2127,9 +2127,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "交換俘虜",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trao doi tu bin",
+    "abbrev": "Trao doi tu bin",
+    "status": "done"
   },
   {
     "id": "misc_1130F2",
@@ -2140,9 +2140,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "二虎競食",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nhi ho can thuc",
+    "abbrev": "Nhi ho can thuc",
+    "status": "done"
   },
   {
     "id": "misc_11313A",
@@ -2153,9 +2153,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "驅虎吞狼",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khu ho ton lang",
+    "abbrev": "Khu ho ton lang",
+    "status": "done"
   },
   {
     "id": "misc_113182",
@@ -2166,9 +2166,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "偽書使疑",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gia thu gay nghi",
+    "abbrev": "Gia thu gay nghi",
+    "status": "done"
   },
   {
     "id": "misc_1131CA",
@@ -2179,9 +2179,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "借刀殺人",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Giet nguoi dao",
+    "abbrev": "Giet nguoi dao",
+    "status": "done"
   },
   {
     "id": "misc_113212",
@@ -2192,9 +2192,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "混水摸魚",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hon nuoc mo ca",
+    "abbrev": "Hon nuoc mo ca",
+    "status": "done"
   },
   {
     "id": "misc_11325A",
@@ -2205,9 +2205,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "破壞城牆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Pha huy tuong thanh",
+    "abbrev": "Pha huy tuong thanh",
+    "status": "done"
   },
   {
     "id": "misc_11340A",
@@ -2218,9 +2218,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "徵召武將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trieu chieu tuong",
+    "abbrev": "Trieu chieu tuong",
+    "status": "done"
   },
   {
     "id": "misc_113452",
@@ -2231,9 +2231,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "任命官職",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bo nhiem quan chuc",
+    "abbrev": "Bo nhiem quan chuc",
+    "status": "done"
   },
   {
     "id": "misc_113572",
@@ -2244,9 +2244,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "敵情搜集",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thu thap tin tuc dich",
+    "abbrev": "Thu thap tin tuc dich",
+    "status": "done"
   },
   {
     "id": "misc_113602",
@@ -2257,9 +2257,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "朝廷會議",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoi nghi trieu dinh",
+    "abbrev": "Hoi nghi trieu dinh",
+    "status": "done"
   },
   {
     "id": "misc_11364A",
@@ -2270,9 +2270,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "郡縣情報",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tin tuc quan huyen",
+    "abbrev": "Tin tuc quan huyen",
+    "status": "done"
   },
   {
     "id": "misc_113692",
@@ -2283,9 +2283,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "武將情報",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tin tuc tuong",
+    "abbrev": "Tin tuc tuong",
+    "status": "done"
   },
   {
     "id": "misc_1136DA",
@@ -2296,9 +2296,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "外交關係",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quan he ngoai giao",
+    "abbrev": "Quan he ngoai giao",
+    "status": "done"
   },
   {
     "id": "misc_113722",
@@ -2309,9 +2309,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "儲存進度",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu tien trinh",
+    "abbrev": "Luu tien trinh",
+    "status": "done"
   },
   {
     "id": "misc_11376A",
@@ -2322,9 +2322,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "讀取進度",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Doc tien trinh",
+    "abbrev": "Doc tien trinh",
+    "status": "done"
   },
   {
     "id": "misc_1137B2",
@@ -2335,9 +2335,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "語音開啟",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bat am thanh",
+    "abbrev": "Bat am thanh",
+    "status": "done"
   },
   {
     "id": "misc_1137FA",
@@ -2348,9 +2348,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "音樂開啟",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Bat nhac",
+    "abbrev": "Bat nhac",
+    "status": "done"
   },
   {
     "id": "misc_118020",
@@ -2361,9 +2361,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "刺探敵情",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tham tin dich tinh",
+    "abbrev": "Tham tin dich tinh",
+    "status": "done"
   },
   {
     "id": "misc_1180F8",
@@ -2374,9 +2374,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "錐行之陣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Truy Hanh",
+    "abbrev": "Tran Truy Hanh",
+    "status": "done"
   },
   {
     "id": "misc_118188",
@@ -2387,9 +2387,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "雁行之陣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Ngan Hanh",
+    "abbrev": "Tran Ngan Hanh",
+    "status": "done"
   },
   {
     "id": "misc_118260",
@@ -2400,9 +2400,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "休息治療",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nghi ngoi tri lieu",
+    "abbrev": "Nghi ngoi tri lieu",
+    "status": "done"
   },
   {
     "id": "misc_1182A8",
@@ -2413,9 +2413,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "激勵士氣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khich le si khi",
+    "abbrev": "Khich le si khi",
+    "status": "done"
   },
   {
     "id": "misc_1182F0",
@@ -2426,9 +2426,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "修復兵器",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Sua chua vu khi",
+    "abbrev": "Sua chua vu khi",
+    "status": "done"
   },
   {
     "id": "misc_118338",
@@ -2439,9 +2439,9 @@
     "raw_bytes": 8,
     "ascii_max": 24,
     "original": "結束命令",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ket thuc lenh",
+    "abbrev": "Ket thuc lenh",
+    "status": "done"
   },
   {
     "id": "misc_119037",
@@ -2452,9 +2452,9 @@
     "raw_bytes": 4,
     "ascii_max": 7,
     "original": "擬瞬",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_1190D5",
@@ -2465,9 +2465,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "祹獡",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_119105",
@@ -2478,9 +2478,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "療昍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_119155",
@@ -2491,9 +2491,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "睩儲",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_11916D",
@@ -2504,9 +2504,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "擬骼",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_11918D",
@@ -2517,9 +2517,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "擬姱",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_1191DD",
@@ -2530,9 +2530,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "昍杴",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_119205",
@@ -2543,9 +2543,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "昍昍忞",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_11921D",
@@ -2556,9 +2556,9 @@
     "raw_bytes": 7,
     "ascii_max": 8,
     "original": "昍忞",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_11926F",
@@ -2569,9 +2569,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "抸忞",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_11927F",
@@ -2582,9 +2582,9 @@
     "raw_bytes": 5,
     "ascii_max": 6,
     "original": "泆儲",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "misc_1192FF",
@@ -2595,8 +2595,8 @@
     "raw_bytes": 5,
     "ascii_max": 8,
     "original": "昍昍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "UNK",
+    "abbrev": "UNK",
+    "status": "done"
   }
 ]

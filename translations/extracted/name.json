@@ -8,9 +8,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "玩蝪",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "name_0FC018",
@@ -21,9 +21,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "拲蝵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "name_0FC028",
@@ -34,9 +34,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "淳于",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thuan Vu",
+    "abbrev": "T.Vu",
+    "status": "done"
   },
   {
     "id": "name_0FC040",
@@ -47,9 +47,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "何許昌",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ha Hu Xuong",
+    "abbrev": "H.Xuon",
+    "status": "done"
   },
   {
     "id": "name_0FC050",
@@ -60,9 +60,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "馬許靖",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tu Kinh",
+    "abbrev": "TuKinh",
+    "status": "done"
   },
   {
     "id": "name_0FC058",
@@ -73,9 +73,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "王許褚",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hu Chu",
+    "abbrev": "Hu Chu",
+    "status": "done"
   },
   {
     "id": "name_0FC078",
@@ -86,9 +86,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "逢紀",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phung Ky",
+    "abbrev": "P.Ky",
+    "status": "done"
   },
   {
     "id": "name_0FC080",
@@ -99,9 +99,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "郭氾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quach Phien",
+    "abbrev": "Q.Ph",
+    "status": "done"
   },
   {
     "id": "name_0FC098",
@@ -112,9 +112,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "郭淮",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quach Hoai",
+    "abbrev": "Q.Ho",
+    "status": "done"
   },
   {
     "id": "name_0FC0A0",
@@ -125,9 +125,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "郭嘉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Quach Gia",
+    "abbrev": "Gia",
+    "status": "done"
   },
   {
     "id": "name_0FC0C8",
@@ -138,9 +138,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "捖祖",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "name_0FC0F0",
@@ -151,9 +151,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "何陳就",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Cuu",
+    "abbrev": "T.Cuu",
+    "status": "done"
   },
   {
     "id": "name_0FC100",
@@ -164,9 +164,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "馬陳登",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Dang",
+    "abbrev": "T.Dang",
+    "status": "done"
   },
   {
     "id": "name_0FC108",
@@ -177,9 +177,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "王陳群",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Quan",
+    "abbrev": "T.Quan",
+    "status": "done"
   },
   {
     "id": "name_0FC128",
@@ -190,9 +190,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "陳矯",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Kieu",
+    "abbrev": "T.Ki",
+    "status": "done"
   },
   {
     "id": "name_0FC130",
@@ -203,9 +203,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "陳蘭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Lan",
+    "abbrev": "T.La",
+    "status": "done"
   },
   {
     "id": "name_0FC148",
@@ -216,9 +216,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "陳騫",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tran Kien",
+    "abbrev": "T.Ke",
+    "status": "done"
   },
   {
     "id": "name_0FC150",
@@ -229,9 +229,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "陸抗",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luc Kang",
+    "abbrev": "L.Ka",
+    "status": "done"
   },
   {
     "id": "name_0FC178",
@@ -242,9 +242,9 @@
     "raw_bytes": 4,
     "ascii_max": 4,
     "original": "捖聾",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "[loi extract]",
+    "abbrev": "UNK",
+    "status": "done"
   },
   {
     "id": "name_0FC1A0",
@@ -255,9 +255,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "何傅僉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Pho Dam",
+    "abbrev": "P.Dam",
+    "status": "done"
   },
   {
     "id": "name_0FC1B0",
@@ -268,9 +268,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "馬華歆",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoa Tan",
+    "abbrev": "H.Tan",
+    "status": "done"
   },
   {
     "id": "name_0FC1B8",
@@ -281,9 +281,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "王華覈",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoa Giac",
+    "abbrev": "H.Gia",
+    "status": "done"
   },
   {
     "id": "name_0FC1D8",
@@ -294,9 +294,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "洞主",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong chu",
+    "abbrev": "D.chu",
+    "status": "done"
   },
   {
     "id": "name_0FC1E0",
@@ -307,9 +307,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "牽弘",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Kham Hung",
+    "abbrev": "K.Hu",
+    "status": "done"
   },
   {
     "id": "name_0FC1F8",
@@ -320,9 +320,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "焦炳",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tiep Binh",
+    "abbrev": "T.Bi",
+    "status": "done"
   },
   {
     "id": "name_0FC200",
@@ -333,9 +333,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "程遠志",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trinh Vien Chi",
+    "abbrev": "T.VChi",
+    "status": "done"
   },
   {
     "id": "name_0FC250",
@@ -346,9 +346,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "費禕",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phi Y",
+    "abbrev": "Phi Y",
+    "status": "done"
   },
   {
     "id": "name_0FC260",
@@ -359,9 +359,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "黃忠",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoang Trung",
+    "abbrev": "H.Tru",
+    "status": "done"
   },
   {
     "id": "name_0FC268",
@@ -372,9 +372,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "黃祖",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoang To",
+    "abbrev": "H.To",
+    "status": "done"
   },
   {
     "id": "name_0FC288",
@@ -385,9 +385,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "黃皓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoang Hao",
+    "abbrev": "H.Hao",
+    "status": "done"
   },
   {
     "id": "name_0FC290",
@@ -398,9 +398,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "黃劭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Hoang Thieu",
+    "abbrev": "H.Thi",
+    "status": "done"
   },
   {
     "id": "name_0FC2A8",
@@ -411,9 +411,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "馮習",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Phung Tap",
+    "abbrev": "P.Ta",
+    "status": "done"
   },
   {
     "id": "name_0FC2D0",
@@ -424,9 +424,9 @@
     "raw_bytes": 8,
     "ascii_max": 9,
     "original": "雅丹丞相",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Nha Dan thua tuong",
+    "abbrev": "Yadan PM",
+    "status": "done"
   },
   {
     "id": "name_0FC2D8",
@@ -437,9 +437,9 @@
     "raw_bytes": 6,
     "ascii_max": 6,
     "original": "普越吉",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Pho Viet Cat",
+    "abbrev": "P.VCat",
+    "status": "done"
   },
   {
     "id": "name_0FC300",
@@ -450,9 +450,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "楊松",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duong Tong",
+    "abbrev": "D.To",
+    "status": "done"
   },
   {
     "id": "name_0FC310",
@@ -463,9 +463,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "楊柏",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duong Bach",
+    "abbrev": "D.Ba",
+    "status": "done"
   },
   {
     "id": "name_0FC318",
@@ -476,9 +476,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "楊洪",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duong Hung",
+    "abbrev": "D.Hu",
+    "status": "done"
   },
   {
     "id": "name_0FC338",
@@ -489,9 +489,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "楊密",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duong Mat",
+    "abbrev": "D.Ma",
+    "status": "done"
   },
   {
     "id": "name_0FC340",
@@ -502,9 +502,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "楊彪",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duong Bieu",
+    "abbrev": "D.Bi",
+    "status": "done"
   },
   {
     "id": "name_0FC358",
@@ -515,9 +515,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "楊醜",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duong Xau",
+    "abbrev": "D.Xa",
+    "status": "done"
   },
   {
     "id": "name_0FC370",
@@ -528,9 +528,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "楊大將",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duong dai tuong",
+    "abbrev": "D.DTu",
+    "status": "done"
   },
   {
     "id": "name_0FC388",
@@ -541,9 +541,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "楊欣",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Duong Han",
+    "abbrev": "D.Ha",
+    "status": "done"
   },
   {
     "id": "name_0FC3B0",
@@ -554,9 +554,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "董昭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong Chieu",
+    "abbrev": "D.Ch",
+    "status": "done"
   },
   {
     "id": "name_0FC3C0",
@@ -567,9 +567,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "董璜",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong Hoang",
+    "abbrev": "D.Ho",
+    "status": "done"
   },
   {
     "id": "name_0FC3C8",
@@ -580,9 +580,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "董衡",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong Hang",
+    "abbrev": "D.Ha",
+    "status": "done"
   },
   {
     "id": "name_0FC3E8",
@@ -593,9 +593,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "董禧",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong Hi",
+    "abbrev": "D.Hi",
+    "status": "done"
   },
   {
     "id": "name_0FC3F0",
@@ -606,9 +606,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "董厥",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Dong Quyet",
+    "abbrev": "D.Qu",
+    "status": "done"
   },
   {
     "id": "name_0FC408",
@@ -619,9 +619,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "賈逵",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gia Khoi",
+    "abbrev": "G.Kh",
+    "status": "done"
   },
   {
     "id": "name_0FC420",
@@ -632,9 +632,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "賈充",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gia Sung",
+    "abbrev": "G.Su",
+    "status": "done"
   },
   {
     "id": "name_0FC438",
@@ -645,9 +645,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "雍闓",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Ung Khai",
+    "abbrev": "U.Kh",
+    "status": "done"
   },
   {
     "id": "name_0FC470",
@@ -658,9 +658,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "葛雍",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Cat Ung",
+    "abbrev": "C.Un",
+    "status": "done"
   },
   {
     "id": "name_0FC478",
@@ -671,9 +671,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "廖化",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lieu Hoa",
+    "abbrev": "L.Ho",
+    "status": "done"
   },
   {
     "id": "name_0FC498",
@@ -684,9 +684,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "趙岑",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trieu Sam",
+    "abbrev": "T.Sa",
+    "status": "done"
   },
   {
     "id": "name_0FC4A0",
@@ -697,9 +697,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "趙昂",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trieu Ngoang",
+    "abbrev": "T.Ng",
+    "status": "done"
   },
   {
     "id": "name_0FC4B8",
@@ -710,9 +710,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "趙雲",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trieu Van",
+    "abbrev": "T.Van",
+    "status": "done"
   },
   {
     "id": "name_0FC4D0",
@@ -723,9 +723,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "趙衢",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trieu Khu",
+    "abbrev": "T.Kh",
+    "status": "done"
   },
   {
     "id": "name_0FC4E8",
@@ -736,9 +736,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "趙弘",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trieu Hung",
+    "abbrev": "T.Hi",
+    "status": "done"
   },
   {
     "id": "name_0FC520",
@@ -749,9 +749,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "劉永",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Vinh",
+    "abbrev": "L.Vi",
+    "status": "done"
   },
   {
     "id": "name_0FC528",
@@ -762,9 +762,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "劉先",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Tien",
+    "abbrev": "L.Ti",
+    "status": "done"
   },
   {
     "id": "name_0FC548",
@@ -775,9 +775,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "劉封",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Phong",
+    "abbrev": "L.Ph",
+    "status": "done"
   },
   {
     "id": "name_0FC550",
@@ -788,9 +788,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "劉度",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Do",
+    "abbrev": "L.Do",
+    "status": "done"
   },
   {
     "id": "name_0FC568",
@@ -801,9 +801,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "劉理",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Ly",
+    "abbrev": "L.Ly",
+    "status": "done"
   },
   {
     "id": "name_0FC580",
@@ -814,9 +814,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "劉琦",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Ky",
+    "abbrev": "L.Ky",
+    "status": "done"
   },
   {
     "id": "name_0FC598",
@@ -827,9 +827,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "劉磐",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Ban",
+    "abbrev": "L.Ba",
+    "status": "done"
   },
   {
     "id": "name_0FC5D0",
@@ -840,9 +840,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "劉晙",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Tuan",
+    "abbrev": "L.Tu",
+    "status": "done"
   },
   {
     "id": "name_0FC5D8",
@@ -853,9 +853,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "劉琮",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Tong",
+    "abbrev": "L.To",
+    "status": "done"
   },
   {
     "id": "name_0FC5F8",
@@ -866,9 +866,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "劉琰",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Dam",
+    "abbrev": "L.Da",
+    "status": "done"
   },
   {
     "id": "name_0FC600",
@@ -879,9 +879,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "劉劭",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Luu Thieu",
+    "abbrev": "L.Th",
+    "status": "done"
   },
   {
     "id": "name_0FC618",
@@ -892,9 +892,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "蒯良",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Khoai Luong",
+    "abbrev": "K.Lu",
+    "status": "done"
   },
   {
     "id": "name_0FC630",
@@ -905,9 +905,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "種輯",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Chung Tap",
+    "abbrev": "C.Ta",
+    "status": "done"
   },
   {
     "id": "name_0FC638",
@@ -918,9 +918,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "裴元紹",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Boi Nguyen Thieu",
+    "abbrev": "B.NTh",
+    "status": "done"
   },
   {
     "id": "name_0FC648",
@@ -931,9 +931,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "翟元",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Trach Nguyen",
+    "abbrev": "T.Ng",
+    "status": "done"
   },
   {
     "id": "name_0FC680",
@@ -944,9 +944,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "樂進",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lac Tan",
+    "abbrev": "L.Ta",
+    "status": "done"
   },
   {
     "id": "name_0FC688",
@@ -957,9 +957,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "樂綝",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Lac Lam",
+    "abbrev": "L.La",
+    "status": "done"
   },
   {
     "id": "name_0FC6A8",
@@ -970,9 +970,9 @@
     "raw_bytes": 4,
     "ascii_max": 8,
     "original": "蔣奇",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong Ky",
+    "abbrev": "T.Ky",
+    "status": "done"
   },
   {
     "id": "name_0FC6B0",
@@ -983,9 +983,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "蔣欽",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong Kham",
+    "abbrev": "T.Kh",
+    "status": "done"
   },
   {
     "id": "name_0FC6C8",
@@ -996,9 +996,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "蔣幹",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Tuong Can",
+    "abbrev": "T.Ca",
+    "status": "done"
   },
   {
     "id": "name_0FC6E0",
@@ -1009,9 +1009,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "蔡中",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thai Trung",
+    "abbrev": "T.Tr",
+    "status": "done"
   },
   {
     "id": "name_0FC6F8",
@@ -1022,9 +1022,9 @@
     "raw_bytes": 4,
     "ascii_max": 5,
     "original": "蔡陽",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Thai Duong",
+    "abbrev": "T.Du",
+    "status": "done"
   },
   {
     "id": "name_0FC750",
@@ -1035,9 +1035,9 @@
     "raw_bytes": 6,
     "ascii_max": 7,
     "original": "諸葛尚",
-    "translated": "",
-    "abbrev": "",
-    "status": "pending"
+    "translated": "Gia Cat Thuong",
+    "abbrev": "G.CTh",
+    "status": "done"
   },
   {
     "id": "name_0FC758",

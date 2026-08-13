@@ -39,7 +39,11 @@ if exist "%GAME_DIR%\FONT16-VN.PAT" copy /Y "%GAME_DIR%\FONT16-VN.PAT" "%GAME_DI
 if exist "%GAME_DIR%\FONT24-VN.PAT" copy /Y "%GAME_DIR%\FONT24-VN.PAT" "%GAME_DIR%\FONT24.PAT"
 
 echo.
+echo [5/5] Cai launcher SAN2-VN...
+call "%REPO%\scripts\install_vn_launcher.bat"
+
+echo.
 echo === Xong ===
-echo Chay: scripts\test_dosbox.bat
-echo Hoac: Play Sango2.bat ^(sua tro sang SAN2-VN.EXE^)
+echo Choi game: D:\Game\Sango2\Play Sango2 VN.bat
+echo Hoac: scripts\test_dosbox.bat
 endlocal

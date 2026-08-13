@@ -68,3 +68,16 @@ python tools/extract_san2.py "D:/Game/Sango2/Installed/SANGO2/SAN2.EXE" -o trans
 ```
 
 Game cai dat (local, khong commit): `D:\Game\Sango2\Installed\SANGO2`
+
+## Duong dan (Windows local)
+
+| Muc | Duong dan |
+|-----|-----------|
+| Game (EXE, font) | `D:\Game\Sango2\Installed\SANGO2\` |
+| SAN2.EXE | `D:\Game\Sango2\Installed\SANGO2\SAN2.EXE` |
+| Repo (clone git) | `D:\Game\Sango2\sango2\` (hoac noi ban clone) |
+| Choi game | `D:\Game\Sango2\Play Sango2.bat` |
+
+Mau cau hinh: `config/paths.env.example` → copy thanh `config/paths.env`
+
+**Luu y Cloud Agent:** chay tren Linux, **khong doc duoc o D:\\** tren may ban. Build/test chi chay tren Windows local.

@@ -5,7 +5,7 @@
 - [x] Tool trich xuat text (`tools/extract_san2.py`)
 - [x] Scaffold repo + AGENTS.md + HUONG-DAN-VIET-TAT
 - [x] Tool ho tro dich (`tools/apply_*_translations.py`)
-- [ ] Tool build patch nguoc vao SAN2.EXE (`tools/build_patch.py`)
+- [x] Tool build patch nguoc vao SAN2.EXE (`tools/build_patch.py`) — can EXE local de test
 - [ ] Font Latin: mo rong FONT16.PAT / FONT24.PAT cho a-z
 - [ ] Script test nhanh trong DOSBox
 

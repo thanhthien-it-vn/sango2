@@ -40,7 +40,7 @@ SANGO2-VN/
   AGENTS.md          # Huong dan Cloud Agent
   ROADMAP.md         # Tien do
   docs/              # Bang viet tat
-  tools/             # extract_san2.py, (build_patch.py)
+  tools/             # extract_san2.py, build_patch.py, apply_*_translations.py
   translations/extracted/   # JSON can dich
 ```
 

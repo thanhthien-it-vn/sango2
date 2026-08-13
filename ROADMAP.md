@@ -5,9 +5,11 @@
 - [x] Tool trich xuat text (`tools/extract_san2.py`)
 - [x] Scaffold repo + AGENTS.md + HUONG-DAN-VIET-TAT
 - [x] Tool ho tro dich (`tools/apply_*_translations.py`)
-- [x] Tool build patch nguoc vao SAN2.EXE (`tools/build_patch.py`) — can EXE local de test
-- [ ] Font Latin: mo rong FONT16.PAT / FONT24.PAT cho a-z
-- [ ] Script test nhanh trong DOSBox
+- [x] Tool build patch nguoc vao SAN2.EXE (`tools/build_patch.py`)
+- [x] Tool font Latin (`tools/patch_font_latin.py`) — can test voi FONT*.PAT that
+- [x] Script build/test local (`scripts/build_vn_release.bat`, `test_dosbox.bat`)
+- [ ] Xac nhan layout FONT16.PAT tren ban game that
+- [ ] Test DOSBox / choi full 1 tran
 
 ## Phase 1 - Ten tuong / vat pham (~620 chuoi)
 
@@ -43,12 +45,14 @@
 
 Ghi chu: ~200 entry danh dau UNK do loi extract Big5 — can xem lai khi build patch.
 
-## Buoc tiep theo
+## Buoc tiep theo (local)
 
-1. `build_patch.py` — ghi abbrev vao SAN2.EXE
-2. Font Latin cho a-z
-3. Test trong DOSBox
-4. Sua lai entry UNK neu can
+Xem chi tiet: [docs/HUONG-DAN-LOCAL.md](docs/HUONG-DAN-LOCAL.md)
+
+1. Merge PR #1
+2. `scripts\build_vn_release.bat`
+3. `scripts\test_dosbox.bat`
+4. Sua entry UNK neu can
 
 ## Quy trinh Cursor Cloud
 

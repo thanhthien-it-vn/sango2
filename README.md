@@ -18,7 +18,14 @@ python tools/extract_san2.py -o translations/extracted
 
 Output: `translations/extracted/name.json`, `menu.json`, `bio.json`, `dialogue.json`, ...
 
-## Dich (Cursor Cloud)
+## Build ban VN (local)
+
+Doc [docs/HUONG-DAN-LOCAL.md](docs/HUONG-DAN-LOCAL.md).
+
+```bat
+scripts\build_vn_release.bat
+scripts\test_dosbox.bat
+```
 
 1. Doc `AGENTS.md` va `docs/HUONG-DAN-VIET-TAT.md`
 2. Mo Cloud Agent tu repo nay
